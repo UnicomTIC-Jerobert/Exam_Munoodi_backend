@@ -1,0 +1,58 @@
+### API Test Collection for AL Quiz App
+# Base URL for the local server
+@baseUrl = http://localhost:3001
+
+# -------------------------------------------
+# Endpoint 1: Get Questions by Year
+# -------------------------------------------
+
+### (Success) Get all questions for the year 2018
+GET {{baseUrl}}/questions/year/2018
+
+### (Error) Try to get questions with an invalid year
+GET {{baseUrl}}/questions/year/abc
+
+
+# -------------------------------------------
+# Endpoint 2: Get Questions by Main Topic
+# -------------------------------------------
+
+### (Success) Get all Physics questions on Mechanics
+GET {{baseUrl}}/questions/PHYSICS/MECHANICS
+
+### (Success) Get all Chemistry questions on Organic Chemistry
+GET {{baseUrl}}/questions/CHEMISTRY/ORGANIC_CHEMISTRY
+
+
+# -------------------------------------------
+# Endpoint 3: Get All Topics and Sub-topics
+# -------------------------------------------
+
+### (Success) Get all topics and sub-topics for Physics
+GET {{baseUrl}}/topics/PHYSICS
+
+### (Success) Get all topics and sub-topics for SFT
+GET {{baseUrl}}/topics/SFT
+
+
+# -------------------------------------------
+# Endpoint 4: Get Questions by Complex Filters (Quiz)
+# -------------------------------------------
+
+### (Filter) Get all Physics questions with complexity 4 or higher (Note: GTE not implemented, use equals)
+# This will find questions where complexity is exactly 4
+GET {{baseUrl}}/quiz?subject=PHYSICS&complexity=4
+
+
+### (Filter) Get all SFT questions on a specific sub-topic
+GET {{baseUrl}}/quiz?subject=SFT&mainTopic=INDUSTRIAL_PROCESSES&subTopic=TECHNOLOGY_GENERAL
+
+
+### (Filter) Get all Chemistry questions from 2017
+GET {{baseUrl}}/quiz?subject=CHEMISTRY&year=2017
+
+### (Error) Try to create a quiz without specifying the subject
+GET {{baseUrl}}/quiz?mainTopic=MECHANICS
+
+### (Success) Try to create a quiz without specifying the subject
+GET {{baseUrl}}/quiz?subject=PHYSICS&mainTopic=MECHANICS
