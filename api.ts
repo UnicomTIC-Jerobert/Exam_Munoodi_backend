@@ -1,4 +1,5 @@
 import express from 'express';
+import cors from 'cors';
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import {
   DynamoDBDocumentClient,
@@ -22,6 +23,7 @@ const tableName = "ALMCQTable";
 const app = express();
 const port = 3001;
 
+app.use(cors());
 app.use(express.json());
 
 // --- API Endpoints ---
@@ -167,6 +169,32 @@ app.get('/quiz', async (req, res) => {
   } catch (error) {
     console.error("Error scanning for quiz:", error);
     res.status(500).json({ error: 'Could not fetch quiz data.' });
+  }
+});
+
+
+// Endpoint 5: Get ALL questions (for the admin panel)
+app.get('/questions', async (req, res) => {
+  console.log("Fetching all questions for admin panel...");
+
+  const command = new ScanCommand({
+    TableName: tableName,
+  });
+
+  try {
+    const { Items } = await docClient.send(command);
+    console.log(`Found ${Items?.length || 0} total questions.`);
+    // Sorting them by year and question number for a clean display
+    Items?.sort((a, b) => {
+      if (a.year !== b.year) {
+        return a.year - b.year;
+      }
+      return a.questionNum - b.questionNum;
+    });
+    res.status(200).json(Items || []);
+  } catch (error) {
+    console.error("Error fetching all questions:", error);
+    res.status(500).json({ error: 'Could not fetch data.' });
   }
 });
 
