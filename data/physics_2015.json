@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MODERN_PHYSICS",
+        "year#questionNum": "2015#1",
+        "year": 2015,
+        "questionNum": 1,
+        "subTopic": "QUANTUM_PHYSICS",
+        "complexity": 1,
+        "questionText": "இலத்திரன் வோல்ற்று (eV) என்பது",
+        "options": [
+            "ஏற்றத்தின் அலகு",
+            "அழுத்தத்தின் அலகு",
+            "கொள்ளளவத்தின் அலகு",
+            "சக்தியின் அலகு",
+            "மின்புலச் செறிவின் அலகு"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MEASUREMENT",
+        "year#questionNum": "2015#2",
+        "year": 2015,
+        "questionNum": 2,
+        "subTopic": "MEASUREMENT_INSTRUMENTS",
+        "complexity": 2,
+        "questionText": "சரியாகத் தெரிந்தெடுத்த அளவீட்டு உபகரணங்களைப் பயன்படுத்தி A, B, C என்னும் பின்வரும் அளவீடுகள் எடுக்கப்பட்டுள்ளன. A = 3.1 cm, B = 4.23 cm, C = 0.354 cm. A, B, C ஆகிய அளவீடுகளுக்குப் பயன்படுத்திய உபகரணங்கள்",
+        "options": [
+            "வேணியர் இடுக்கி, மீற்றர் வரைகோல், நுண்மானித் திருகுக் கணிச்சி",
+            "மீற்றர் வரைகோல், வேணியர் இடுக்கி, நுண்மானித் திருகுக் கணிச்சி",
+            "மீற்றர் வரைகோல், நுண்மானித் திருகுக் கணிச்சி, வேணியர் இடுக்கி",
+            "மீற்றர் வரைகோல், வேணியர் இடுக்கி, நகரும் நுணுக்குக்காட்டி",
+            "வேணியர் இடுக்கி, நுண்மானித் திருகுக் கணிச்சி, நகரும் நுணுக்குக்காட்டி"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#3",
+        "year": 2015,
+        "questionNum": 3,
+        "subTopic": "THERMAL_EXPANSION",
+        "complexity": 3,
+        "questionText": "குமிழ்களில் சம இரசக் கனவளவுகளை உடைய A, B என்னும் இரு கண்ணாடியுள் இரச வெப்பமானிகளின் மயிர்த்துளைக் குழாய்களின் ஆரைகள் முறையே r, 3r ஆகும். குமிழ்களின் வெப்பநிலைகள் 1°C இனால் அதிகரிக்கப்படும்போது விகிதம் (A யில் இருக்கும் இரச நிரலின் நீளத்தில் உள்ள மாற்றம் / B யில் இருக்கும் இரச நிரலின் நீளத்தில் உள்ள மாற்றம்) ஆனது அண்ணளவாக",
+        "options": [
+            "1/9",
+            "1/3",
+            "1",
+            "3",
+            "9"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#4",
+        "year": 2015,
+        "questionNum": 4,
+        "subTopic": "SOUND",
+        "complexity": 2,
+        "questionText": "ஒலிச் செறிவு மட்டம் 1 dB இனால் அதிகரித்தால், ஒலிச் செறிவு எக்காரணியினால் அதிகரிக்கும் ?",
+        "options": [
+            "1",
+            "10⁰·¹",
+            "10¹",
+            "10¹⁰",
+            "10¹²"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#5",
+        "year": 2015,
+        "questionNum": 5,
+        "subTopic": "OPTICAL_INSTRUMENTS",
+        "complexity": 3,
+        "questionText": "மூன்று ஒளியியல் உபகரணங்கள் பற்றிச் செய்யப்பட்ட பின்வரும் கூற்றுகளைக் கருதுக. (A) எளிய நுணுக்குக்காட்டி ஒரு தனிக் குவிவு வில்லையைக் கொண்டிருக்கும் அதே வேளை நுணுக்குக்காட்டி இயல்பான செப்பஞ்செய்கையில் தெளிவரைப் பார்வையின் இழிவுத் தூரத்தில் ஒரு மாய விம்பத்தை உண்டாக்குகின்றது. (B) கூட்டு நுணுக்குக்காட்டி இரு குவிவு வில்லைகளைக் கொண்டிருக்கும் அதே வேளை நுணுக்குக்காட்டி இயல்பான செப்பஞ்செய்கையில் முடிவிலியில் ஒரு பெரிதாக்கிய மாய விம்பத்தை உண்டாக்குகின்றது. (C) வானியல் தொலைகாட்டி இரு குவிவு வில்லைகளைக் கொண்டிருக்கும் அதே வேளை நுணுக்குக்காட்டி இயல்பான செப்பஞ்செய்கையில் முடிவிலியில் ஒரு பெரிதாக்கிய மெய் விம்பத்தை உண்டாக்குகின்றது.",
+        "options": [
+            "A மாத்திரம் உண்மையானது.",
+            "A, B ஆகியன மாத்திரம் உண்மையானவை.",
+            "A, C ஆகியன மாத்திரம் உண்மையானவை.",
+            "B, C ஆகியன மாத்திரம் உண்மையானவை.",
+            "A, B, C ஆகிய எல்லாம் உண்மையானவை."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "PROPERTIES_OF_MATTER",
+        "year#questionNum": "2015#6",
+        "year": 2015,
+        "questionNum": 6,
+        "subTopic": "FLUID_STATICS",
+        "complexity": 4,
+        "questionText": "அடர்த்தி 1.2 g cm⁻³ ஐ உடைய தக்கைத்துண்டு ஒன்றின் கனவளவில் 25% திணிவு 2.8 g cm⁻³ ஐ உடைய உலோகத்தினால் பதிலிடப்பட்டுள்ளது. அடர்த்தி 1.1 g cm⁻³ ஐ உடைய திரவத்தில் இச்சேர்த்திப் பொருள்",
+        "options": [
+            "முற்றாக அமிழும்.",
+            "பகுதி அமிழ்ந்து மிதக்கும்.",
+            "அடியில் அமிழும்.",
+            "நடுவில் மிதக்கும்.",
+            "விடை அதன் கனவளவிற் தங்கியுள்ளது."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#7",
+        "year": 2015,
+        "questionNum": 7,
+        "subTopic": "CAPACITORS",
+        "complexity": 3,
+        "questionText": "கொள்ளளவம் C யைக் கொண்ட இரு சமாந்தரத் தட்டுக் கொள்ளளவிகள் ஒவ்வொன்றும் V என்னும் அழுத்த வித்தியாசத்திற்கு ஏற்றப்பட்டுள்ளன. பின்னர் அவை கலத்திலிருந்து அகற்றப்பட்டு, ஒன்றுக்கொன்று சமாந்தரமாக நேர் முடிவிடத்துடனும் எதிர் முடிவிடத்துடனும் தொடுக்கப்பட்டுள்ளன. இச்செயன்முறையில் சக்தி இழப்பு",
+        "options": [
+            "CV²/4",
+            "CV²/2",
+            "CV²",
+            "2CV²",
+            "0"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#8",
+        "year": 2015,
+        "questionNum": 8,
+        "subTopic": "ELECTROSTATICS",
+        "complexity": 2,
+        "questionText": "அனைத்தும் ஏற்றம் +q ஐக் கொண்ட ஆறு புள்ளி ஏற்றங்கள் பக்க நீளம் a ஐக் கொண்ட ஓர் ஒழுங்கான அறுகோணியின் உச்சிகளில் வைக்கப்பட்டுள்ளன. அறுகோணியின் மையத்தில் மின் அழுத்தம்",
+        "options": [
+            "6q / (4πε₀a)",
+            "q / (4πε₀a)",
+            "√3q / (4πε₀a)",
+            "6q / (πε₀a)",
+            "0"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#9",
+        "year": 2015,
+        "questionNum": 9,
+        "subTopic": "STATICS",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு இரு சமனான இழுவிசைக் கயிறுகளின் உதவியுடன் ஓர் ஆடம்பர விளக்குக் கூரை உச்சியிலிருந்து நிலைக்குத்தாகத் தொங்கவிடப்பட்டுள்ளது. விளக்கின் திணிவு 2 kg உம் ஒவ்வொரு கயிற்றினதும் திணிவு 1 kg உம் ஆகும். ஒவ்வொரு கயிற்றிலும் உள்ள இழுவை யாது?",
+        "options": [
+            "20 N",
+            "25 N",
+            "40 N",
+            "20√3 N",
+            "40/√3 N"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#10",
+        "year": 2015,
+        "questionNum": 10,
+        "subTopic": "SOUND",
+        "complexity": 4,
+        "questionText": "மீடிறன் 660 Hz ஐக் கொண்ட ஓர் ஒலி முதலுடன் ஒப்பிடும்போது ஓய்விலுள்ள ஒரு நோக்குநருக்குக் கேட்கும் அடிப்புகளின் எண்ணிக்கை யாது? அம்முதல் செங்குத்தாகவுள்ள ஒரு சுவரிலிருந்து 10 m தூரத்தில் இருப்பதுடன் சுவரை நோக்கி 2 ms⁻¹ வேகத்துடனும் செல்கின்றது (வளியில் ஒலியின் வேகம் 330 ms⁻¹ ஆகும்.)",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "0"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#11",
+        "year": 2015,
+        "questionNum": 11,
+        "subTopic": "ROTATIONAL_DYNAMICS",
+        "complexity": 4,
+        "questionText": "ஒரே வெளி ஆரையையும் ஒரே திணிவையும் கொண்ட ஒரு திண்மக் கோளம், ஒரு பொட் கோளம், ஒரு திண்ம உருளை, ஒரு பொட் உருளை, ஒரு வளையம் என்பன ஒரே நேரத்தில் ஓர் உயரமான சாய்தளத்தின் உச்சியிலிருந்து உருள விடப்படுகின்றன. சறுக்காமல் உருளும்போது தரையை முதலில் அடைவது",
+        "options": [
+            "திண்மக் கோளம்",
+            "பொட் கோளம்",
+            "திண்ம உருளை",
+            "பொட் உருளை",
+            "வளையம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#12",
+        "year": 2015,
+        "questionNum": 12,
+        "subTopic": "ELECTRONICS",
+        "complexity": 1,
+        "questionText": "பின்வரும் எந்தத் தர்க்கப் படலையின் மெய்நிலை அட்டவணை கீழே தரப்பட்டுள்ளது? A, B பெய்ப்புகளும் F பயப்பும் ஆகும். A=0, B=0, F=1; A=0, B=1, F=1; A=1, B=0, F=1; A=1, B=1, F=0.",
+        "options": [
+            "NAND",
+            "NOR",
+            "AND",
+            "OR",
+            "NOT"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#13",
+        "year": 2015,
+        "questionNum": 13,
+        "subTopic": "CAPACITORS",
+        "complexity": 4,
+        "questionText": "உருவில் காணப்படுகின்ற முடிவிலி ஏணியில் ஒவ்வொரு கொள்ளளவியினதும் கொள்ளளவம் C ஆகும். A, B புள்ளிகளுக்குக் குறுக்கே உள்ள சமவலு கொள்ளளவம்",
+        "options": [
+            "(√3-1)C / 2",
+            "(√5-1)C / 2",
+            "(√5+1)C / 2",
+            "2C",
+            "முடிவிலி"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#14",
+        "year": 2015,
+        "questionNum": 14,
+        "subTopic": "ELECTROMAGNETIC_WAVES",
+        "complexity": 2,
+        "questionText": "மின்காந்த அலைகள் பற்றிய பின்வரும் கூற்றுகளில் எது உண்மையானது?",
+        "options": [
+            "அவை நெட்டாங்கு அலைகளாகும்.",
+            "அவை பரவுவதற்கு ஓர் ஊடகம் தேவை.",
+            "அவை குறுக்கு அலைகளாகும்.",
+            "அவை முனைவாக்கமடைய மாட்டா.",
+            "அவை வெற்றிடத்தினூடாகப் பயணிக்க மாட்டா."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#15",
+        "year": 2015,
+        "questionNum": 15,
+        "subTopic": "GEOMETRICAL_OPTICS",
+        "complexity": 1,
+        "questionText": "உருவில் காணப்படுகின்றவாறு ஒரு தளவாடி முன்னால் ஒரு பென்சில் வைக்கப்பட்டுள்ளது. பென்சிலின் சரியான விம்பம்",
+        "options": [
+            "Figure (1)",
+            "Figure (2)",
+            "Figure (3)",
+            "Figure (4)",
+            "Figure (5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#16",
+        "year": 2015,
+        "questionNum": 16,
+        "subTopic": "ELECTRONICS",
+        "complexity": 2,
+        "questionText": "திரான்சிற்றரைத் தகுந்தவாறு தொழிற்படுத்தி ஒரு பொருத்தமான ஓட்டத்தைப் பெறுவதற்குக் காட்டப்பட்டுள்ள சந்திகளுக்குக் குறுக்கே பிரயோகிக்கப்பட வேண்டிய அழுத்த வித்தியாசத்தின் முனைவுத்தன்மைகளைக் காட்டப்பட்டுள்ள எந்த உரு/உருக்கள் சரியாகக் காட்டுகின்றது/காட்டுகின்றன ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#17",
+        "year": 2015,
+        "questionNum": 17,
+        "subTopic": "OSCILLATIONS",
+        "complexity": 2,
+        "questionText": "எளிய இசை இயக்கத்தை ஆற்றும் ஒரு துணிக்கையின் வேகம் v நேரம் t உடன் மாறும் விதம் உருவில் காணப்படுகின்றது. இடப்பெயர்ச்சி x நேரம் t உடன் மாறும் விதத்தை மிகச் சிறந்த விதத்தில் வகைகுறிப்பது",
+        "options": [
+            "Graph (1)",
+            "Graph (2)",
+            "Graph (3)",
+            "Graph (4)",
+            "Graph (5)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#18",
+        "year": 2015,
+        "questionNum": 18,
+        "subTopic": "CURRENT_ELECTRICITY",
+        "complexity": 2,
+        "questionText": "அழுத்தமானி பயன்படுத்தப்படாதிருப்பது",
+        "options": [
+            "தடைகளை ஒப்பிடுவதற்கு ஆகும்.",
+            "மாறும் வோல்ற்றளவுகளை அளப்பதற்கு ஆகும்.",
+            "மி.இ.வி. களை ஒப்பிடுவதற்கு ஆகும்.",
+            "ஒரு கலத்தின் அகத் தடையை அளப்பதற்கு ஆகும்.",
+            "மிகச் சிறிய மி.இ.வி.களை அளப்பதற்கு ஆகும்."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#19",
+        "year": 2015,
+        "questionNum": 19,
+        "subTopic": "HEAT_TRANSFER",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு ஒரே குறுக்குவெட்டுப் பரப்பளவையும் ஒரே நீளத்தையும் உடைய இரு கோல்கள் A, B ஒருமுனைக்கு ஒருமுனை தொடுக்கப்பட்டுள்ளன. A யினதும் B யினதும் வெப்பக் கடத்தாறுகள் முறையே k, 2k ஆகும். கோல்களின் சுயாதீன முனைகள் மாறா வெப்பநிலை 100 °C, 0 °C களில் பேணப்படுகின்றன. உறுதி நிலையில் சந்தியின் வெப்பநிலை",
+        "options": [
+            "33.3 °C",
+            "40.0 °C",
+            "50.0 °C",
+            "60.0 °C",
+            "66.7 °C"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#20",
+        "year": 2015,
+        "questionNum": 20,
+        "subTopic": "PHYSICAL_OPTICS",
+        "complexity": 2,
+        "questionText": "யங்கின் இரட்டைப் பிளவிகளுடனான பரிசோதனையொன்றில் இருண்டு பட்டி ஒன்றிற்கான பாதை வித்தியாசம்",
+        "options": [
+            "nλ",
+            "nλ/2",
+            "(n+1)λ",
+            "(n+1/2)λ",
+            "(2n+1)λ"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#21",
+        "year": 2015,
+        "questionNum": 21,
+        "subTopic": "ELECTROSTATICS",
+        "complexity": 1,
+        "questionText": "மின்புலக் கோடுகளுக்கும் சமவழுத்தப் பரப்புகளுக்குமிடையே உள்ள கோணம்",
+        "options": [
+            "90°",
+            "0°",
+            "45°",
+            "180°",
+            "எப்பெறுமானத்தையும் எடுக்கலாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#22",
+        "year": 2015,
+        "questionNum": 22,
+        "subTopic": "CURRENT_ELECTRICITY",
+        "complexity": 1,
+        "questionText": "தடைகளைச் சமாந்தரமாகத் தொடுப்பதன் மூலம் சமவலுத் தடை",
+        "options": [
+            "தனிப்பட்ட தடைகளின் கூட்டுத்தொகைக்குச் சமனாகும்.",
+            "தனிப்பட்ட தடைகளின் சராசரிக்குச் சமனாகும்.",
+            "தனிப்பட்ட தடைகளின் நிகர்மாற்றுகளின் கூட்டுத்தொகைக்குச் சமனாகும்.",
+            "மாறிலியாக இருக்கும்.",
+            "தனிப்பட்ட தடைகள் ஒவ்வொன்றிலும் பார்க்கச் சிறிதாகும்."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#23",
+        "year": 2015,
+        "questionNum": 23,
+        "subTopic": "GRAVITATION",
+        "complexity": 2,
+        "questionText": "நிலைமின்விசைக்கும் புவியீர்ப்பு விசைக்குமிடையே உள்ள ஒரு முக்கிய வேறுபாடு யாதெனின், புவியீர்ப்பு விசை",
+        "options": [
+            "எப்போதும் கவரும் விசையாகும்.",
+            "எப்போதும் தள்ளும் விசையாகும்.",
+            "கவரும் விசையாகவோ அல்லது தள்ளும் விசையாகவோ இருக்கலாம்.",
+            "நிலைமின்விசையிலும் பார்க்க வலிமையானது.",
+            "நிறைவேறுவதற்கு ஓர் ஊடகம் தேவை."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#24",
+        "year": 2015,
+        "questionNum": 24,
+        "subTopic": "KINEMATICS",
+        "complexity": 3,
+        "questionText": "ஒரு சிறிய கல் நிலைக்குத்தாக மேல்நோக்கி எறியப்படுகின்றது. அதன் பாதை மீதுள்ள குறித்த ஒரு புள்ளி P ஐக் கடந்து செல்வதற்கு அதற்கு 2 s எடுக்கின்றது. புள்ளி P ஆனது கல் அடையும் உயர்ந்தபட்ச உயரத்திலிருந்து 10 m கீழே உள்ளது. உயர்ந்தபட்ச உயரம் யாது?",
+        "options": [
+            "10 m",
+            "15 m",
+            "20 m",
+            "25 m",
+            "30 m"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#25",
+        "year": 2015,
+        "questionNum": 25,
+        "subTopic": "THERMODYNAMICS",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு ஓர் இலட்சிய வாயு ஒரு சக்கரச் செயன்முறைக்கு உட்படுகின்றது. வாயுவின் உட்சக்தியில் மிகப் பெரிய அதிகரிப்பைத் தரும் செயன்முறையின் பகுதி",
+        "options": [
+            "A → B",
+            "B → C",
+            "C → D",
+            "D → A",
+            "A → B → C"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#26",
+        "year": 2015,
+        "questionNum": 26,
+        "subTopic": "PROPERTIES_OF_GASES",
+        "complexity": 2,
+        "questionText": "ஓர் இலட்சிய வாயுவின் ஒரு நிலைத்த திணிவு P-V வரிப்படத்தில் காணப்படுகின்றவாறு ஒரு சக்கரச் செயன்முறைக்கு உட்படுகின்றது. A, B, C, D, E ஆகிய புள்ளிகளின் வெப்பநிலைகள் முறையே Tₐ, Tₑ, Tₑ, Tₐ, Tₑ எனின்,",
+        "options": [
+            "Tₐ > Tₑ > Tₑ > Tₐ > Tₑ",
+            "Tₐ = Tₑ > Tₑ < Tₐ = Tₑ",
+            "Tₑ = Tₐ > Tₑ > Tₑ = Tₐ",
+            "Tₐ = Tₑ > Tₑ > Tₐ = Tₑ",
+            "Tₐ = Tₑ > Tₑ > Tₐ > Tₑ"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#27",
+        "year": 2015,
+        "questionNum": 27,
+        "subTopic": "CIRCULAR_MOTION",
+        "complexity": 3,
+        "questionText": "சுட்டி ஒன்றின் முனையுடன் இணைக்கப்பட்ட ஒரு கல் ஒரு கிடை வட்டத்தில் சுழற்றப்படுகின்றது. சுழற்சியின்போது சுட்டி அறுந்து விடுகின்றது. கல் எத்திசையில் செல்லும்?",
+        "options": [
+            "வட்டத்தின் மையத்தை நோக்கி",
+            "வட்டத்தின் மையத்திலிருந்து அப்பால்",
+            "வட்டத்திற்கு ஒரு தொடலி வழியே",
+            "கீழ்நோக்கி",
+            "மேல்நோக்கி"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MODERN_PHYSICS",
+        "year#questionNum": "2015#28",
+        "year": 2015,
+        "questionNum": 28,
+        "subTopic": "NUCLEAR_PHYSICS",
+        "complexity": 2,
+        "questionText": "ஒரு பிளவுத் தாக்கத்தில் திணிவு Δm வலுவாக மாற்றப்படுகின்றது. வெற்றிடத்தில் ஒளியின் வேகம் c எனின், விடுவிக்கப்படும் வலுவின் அளவு",
+        "options": [
+            "mc²",
+            "mΔc²",
+            "c²Δm",
+            "cΔm",
+            "m/c²"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MODERN_PHYSICS",
+        "year#questionNum": "2015#29",
+        "year": 2015,
+        "questionNum": 29,
+        "subTopic": "QUANTUM_PHYSICS",
+        "complexity": 2,
+        "questionText": "டி புறொக்கி அலைநீளம் λ வேகம் v உடன் மாறும் விதம்",
+        "options": [
+            "λ ∝ v",
+            "λ ∝ v²",
+            "λ மாறிலியாகும்",
+            "λ ∝ 1/v",
+            "λ ∝ 1/v²"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#30",
+        "year": 2015,
+        "questionNum": 30,
+        "subTopic": "ELECTRONICS",
+        "complexity": 2,
+        "questionText": "ஒரு npn திரான்சிற்றர் ஓர் ஆளியாகத் தொழிற்படும்போது அது மூடிய நிலையில் இருப்பது",
+        "options": [
+            "நிரம்பல் பிரதேசத்தில் ஆகும்.",
+            "செயற்பாட்டுப் பிரதேசத்தில் ஆகும்.",
+            "துண்டிப்புப் பிரதேசத்தில் ஆகும்.",
+            "செயற்பாட்டுப் பிரதேசத்திலும் நிரம்பல் பிரதேசத்திலும் ஆகும்.",
+            "செயற்பாட்டுப் பிரதேசத்திலும் துண்டிப்புப் பிரதேசத்திலும் ஆகும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#31",
+        "year": 2015,
+        "questionNum": 31,
+        "subTopic": "ELECTROMAGNETISM",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு கடத்தும் தடம் ஒன்று பாய அடர்த்தி B ஐக் கொண்ட ஒரு சீரான காந்தப் புலத்திற்குச் செங்குத்தாக வைக்கப்பட்டுள்ளது. தடத்தில் ஓட்டம் I பாயும்போது அதன் மீதுள்ள விசை",
+        "options": [
+            "பூச்சியமாகும்",
+            "BI(a+b)",
+            "BI(a-b)",
+            "BI(a²+b²)",
+            "BI√(a²+b²)"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#32",
+        "year": 2015,
+        "questionNum": 32,
+        "subTopic": "DYNAMICS",
+        "complexity": 2,
+        "questionText": "பின்வரும் மோதல்களில் எது பூரண மீள்தன்மையற்ற மோதலுக்கு ஓர் உதாரணமாகும்?",
+        "options": [
+            "இரு பில்லியார்ட் பந்துகளுக்கிடையேயான மோதுகை",
+            "ஒரு சுவரில் ஒரு பந்தின் பின்னடித்தல்",
+            "ஒரு துப்பாக்கிக் குண்டினால் ஒரு மரக்கட்டை துளைக்கப்படுதல்",
+            "ஒரு வாயுப் பாத்திரத்தில் வாயு மூலக்கூறுகளுக்கிடையேயான மோதுகை",
+            "ஒரு கடினமான தரையில் ஒரு கோல்வ் பந்தின் பின்னடித்தல்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#33",
+        "year": 2015,
+        "questionNum": 33,
+        "subTopic": "CIRCULAR_MOTION",
+        "complexity": 3,
+        "questionText": "ஒரு சுழலும் சுழல்மேசையின் மீதுள்ள ஒரு காசு சுழல்மேசை தொடர்பாக ஓய்வில் இருக்கின்றது. காசின் மீது தொழிற்படும் விசை/விசைகள்",
+        "options": [
+            "நிலை உராய்வு விசை மாத்திரம்",
+            "மைய நோக்கு விசை மாத்திரம்",
+            "நிலை உராய்வு விசையும் மைய நோக்கு விசையும்",
+            "காசின் நிறையும் மைய நோக்கு விசையும்",
+            "காசின் நிறையும் நிலை உராய்வு விசையும் செவ்வன் மறுதாக்கமும்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#34",
+        "year": 2015,
+        "questionNum": 34,
+        "subTopic": "GEOMETRICAL_OPTICS",
+        "complexity": 2,
+        "questionText": "சமபக்க அரியம் ஒன்றினூடாகச் செல்லும் ஒருநிற ஒளிக்கதிர் ஒன்று இழிவு விலகலுக்கு உட்படும்போது",
+        "options": [
+            "படுகை கோணம் முறிவு கோணத்திற்குச் சமனாகும்.",
+            "வெளியேறு கோணம் 90° ஆகும்.",
+            "வெளியேறு கோணம் படுகை கோணத்திற்குச் சமனாகும்.",
+            "வெளியேறு கோணம் விலகல் கோணத்திற்குச் சமனாகும்.",
+            "விலகல் கோணம் 90° ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#35",
+        "year": 2015,
+        "questionNum": 35,
+        "subTopic": "ELECTROSTATICS",
+        "complexity": 3,
+        "questionText": "பருமன் q ஐக் கொண்ட புள்ளி ஏற்றம் ஒன்று பருமன் q ஐக் கொண்ட வேறோர் ஏற்றத்திலிருந்து தூரம் r இல் வைக்கப்பட்டுள்ளது. ஒரு புள்ளி ஏற்றத்தின் மீதுள்ள விசை F ஆகும். இப்போது பருமன் -q ஐக் கொண்ட புள்ளி ஏற்றம் ஒன்று அவற்றின் நடுப்புள்ளியில் வைக்கப்பட்டுள்ளது. ஏற்றம் +q இன் ஒன்றின் மீதுள்ள தேறிய விசை",
+        "options": [
+            "3F",
+            "5F",
+            "7F",
+            "9F",
+            "பூச்சியம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#36",
+        "year": 2015,
+        "questionNum": 36,
+        "subTopic": "SOUND",
+        "complexity": 2,
+        "questionText": "ஒலி ஒன்றின் உரப்பு அதனது எவ்வியல்பில் தங்கியுள்ளது?",
+        "options": [
+            "வேகம்",
+            "வீச்சம்",
+            "மீடிறன்",
+            "அலைநீளம்",
+            "செறிவு"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#37",
+        "year": 2015,
+        "questionNum": 37,
+        "subTopic": "ELECTRONICS",
+        "complexity": 3,
+        "questionText": "சுற்று ஒன்றில் ஒரு NOR படலையின் இரு பெய்ப்புகளும் ஒன்றாக இணைக்கப்பட்டுள்ளன. இச்சேர்மானம் எப்படலைக்குச் சமவலுவானது?",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR",
+            "NOT"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#38",
+        "year": 2015,
+        "questionNum": 38,
+        "subTopic": "DYNAMICS",
+        "complexity": 4,
+        "questionText": "உருவில் காணப்படுகின்றவாறு ஒரு சாய்தளத்தில் ஒரு பொருள் வைக்கப்பட்டுள்ளது. பொருளுக்கும் சாய்தளத்திற்குமிடையே உராய்வு உள்ளது. பொருளுக்கும் சாய்தளத்திற்குமிடையே உள்ள செவ்வன் மறுதாக்கம் R உம் உராய்வு விசை f உம் ஆகும். பொருளின் மீதுள்ள தேறிய விசை",
+        "options": [
+            "Vector (1)",
+            "Vector (2)",
+            "Vector (3)",
+            "Vector (4)",
+            "Vector (5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#39",
+        "year": 2015,
+        "questionNum": 39,
+        "subTopic": "STATICS",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு ஒரு திண்மப் பொருள் வைக்கப்பட்டுள்ளது. அது புவியீர்ப்பு மையம் G யில் தாக்கும் அதன் நிறையினால் புள்ளி P பற்றி ஓர் இடஞ்சுழித் திருப்பத்தை உண்டாக்குகின்றது. நாப்பத்தைப் பேணுவதற்குப் புள்ளி P யில் பிரயோகிக்கப்பட வேண்டிய விசை",
+        "options": [
+            "Vector (1)",
+            "Vector (2)",
+            "Vector (3)",
+            "Vector (4)",
+            "Vector (5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#40",
+        "year": 2015,
+        "questionNum": 40,
+        "subTopic": "AC_CIRCUITS",
+        "complexity": 3,
+        "questionText": "ஒரு தூய தூண்டியில் ஒரு மாறா மின்னோட்டம் பாயும்போது",
+        "options": [
+            "வோல்ற்றளவு ஓட்டத்துடன் ஒரே அவத்தையில் இருக்கும்.",
+            "வோல்ற்றளவு ஓட்டத்திற்கு 90° ஆல் முந்தும்.",
+            "வோல்ற்றளவு ஓட்டத்திற்கு 90° ஆல் பிந்தும்.",
+            "தூண்டிக்குக் குறுக்கேயுள்ள வோல்ற்றளவு பூச்சியமாகும்.",
+            "தூண்டியினூடாகவுள்ள ஓட்டம் பூச்சியமாகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#41",
+        "year": 2015,
+        "questionNum": 41,
+        "subTopic": "STANDING_WAVES",
+        "complexity": 2,
+        "questionText": "நீளம் L ஐக் கொண்ட ஒரு மூடிய குழாயின் மூன்றாவது இசைச்சுரத்தின் மீடிறன்",
+        "options": [
+            "5v/4L",
+            "3v/4L",
+            "5v/2L",
+            "3v/2L",
+            "v/4L"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "PROPERTIES_OF_MATTER",
+        "year#questionNum": "2015#42",
+        "year": 2015,
+        "questionNum": 42,
+        "subTopic": "FLUID_STATICS",
+        "complexity": 4,
+        "questionText": "திணிவு m ஐ உடைய ஒரு சதுரமுகி ஒரு திரவத்தில் மிதக்கின்றது. மிதக்கும்போது சதுரமுகியின் கனவளவின் 2/3 பங்கு அமிழ்ந்திருக்கின்றது. சதுரமுகியின் மீது வைக்கத்தக்கதானதும் அதன்மீது மிதக்கத்தக்கதுமான உயர்ந்தபட்சத் திணிவு",
+        "options": [
+            "m/3",
+            "m/2",
+            "2m/3",
+            "m",
+            "3m/2"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#43",
+        "year": 2015,
+        "questionNum": 43,
+        "subTopic": "ELECTROMAGNETISM",
+        "complexity": 3,
+        "questionText": "உருவில் காணப்படுகின்றவாறு மையம் O வில் ஏற்றம் +Q ஐக் கொண்ட ஓர் உலோகக் கோளம் வைக்கப்பட்டுள்ளது. ஓட்டம் I ஐக் கொண்ட ஒரு நேரிய கம்பி கோளத்தின் மையத்தினூடாகச் செல்கின்றது. புள்ளி P இல் உள்ள தேறிய காந்தப் புலத்தின் பருமன்",
+        "options": [
+            "μ₀I / (2πr)",
+            "μ₀Q / (2πr)",
+            "μ₀I / (4πr²)",
+            "μ₀Q / (4πr²)",
+            "பூச்சியம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#44",
+        "year": 2015,
+        "questionNum": 44,
+        "subTopic": "CALORIMETRY",
+        "complexity": 3,
+        "questionText": "10 W என்னும் ஒரு மாறா வீதத்தில் வெப்பச் சக்தியை அளிப்பதன் மூலம் -50 °C இல் உள்ள திணிவு 0.1 kg ஐ உடைய ஒரு பனிக்கட்டித் துண்டு சீராக வெப்பமாக்கப்படுகின்றது. பனிக்கட்டியின் தன்வெப்பக் கொள்ளளவு SI அலகுகளில் a எனின், ஏனைய பொருத்தமான கணியங்களின் பெறுமானங்களை a வின் சார்பில் பின்வருமாறு அண்ணளவாகத் தரலாம். நீரின் தன்வெப்பக் கொள்ளளவு = 2a; பனிக்கட்டியின் உருகல் மறைவெப்பம் = 160a; நீரின் ஆவியாக்கல் மறைவெப்பம் = 1200a",
+        "options": [
+            "Graph (1)",
+            "Graph (2)",
+            "Graph (3)",
+            "Graph (4)",
+            "Graph (5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MODERN_PHYSICS",
+        "year#questionNum": "2015#45",
+        "year": 2015,
+        "questionNum": 45,
+        "subTopic": "QUANTUM_PHYSICS",
+        "complexity": 2,
+        "questionText": "ஒளிமின் விளைவுக்கான வரிப்படத்தில், நிறுத்தும் அழுத்தம் Vₛ படும் ஒளியின் மீடிறன் f உடன் மாறும் விதம் உருவில் காணப்படுகின்றது. பின்வருவனவற்றில் எது வளையியின் படித்திறனைத் தருகின்றது?",
+        "options": [
+            "h",
+            "h/e",
+            "e/h",
+            "φ",
+            "φ/e"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "PROPERTIES_OF_MATTER",
+        "year#questionNum": "2015#46",
+        "year": 2015,
+        "questionNum": 46,
+        "subTopic": "VISCOSITY",
+        "complexity": 3,
+        "questionText": "ஆரை r ஐயும் அடர்த்தி ρ ஐயும் கொண்ட ஒரு சிறிய கோளம் பிசுக்குமைக் குணகம் η ஐயும் அடர்த்தி σ ஐயும் கொண்ட ஒரு திரவத்தில் விழுகின்றது. கோளத்தின் முடிவு வேகம்",
+        "options": [
+            "η இற்கு நேர்விகிதசமனாகும்.",
+            "r இற்கு நேர்விகிதசமனாகும்.",
+            "ρ - σ இற்கு நேர்விகிதசமனாகும்.",
+            "r இற்கு நேர்மாற்றுவிகிதசமனாகும்.",
+            "η இற்கு நேர்மாற்றுவிகிதசமனாகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "OSCILLATIONS_AND_WAVES",
+        "year#questionNum": "2015#47",
+        "year": 2015,
+        "questionNum": 47,
+        "subTopic": "SOUND",
+        "complexity": 4,
+        "questionText": "ஒரு சுனாமி எச்சரிக்கையின்போது ஒரு காற்று கடற்கரையிலிருந்து தரையை நோக்கி 60 m s⁻¹ என்னும் ஒரு சீரான கதியில் வீசும் அதே வேளை ஒரு நிலையான சைரன் மீடிறன் 1600 Hz ஐ உடைய ஒலி அலைகளைக் காலுகின்றது. சைரனின் ஒலியைக் கேட்கும் ஒருவர் கடற்கரையிலிருந்து தரையை நோக்கித் தனது காரை 30 m s⁻¹ வீதத்தில் செலுத்துகின்றார். காற்று காரின் இயக்கத் திசையில் வீசுவதாகவும் அசையாத வளியில் ஒலியின் கதி 340 m s⁻¹ ஆகவும் இருப்பின், சாரதி கேட்கும் சைரனின் ஒலியின் மீடிறன்",
+        "options": [
+            "1400 Hz",
+            "1480 Hz",
+            "1600 Hz",
+            "1740 Hz",
+            "1880 Hz"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2015#48",
+        "year": 2015,
+        "questionNum": 48,
+        "subTopic": "HEAT_TRANSFER",
+        "complexity": 3,
+        "questionText": "ஒரு காவல் திரவியத்தினாலான, நீளம் L ஐக் கொண்ட ஒரு குழாயினூடாக நீர் ஒரு சீரான வீதத்தில் பாய்கின்றது. உருவில் காணப்படுகின்றவாறு 100 °C இல் பேணப்படும் ஒரு பெரிய வெப்பத் தேக்கத்திலிருந்து குழாயில் உள்ள நீரின் நீருக்கு வெப்பத்தை இடமாற்றுவதற்காகத் தேக்கத்திற்கும் குழாய்க்குமிடையே காவலிட்டனவும் சர்வசமனானவையும் சீரானவையும் ஒன்றிலிருந்தொன்று சம தூரத்தில் இருப்பனவுமான பல உலோகக் கோல்கள் தொடுக்கப்பட்டுள்ளன. நீரின் நுழைவழி வெப்பநிலை அறை வெப்பநிலைக்குச் சமமெனின், பின்வரும் வரைபுகளில் எது உறுதியான வீதத்தில் குழாயின் நீளம் (x) வழியே கோல்களினூடாக உள்ள வெப்பப் பாய்ச்சல் வீதம் (R) இனதும் நீரின் வெப்பநிலை (θ) இனதும் மாறலை மிகச் சிறந்த விதத்தில் வகைகுறிக்கின்றது ?",
+        "options": [
+            "Graph (1)",
+            "Graph (2)",
+            "Graph (3)",
+            "Graph (4)",
+            "Graph (5)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2015#49",
+        "year": 2015,
+        "questionNum": 49,
+        "subTopic": "ELECTROMAGNETISM",
+        "complexity": 4,
+        "questionText": "ஓர் ஓட்டம் I யைக் காவும் ஒரு நீண்ட நேரிய கம்பியானது உருவில் காணப்படுகின்றவாறு ஓட்டம் I யைக் காவுகின்ற வேறொரு வட்டத் தடத்தின் மையம் Pயினூடாக, அதன் தளத்திற்குச் செங்குத்தாக உள்ள அச்சு வழியே தாங்கப்பட்டுள்ளது. பின்வரும் கூற்றுகளைக் கருதுக. (A) ஓட்டத்தைக் காவும் நேரிய கம்பி காரணமாகத் தடத்தின் மீது உள்ள தேறிய விசையும் தேறிய முறுக்குதிறனும் பூச்சியமாகும். (B) ஓட்டத்தைக் காவும் நேரிய கம்பி தடத்தின் அச்சுக்குச் சமாந்தரமாகப் புள்ளி Q இற்கு அசைக்கப்படும்போது ஓட்டத்தைக் காவும் நேரிய கம்பியின் காரணமாகத் தடத்தின் மீது தேறிய முறுக்குதிறன் உள்ளது. (C) ஓட்டத்தைக் காவும் நேரிய கம்பி தடத்தின் அச்சுக்குச் சமாந்தரமாகப் புள்ளி Q இற்கு அசைக்கப்படும்போது ஓட்டத்தைக் காவும் நேரிய கம்பியின் காரணமாகத் தடத்தின் மீதுள்ள தேறிய விசை பூச்சியமன்று.",
+        "options": [
+            "A மாத்திரம் உண்மையானது.",
+            "B மாத்திரம் உண்மையானது.",
+            "C மாத்திரம் உண்மையானது.",
+            "A, B ஆகியன மாத்திரம் உண்மையானவை.",
+            "A, B, C ஆகிய எல்லாம் உண்மையானவை."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "PHYSICS",
+        "mainTopic": "MECHANICS",
+        "year#questionNum": "2015#50",
+        "year": 2015,
+        "questionNum": 50,
+        "subTopic": "DYNAMICS",
+        "complexity": 4,
+        "questionText": "ஆரை R ஐ உடைய ஒரு திண்மக் கோளத்திலிருந்து ஒரு பகுதியை வெட்டி நீக்கிச் செய்யப்பட்ட (முண்டித்த) திண்மத்தின் வடிவத்தில் உள்ள பொருள் ஒன்று உருவிற் காணப்படுகின்றவாறு ஒரு தாங்கியின் அடியில் வைக்கப்பட்டுள்ளது. கோளத்தின் மையத்திலிருந்து தாங்கியின் அடிக்கு உள்ள தூரம் l ஆகும். இப்போது தாங்கியில் மெதுவாக நீர் நிரப்பப்படுகின்றது. தாங்கியின் அடிப்பரப்பு நனையாதவாறு அதன் அடியில் முண்டித்த கோளம் பொருத்தப்படுகின்றது எனக் கொள்க. நீரின் உயரம் h உடன் நீரினால் பொருளின் மீது உஞற்றப்படும் நிலைக்குத்து மேன்முக விசை F இன் மாறலை மிகச் சிறந்த விதத்தில் வகைகுறிப்பது",
+        "options": [
+            "Graph (1)",
+            "Graph (2)",
+            "Graph (3)",
+            "Graph (4)",
+            "Graph (5)"
+        ],
+        "correctOptionIndex": 3
+    }
+]
