@@ -1,6 +1,0 @@
-docker run -p 8000:8000 amazon/dynamodb-local
-
-npx ts-node api.ts
-
-npx ts-node createTable.ts
-npx ts-node uploadData.ts
