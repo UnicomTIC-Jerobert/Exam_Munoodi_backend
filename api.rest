@@ -56,3 +56,7 @@ GET {{baseUrl}}/quiz?mainTopic=MECHANICS
 
 ### (Success) Try to create a quiz without specifying the subject
 GET {{baseUrl}}/quiz?subject=PHYSICS&mainTopic=MECHANICS
+
+
+### (Success) Try to create a quiz without specifying the subject
+GET {{baseUrl}}/questions/PHYSICS/topic/MECHANICS

@@ -162,7 +162,7 @@ app.get('/questions/:subject/:mainTopic', async (req, res) => {
 });
 
 // Endpoint 3: Get Questions by Main Topic
-app.get('/questions/topic/:subject/:mainTopic', async (req, res) => {
+app.get('/questions/:subject/topic/:mainTopic', async (req, res) => {
   const { subject, mainTopic } = req.params;
 
   // Basic validation
