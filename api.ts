@@ -77,6 +77,50 @@ app.get('/questions/:subject/:mainTopic', async (req, res) => {
   }
 });
 
+// Endpoint 3: Get Questions by Main Topic
+app.get('/questions/topic/:subject/:mainTopic', async (req, res) => {
+  const { subject, mainTopic } = req.params;
+
+  // Basic validation
+  if (!subject || !mainTopic) {
+    return res.status(400).json({ error: 'Subject and Main Topic are required.' });
+  }
+
+  console.log(`Fetching questions for subject: ${subject}, topic: ${mainTopic}...`);
+
+  const command = new QueryCommand({
+    TableName: tableName,
+    // Step 1: Query using the Primary Key (PK).
+    // This efficiently gets all items for the given subject.
+    KeyConditionExpression: '#sub = :subjectVal',
+    
+    // Step 2: Filter the results from the query.
+    // This part runs *after* the query and removes items that don't match.
+    FilterExpression: '#mainTopic = :mainTopicVal',
+    
+    // Define placeholders for attribute names to avoid reserved keyword issues
+    ExpressionAttributeNames: {
+      '#sub': 'subject',
+      '#mainTopic': 'mainTopic',
+    },
+    
+    // Provide the actual values for the placeholders
+    ExpressionAttributeValues: {
+      ':subjectVal': subject.toUpperCase(),
+      ':mainTopicVal': mainTopic.toUpperCase(),
+    },
+  });
+
+  try {
+    const { Items } = await docClient.send(command);
+    console.log(`Found ${Items?.length || 0} questions matching the filter.`);
+    res.status(200).json(Items || []);
+  } catch (error) {
+    console.error("Error fetching data from DynamoDB:", error);
+    res.status(500).json({ error: 'Could not fetch data from database.' });
+  }
+});
+
 
 // Endpoint 3: Get All Topics and Sub-topics for a Subject
 app.get('/topics/:subject', async (req, res) => {
