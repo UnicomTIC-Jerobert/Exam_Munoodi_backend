@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#1",
+        "year": 2020,
+        "questionNum": 1,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "RNA இல் அடங்கியுள்ள வெல்ல வகை",
+        "options": [
+            "குளுக்கோசு",
+            "புரற்றோசு",
+            "இரைபோசு",
+            "இலற்றோசு",
+            "சுக்குரோசு"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#2",
+        "year": 2020,
+        "questionNum": 2,
+        "subTopic": "BIODIVERSITY",
+        "complexity": 2,
+        "questionText": "சகல பற்றீரியாக்களும்",
+        "options": [
+            "காற்றின்றிய வாழிகளாகும்.",
+            "தற்போசணிகளாகும்.",
+            "நோயாக்கிகளாகும்.",
+            "தனிக்கலத்தாலானவையாகும்.",
+            "கைத்தொழில் ரீதியில் பயனுள்ளவையாகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#3",
+        "year": 2020,
+        "questionNum": 3,
+        "subTopic": "BIODIVERSITY",
+        "complexity": 2,
+        "questionText": "வைரசுகள் தொடர்பாகத் தரப்பட்டுள்ள பின்வரும் கூற்றுகளைக் கருதுக.\nA - கல அமைப்பு கிடையாது.\nB - DNA, RNA ஆகிய இரண்டும் அடங்கியுள்ளன.\nC - சகலதும் கட்டுப்பட்ட ஒட்டுண்ணிகளாகும்.\nமேலுள்ள கூற்றுகளில் சரியானது / சரியானவை,",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#4",
+        "year": 2020,
+        "questionNum": 4,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "பின்வரும் நொதியத் தாக்கத்தைக் கருதுக. இலற்றோசு --நீர்ப்பகுப்பு--> X + Y. இத்தாக்கத்தில் X இனாலும் Y இனாலும் காட்டப்பட்டிருப்பவை முறையே",
+        "options": [
+            "குளுக்கோசும் சுக்குரோசும் ஆகும்.",
+            "புரற்றோசும் கலற்றோசும் ஆகும்.",
+            "குளுக்கோசும் கலற்றோசும் ஆகும்.",
+            "குளுக்கோசும் புரற்றோசும் ஆகும்.",
+            "கலற்றோசும் மோற்றோசும் ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#5",
+        "year": 2020,
+        "questionNum": 5,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றுள் அமினோ அமிலங்கள் தொடர்பான சரியான கூற்று எது?",
+        "options": [
+            "பெப்ரைட்டுப் பிணைப்பொன்று உண்டு.",
+            "காபொட்சிலிக் அமிலக் (COOH) கூட்டமும் அம்மயின் (NH₂) கூட்டமும் உண்டு.",
+            "அம்மயின் (NH₂) கூட்டமானது காபொட்சிலிக் அமிலக் (COOH) கூட்டத்துடன் இணைந்துள்ளது.",
+            "காபொட்சிலிக் அமிலக் (COOH) கூட்டத்தைச் சேர்ந்த காபன் அணு a-காபன் ஆகும்.",
+            "சில அமினோ அமிலங்களில் மாத்திரம் காபொட்சிலிக் அமிலக் (COOH) கூட்டம் அடங்கியுள்ளது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#6",
+        "year": 2020,
+        "questionNum": 6,
+        "subTopic": "FOOD_TECHNOLOGY",
+        "complexity": 2,
+        "questionText": "சவர்க்கார உற்பத்தியின்போது சித்திரிக் அமிலத்தை சவர்க்காரத்துடன் கலப்பதற்கான காரணம் யாது?",
+        "options": [
+            "நடுநிலைப்படுத்துவதற்காக",
+            "அமிலத்தன்மையை ஏற்படுத்துவதற்காக",
+            "நிறமூட்டுவதற்காக",
+            "சவர்க்காரத்தை உலர்த்துவதற்காக",
+            "தாக்கம் புரியாத கொழுப்பமிலங்களை நீக்குவதற்காக"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#7",
+        "year": 2020,
+        "questionNum": 7,
+        "subTopic": "INDUSTRIAL_CHEMISTRY",
+        "complexity": 2,
+        "questionText": "உற்பத்திச் செயன்முறையின் போது உற்பத்தியாளர் எதிர்நோக்கும் பின்வரும் பிரச்சினைகளைக் கருதுக.\nA - மூலப்பொருட்களைக் கொண்டுவருவதற்கான உயர் செலவு\nB - இறுதி உற்பத்திப் பொருளின் தரத்தைப் பேணுதல்.\nC - ஆயத்தப்படுத்தலின் போது மூலப்பொருட்களை இழத்தல்.\nமூலப்பொருளின் தரத்தைப் பேணுவதன் மூலம் மேற்படி பிரச்சினைகளில் எதை/எவற்றை மட்டுப்படுத்தலாம்?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#8",
+        "year": 2020,
+        "questionNum": 8,
+        "subTopic": "THERMODYNAMICS",
+        "complexity": 2,
+        "questionText": "சூழலிலிருந்து ஒரு தொகுதிக்கு வழங்கப்பட்ட வெப்பத்தின் அளவு 100 J ஆகும். தொகுதியினால் 40 J தேக்கப்பட்டு, மிகுதி சூழலுக்கு விடுவிக்கப்பட்டது. அகிலத்தில் ஏற்படும் மொத்த சக்தி மாற்றம்",
+        "options": [
+            "-40 J ஆகும்.",
+            "0 J ஆகும்.",
+            "40 J ஆகும்.",
+            "60 J ஆகும்.",
+            "100 J ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "PHYSICAL_CHEMISTRY",
+        "year#questionNum": "2020#9",
+        "year": 2020,
+        "questionNum": 9,
+        "subTopic": "CHEMICAL_KINETICS",
+        "complexity": 2,
+        "questionText": "மூலப்பொருட்களாக திண்மமொன்றும் திரவமொன்றும் பயன்படுத்தப்படும் உற்பத்திச் செயன்முறையில் இரசாயனத் தாக்கமொன்று நிகழுகின்றது. இது புறவெப்பத்தன்மை உடைய தாக்கமென்பதால் செயன்முறை முழுவதிலும் தாக்கவீதம் அதிகரிக்கின்றது. தாக்க வீதத்தை மாறாது பேணுவதற்கு மிகப்பொருத்தமான முறை எது?",
+        "options": [
+            "தாக்கக் கலவையை வெப்பமேற்றல்",
+            "தாக்கக் கலவையைக் கலக்குதல்",
+            "திண்மத்தை ஒரே கணத்தில் திரவத்துடன் சேர்த்தல்",
+            "திரவத்தை மெதுவாக திண்மத்துடன் சேர்த்தல்",
+            "திண்மத்தை நொறுக்கி திரவத்துடன் கலத்தல்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENVIRONMENTAL_TECHNOLOGY",
+        "year#questionNum": "2020#10",
+        "year": 2020,
+        "questionNum": 10,
+        "subTopic": "WATER_TREATMENT",
+        "complexity": 1,
+        "questionText": "துணைநிலை நீர்ப்பரிகரிப்புப் படிநிலை பிரதானமாக பயன்படுத்தப்படுவது,",
+        "options": [
+            "கரைந்துள்ள வாயுக்களை நீக்குவதற்கு",
+            "நுண்ணங்கிகளை அழிப்பதற்கு",
+            "கரையாத துணிக்கைகளை நீக்குவதற்கு",
+            "கரைந்துள்ள உலோக அயன்களை நீக்குவதற்கு",
+            "சேதனப் பதார்த்தங்களை நீக்குவதற்கு"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENVIRONMENTAL_TECHNOLOGY",
+        "year#questionNum": "2020#11",
+        "year": 2020,
+        "questionNum": 11,
+        "subTopic": "POLLUTION",
+        "complexity": 2,
+        "questionText": "CFC (chlorofluorocarbon) இனை HCFC (hydrochlorofluorocarbon) இனைப் பயன்படுத்துவதால் ஓசோன் படைக்கு ஏற்படும் இழப்பு பின்வரும் காரணங்களால் இழிவாகும் என ஒரு மாணவன் கூறுகின்றான்\nA - HCFC இனது C-H பிணைப்பு மேல் வளிமண்டலத்தை அடைய முன்னர் உடைகின்றமை\nB - HCFC இல் CI இல்லாமை\nC - பயன்படுத்தப்படும் HCFC இன் அளவானது CFC இனது அளவிலும் குறைவாக இருத்தல்\nமேற்குறிப்பிடப்பட்ட காரணங்களுள் சரியான காரணம் /காரணங்கள்,",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#12",
+        "year": 2020,
+        "questionNum": 12,
+        "subTopic": "INDUSTRIAL_CHEMISTRY",
+        "complexity": 1,
+        "questionText": "கைத்தொழில்களில் பயன்படுத்தப்படும் தூய உற்பத்தி அணுகுமுறை,",
+        "options": [
+            "மூலப்பொருட்களின் பயன்பாட்டை இழிவளவாக்குகிறது.",
+            "இயற்கை வளங்களின் பயன்பாட்டை அதிகரிக்கிறது.",
+            "சூழலுக்கு விடுவிக்கப்படும் கழிவை அதிகரிக்கிறது.",
+            "கைத்தொழில்களை தொடர்பற்றதாக்கி அவற்றை சுயாதீனமாக்குகிறது.",
+            "தூய மூலப்பொருட்களைப் பயன்படுத்தும் வகையில் உற்பத்திச் செயன்முறையை மீளவடிவமைக்கிறது."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENVIRONMENTAL_TECHNOLOGY",
+        "year#questionNum": "2020#13",
+        "year": 2020,
+        "questionNum": 13,
+        "subTopic": "WATER_TREATMENT",
+        "complexity": 2,
+        "questionText": "நீரின் தரப் பரமானங்கள் (water quality parameters) தொடர்பான பின்வரும் கூற்றுகளுள் சரியானது எது?",
+        "options": [
+            "மொத்த நுண்ணுயிர்களின் எண்ணிக்கையை BOD குறிக்கிறது.",
+            "மொத்த தொங்கல் திண்மங்களின் அளவை கலங்கல் தன்மை குறிக்கிறது.",
+            "கரைந்துள்ள ஒட்சிசனின் அளவை COD வெளிப்படுத்துகிறது.",
+            "கரைந்துள்ள திண்மச் சேர்வைகளின் அளவை கடத்தாறு குறிக்கிறது.",
+            "கரைந்துள்ள மொத்த சேதனக் கூறுகளின் அளவை BOD வெளிப்படுத்துகிறது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#14",
+        "year": 2020,
+        "questionNum": 14,
+        "subTopic": "FOOD_TECHNOLOGY",
+        "complexity": 1,
+        "questionText": "தாவர எண்ணெய் தொடர்பான அமிலப் பெறுமானத்தால் (acid value) வெளிப்படுத்தப்படுவது யாது?",
+        "options": [
+            "pH பெறுமானம்",
+            "அமிலத்தன்மை",
+            "கொழுப்பமிலங்களின் சதவீதம்",
+            "சுயாதீன அமில அளவு",
+            "முக்கிளிசெரைட்டுக்களின் சதவீதம் (triglycerides)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#15",
+        "year": 2020,
+        "questionNum": 15,
+        "subTopic": "SEPARATION_TECHNIQUES",
+        "complexity": 2,
+        "questionText": "துணையனுசேபிப் பிரித்தெடுப்பு முறைகள் தொடர்பான பின்வரும் கூற்றுகளில் சரியானது எது?",
+        "options": [
+            "மீள்பாய்ச்சல் முறைக்கு அதிக கனவளவு கரைப்பான் தேவைப்படுகிறது",
+            "கொதிநீராவி வடிப்பு மூலம் நீரற்ற பிரித்தெடுப்பு உற்பத்தியாகிறது",
+            "வெப்பவுறுதியற்ற சேர்வைகளைப் பிரித்தெடுப்பதற்கு மீள்பாய்ச்சல் முறை பொருத்தமானது",
+            "கொதிநீராவி வடிப்புக்கு நீருடன் தாவரக்கூறுகள் கலக்கப்பட வேண்டும்",
+            "மெழுகினுள் பிரித்தெடுக்கப்பட்ட கூறுகளை எதனோலைப் பயன்படுத்தி வேறாக்கிக் கொள்ளலாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2020#16",
+        "year": 2020,
+        "questionNum": 16,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 2,
+        "questionText": "நறுமண நெய்கள் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக.\nA - நீரில் கரைவதில்லை.\nB - ஆவிப்பறப்புள்ள சேதனச் சேர்வைகளாகும்.\nC - தனிச்சிறப்பான நிறம் உண்டு.\nமேற்குறித்த கூற்றுகளில் சரியான கூற்று எது/கூற்றுகள் எவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2020#17",
+        "year": 2020,
+        "questionNum": 17,
+        "subTopic": "POLYMERS",
+        "complexity": 2,
+        "questionText": "பின்வரும் எந்தக் கைத்தொழில்களின் பக்க விளைவாக கிளிசரோல் உற்பத்தியாகும்?",
+        "options": [
+            "சவர்க்காரம், உயிரிடீசல்",
+            "எனமல் பூச்சு, இமல்சன் பூச்சு",
+            "சவர்க்காரம், நறுமண நெய்",
+            "உயிரிடீசல், நறுமண நெய்",
+            "வினாகிரி, பொசுபேற்றுப்பசளை"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#18",
+        "year": 2020,
+        "questionNum": 18,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 1,
+        "questionText": "7π/6 ஆரையன் என்பது பாகைகளில்",
+        "options": [
+            "190 ஆகும்.",
+            "200 ஆகும்.",
+            "210 ஆகும்.",
+            "220 ஆகும்.",
+            "230 ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#19",
+        "year": 2020,
+        "questionNum": 19,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "வனசீவராசிகள் துறை அதிகாரி ஒருவர், மரமொன்றின் உயரத்தைக்க் கணிப்பதற்காக, கண்மட்டத்தில் இருந்து அளந்தறிந்த மர உச்சியின் ஏற்றக் கோணமும் மர அடியின் இறக்கக் கோணமும் உருவில் காட்டப்பட்டுள்ளன. இம்மரத்தின் அண்ணளவான உயரம் என்ன?",
+        "options": [
+            "5.0 m",
+            "5.8 m",
+            "6.7 m",
+            "7.5 m",
+            "18.5 m"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#20",
+        "year": 2020,
+        "questionNum": 20,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 3,
+        "questionText": "உருவில் காட்டியுள்ளவாறு பொள்ளான மர விளையாட்டுப் பொருளொன்றை ஆக்கும்போது 20 cm உயரமும் 12 cm விட்டமும் கொண்ட கூம்பானது அதே உயரமும் விட்டமும் கொண்ட உருளை வடிவ மரக்குற்றியிலிருந்து குடைந்து நீக்கப்பட்டது. விளையாட்டுப் பொருளில் உள்ள மரத்தின் கனவளவு π இல் எவ்வளவு?",
+        "options": [
+            "240π cm³",
+            "480π cm³",
+            "720π cm³",
+            "960π cm³",
+            "1920π cm³"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#21",
+        "year": 2020,
+        "questionNum": 21,
+        "subTopic": "COORDINATE_GEOMETRY",
+        "complexity": 2,
+        "questionText": "L₁ நேர்கோட்டின் சமன்பாடு 2y = x + 8 ஆகும். L₁ இற்குச் சமாந்தரமான L₂ நேர்கோடானது x அச்சை (4,0) புள்ளியில் இடைவெட்டுகிறது. L₂ நேர்கோட்டின் சமன்பாடு யாது?",
+        "options": [
+            "y = ½x - 2",
+            "y = -2x - 2",
+            "y = ½x - 4",
+            "y = -2x + 4",
+            "y = ½x + 2"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#22",
+        "year": 2020,
+        "questionNum": 22,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "வடியின் செங்குத்து உயரம் h என்ன?",
+        "options": [
+            "4.0 cm",
+            "8.0 cm",
+            "10.0 cm",
+            "11.6 cm",
+            "12.0 cm"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#23",
+        "year": 2020,
+        "questionNum": 23,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "இவ்வடியை ஆக்குவதற்காகப் பயன்படுத்த வேண்டிய ஆரைச்சிறையானது மையத்தில் எதிரமைக்கும் கோணம் θ (உரு 1) அண்ணளவாக எத்தனை ஆரையன் ஆகும்? (π = 3 எனக் கொள்க.)",
+        "options": [
+            "0.64",
+            "0.85",
+            "1.29",
+            "2.51",
+            "3.60"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#24",
+        "year": 2020,
+        "questionNum": 24,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "உருவில் காட்டப்பட்டுள்ள இருசமபக்க முக்கோண வடிவ மரக்கறிப் பாத்தியின் பரப்பளவு 16 m² ஆகும். சமமான பக்கம் ஒவ்வொன்றினதும் நீளம் x m ஆகும். x இன் பெறுமானம் மீற்றர்களில் எவ்வளவாகும்? (sin 150° = ½)",
+        "options": [
+            "√8",
+            "√16",
+            "√32",
+            "8",
+            "32"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#25",
+        "year": 2020,
+        "questionNum": 25,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "அடியின் ஆரை 15 cm கொண்ட திண்ம அரைக்கோளமொன்றின் மொத்த மேற்பரப்பளவு π இல் என்ன?",
+        "options": [
+            "300π cm²",
+            "450π cm²",
+            "525π cm²",
+            "675π cm²",
+            "1125π cm²"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#26",
+        "year": 2020,
+        "questionNum": 26,
+        "subTopic": "STATISTICS",
+        "complexity": 2,
+        "questionText": "முதல் ஏழு வருடங்களில் கம்பனியொன்றின் வருடாந்த இலாபம்/நட்டம் (ஆயிரம் ரூபாய்களில்) கீழே தரப்பட்டுள்ளது. மறைப்பெறுமானங்கள் நட்டத்தைக் குறிக்கின்றன.\n-472, -600, -672, 125, 488, 525, 962\nதரப்பட்டுள்ள தரவுகளின் வீச்சு யாது?",
+        "options": [
+            "290",
+            "490",
+            "837",
+            "1434",
+            "1634"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#27",
+        "year": 2020,
+        "questionNum": 27,
+        "subTopic": "STATISTICS",
+        "complexity": 3,
+        "questionText": "தொழினுட்பவியலுக்கான விஞ்ஞான பாடத்தில் சுயமதிப்பீட்டு தொடரறா (online) பரீட்சையொன்றில் 20 மாணவர்கள் பெற்ற புள்ளிகளின் இடை 67 ஆகும். எவ்வாறாயினும், வகுப்பாசிரியர் பின்னர் இரண்டு மாணவர்களின் புள்ளிகள் 89 ஐயும் 72 ஐயும் தவறுதலாக முறையே 98 எனவும் 27 எனவும் பதியப்பட்டிருப்பதைக் கண்டறிந்தார். மாணவர்களது புள்ளிகளின் சரியான இடை யாது?",
+        "options": [
+            "65.2",
+            "66.1",
+            "67.0",
+            "67.9",
+            "68.8"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#28",
+        "year": 2020,
+        "questionNum": 28,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "கணினியொன்றின் அடிப்படைச் செயற்பாடுகளுக்கு இடையிலான தொடர்பை கீழுள்ள உரு காட்டுகிறது. கட்டம் 1 இனால் உள்ளீடு (input) காட்டப்படுகின்றது. உருவில் 2, 3, 4 ஆகிய கட்டங்களினால் காட்டப்படும் செயற்பாடுகள் முறையே,",
+        "options": [
+            "தேக்கம் (storage), முறைவழியாக்கமும் கட்டுப்படுத்தலும் (processing and controlling), வெளியீடு (output)",
+            "முறைவழியாக்கமும் கட்டுப்படுத்தலும் (processing and controlling), தேக்கம் (storage), வெளியீடு (output)",
+            "தேக்கம் (storage), வெளியீடு (output), முறைவழியாக்கமும் கட்டுப்படுத்தலும் (processing and controlling)",
+            "முறைவழியாக்கமும் கட்டுப்படுத்தலும் (processing and controlling), வெளியீடு (output), தேக்கம் (storage)",
+            "வெளியீடு (output), முறைவழியாக்கமும் கட்டுப்படுத்தலும் (processing and controlling), தேக்கம் (storage)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#29",
+        "year": 2020,
+        "questionNum": 29,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "கணினியிலுள்ள உறை (folder) தொடர்பான தகவல்கள் உருவில் காட்டப்பட்டுள்ளன. உறை தொடர்பான தவறான கூற்று எது?",
+        "options": [
+            "இந்த உறையினுள் 20 உப உறைகள் உள்ளன.",
+            "உறை ஆக்கப்பட்ட திகதி 30.07.2019 ஆகும்.",
+            "உறையின் பெயர் ‘AL 2020 Properties’ ஆகும்.",
+            "உறையினுள் உள்ள கோப்புக்களின் (files) எண்ணிக்கை 136 ஆகும்.",
+            "இந்த உறை, D பிரிவில் (partition) அமைந்துள்ளது."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#30",
+        "year": 2020,
+        "questionNum": 30,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "உருவில் தரப்பட்டுள்ள கருவிப்பட்டையின் பெயர் யாது?",
+        "options": [
+            "எழுத்துருக்கள் (Font)",
+            "பாணிகள் (Styles)",
+            "பந்தி (Paragraph)",
+            "சீரமைப்பு (Editing)",
+            "பிடிப்புப் பலகை (Clipboard)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#31",
+        "year": 2020,
+        "questionNum": 31,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "முதற் பிரதியில் தடித்த (bold) எழுத்துக்களில் காட்டப்பட்டுள்ள சொற்கள் சீரமைக்கப்பட்ட பிரதியில் காட்டப்பட்டுள்ளவாறு மாற்றப்பட்டுள்ளன. இச்சீரமைக்கப்பட்ட பிரதியில் குறித்த மாற்றங்களைச் செய்வதற்கு எழுத்துருக் (font) கருவிப்பட்டையில் பயன்படுத்திய கட்டளைகள் யாவை?",
+        "options": [
+            "Underline, All Caps",
+            "Underline, Small Caps",
+            "Strikethrough, Small Caps",
+            "Strikethrough, All Caps",
+            "Double strikethrough, All Caps"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#32",
+        "year": 2020,
+        "questionNum": 32,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "விரிதாளில் (spreadsheet) ‘நிரலின் அகலத்தை’ (coulmn width) அதனது ‘உள்ளடக்க அகலத்துடன்’ (content width) எவ்வாறு பொருத்தி (fit) அமைக்கலாம்?",
+        "options": [
+            "நிரலினது தலைப்பின் இடது பக்க எல்லையில் single-click செய்வதன் மூலம்",
+            "நிரலினது தலைப்பின் இடது பக்க எல்லையில் double-click செய்வதன் மூலம்",
+            "நிரலினது தலைப்பின் வலது பக்க எல்லையில் single-click செய்வதன் மூலம்",
+            "நிரலினது தலைப்பின் வலது பக்க எல்லையில் double-click செய்வதன் மூலம்",
+            "Alt இனை அழுத்தியவாறு நிரலில் எந்த ஓர் இடத்திலும் single-click செய்வதன் மூலம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#33",
+        "year": 2020,
+        "questionNum": 33,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்டுள்ள மூன்று கலக் குறிப்புகள் அடங்கிய தொகுதிகளில், தனிநிரல் குறிப்பையும் (absoulte column reference) சார்பு நிரை குறிப்பையும் (relative row reference) சரியாகக் கொண்ட தொகுதி எது?",
+        "options": [
+            "A$1, A$10:$A17, $X255",
+            "$A1, $A10:$A17, X$255",
+            "$A1, $A10:$A17, $X255",
+            "A$1, $A$10:$A17, $X255",
+            "$A$1, $A$10:$A17, X$255"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#34",
+        "year": 2020,
+        "questionNum": 34,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "ஏற்கனவே இருக்கும் முன்வைப்பிற்கு (presentation) புதியதொரு காட்சி வில்லையை (slide) சேர்ப்பதற்குரிய சரியான படிமுறைகள் எவை?",
+        "options": [
+            "File, Open",
+            "File, New",
+            "Insert, Object",
+            "Insert, New slide",
+            "File, Add a new slide"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#35",
+        "year": 2020,
+        "questionNum": 35,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "இணையச் சொற் பயன்பாட்டில் IP எனப்படுவது,",
+        "options": [
+            "Internet Provider என்பதாகும்.",
+            "Internet Password என்பதாகும்.",
+            "Internet Protocol என்பதாகும்.",
+            "Internet Processor என்பதாகும்.",
+            "Internet Programs என்பதாகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#36",
+        "year": 2020,
+        "questionNum": 36,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "பின்வருவனவற்றுள் மின்னஞ்சலை (e-mail) பாதுகாப்பாகப் பயன்படுத்துவது தொடர்பான தவறான பரிந்துரை எது?",
+        "options": [
+            "உங்களது கடவுச்சொல்லை (password) அடிக்கடி மாற்றிக் கொள்ளுங்கள்",
+            "வேண்டா (spam) மின்னஞ்சல்களுக்கு பதில் எழுதுவதை தவிருங்கள்",
+            "நச்சுநிரல் எதிர்ப்பு (antivirus) மென்பொருளை எப்பொழுதும் இற்றைப்படுத்தி வைத்திருங்கள்.",
+            "பணியை முடித்த பின்னர் மின்னஞ்சலிருந்து வெளியேறுங்கள் (logout)",
+            "கடவுச்சொல்லை (password) தானாக சேமிக்கும் (auto-saving mode) முறையை எப்பொழுதும் பயன்படுத்துங்கள்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2020#37",
+        "year": 2020,
+        "questionNum": 37,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றுள் சமூக இடைவெளியைப் பேணுவதற்குத் துணையாகாத செயற்பாடு யாது?",
+        "options": [
+            "இணைய ஊடறுப்பு (Internet hacking)",
+            "தொடரறா வங்கிச்சேவை (Online banking)",
+            "மின்வர்த்தகம் (e-commerce)",
+            "காணொளி மாநாடு (Video conferencing)",
+            "மின்னியல் அணுகல்வழி (e-channeling)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#38",
+        "year": 2020,
+        "questionNum": 38,
+        "subTopic": "MEASUREMENT_UNITS",
+        "complexity": 1,
+        "questionText": "யூல் (J) என்பது,",
+        "options": [
+            "Nm ஆகும்.",
+            "Nm⁻¹ ஆகும்.",
+            "N⁻¹m⁻¹ ஆகும்.",
+            "Nm⁻² ஆகும்.",
+            "N⁻¹m ஆகும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#39",
+        "year": 2020,
+        "questionNum": 39,
+        "subTopic": "ELECTRICITY",
+        "complexity": 1,
+        "questionText": "கம்பியின் ஊடாக ஓரலகு நேரத்தில் பாயும் மின்னேற்றத்தின் அளவு என வரையறுக்கப்படுவது,",
+        "options": [
+            "ஓட்டம்",
+            "வலு",
+            "தடை",
+            "தடைத்திறன்",
+            "வோல்ற்றளவு"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#40",
+        "year": 2020,
+        "questionNum": 40,
+        "subTopic": "KINEMATICS_DYNAMICS",
+        "complexity": 2,
+        "questionText": "80 kg திணிவுள்ள ஒரு மனிதன் 10 m நிலைக்குத்து உயரமுள்ள படிக்கட்டில் மாறாத கதியுடன் ஏறுவதற்கு 10 s நேரத்தை எடுக்கிறார். அவரால் செய்யப்பட்ட வேலையின் வீதம் என்ன? (g= 10 N kg⁻¹).",
+        "options": [
+            "0.8 kW",
+            "8 kW",
+            "80 kW",
+            "800 kW",
+            "8000 kW"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#41",
+        "year": 2020,
+        "questionNum": 41,
+        "subTopic": "ELECTRICITY",
+        "complexity": 2,
+        "questionText": "2kg நீரின் வெப்பநிலையை 10°C இலிருந்து 90°C வரை உயர்த்துவதற்கு, மின்னடுப்பு 9 நிமிடம் 20 செக்கன்கள் எடுக்கிறது. மின்னடுப்பின் வலு என்ன? (நீரின் தன்வெப்பக் கொள்ளளவு = 4200 J kg⁻¹ °C⁻¹).",
+        "options": [
+            "1.0 kW",
+            "1.2 kW",
+            "672 kW",
+            "840 kW",
+            "1500 kW"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2020#42",
+        "year": 2020,
+        "questionNum": 42,
+        "subTopic": "PROPERTIES",
+        "complexity": 2,
+        "questionText": "வில் மாறிலி 40 N cm⁻¹ கொண்ட வில்லில் பொருளொன்றைத் தொங்கவிட்டபோது அது 2.3 cm நீட்சியைக் காட்டியது. அப்பொருளின் திணிவு என்ன? (வில்லின் திணிவைப் புறக்கணிக்குக.)",
+        "options": [
+            "9.0 kg",
+            "9.1 kg",
+            "9.2 kg",
+            "9.3 kg",
+            "9.4 kg"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#43",
+        "year": 2020,
+        "questionNum": 43,
+        "subTopic": "MEASUREMENT_UNITS",
+        "complexity": 2,
+        "questionText": "உருவில் தரப்பட்டுள்ள இழிவெண்ணிக்கை 0.01 cm கொண்ட வேணியர் இடுக்கிமானியொன்றினது அளவீட்டு முகப்பினால் காட்டப்படும் வாசிப்பு யாது?",
+        "options": [
+            "0.34 cm",
+            "3.04 cm",
+            "3.30 cm",
+            "3.34 cm",
+            "3.40 cm"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#44",
+        "year": 2020,
+        "questionNum": 44,
+        "subTopic": "THERMODYNAMICS",
+        "complexity": 2,
+        "questionText": "இங்குள்ள அமைவில் காட்டியவாறு, நீர் ஓய்விலுள்ள போது நீர்நிரல்களின் உயரங்கள் h₁, h₂, h₃ ஆகியன சமமாக உள்ளன. நீரானது உறுதியாகவும் கொந்தளிப்பின்றியும் (அருவிக்கோட்டு பாய்ச்சல்) வலதுபக்கம் நோக்கி மாறா வீதத்துடன் பாயும் போது நீர் நிரல்களின் உயரங்களினுள் சரியான தொடர்பு யாது?",
+        "options": [
+            "h₁ = h₂ = h₃",
+            "h₁ = h₃ > h₂",
+            "h₁ = h₃ < h₂",
+            "h₁ < h₂ < h₃",
+            "h₁ > h₂ > h₃"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2020#45",
+        "year": 2020,
+        "questionNum": 45,
+        "subTopic": "PROPERTIES",
+        "complexity": 2,
+        "questionText": "A, B, C ஆகிய மூன்று திரவியங்களுக்கான தகைப்பு எதிர் விகாரத்துக்கான வரைபுகள் உருவில் காட்டப்பட்டுள்ளது. அதியுயர் நீள்தகவுடன் கூடிய திரவியம், அதியுயர் நொறுங்கியல்புடன் கூடிய திரவியம், அதிகூடிய வலிமையுடைய திரவியம் ஆகியவற்றை முறையே குறிக்கும் வரைபுகள்,",
+        "options": [
+            "C, A, B",
+            "C, B, A",
+            "B, A, C",
+            "B, C, A",
+            "A, B, C"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2020#46",
+        "year": 2020,
+        "questionNum": 46,
+        "subTopic": "KINEMATICS_DYNAMICS",
+        "complexity": 3,
+        "questionText": "வளியில் விற்றராசொன்றினால் நிறுக்கப்பட்ட ஒழுங்கற்ற வடிவமுள்ள பொருளொன்றின் திணிவு 3 kg ஆகும். அப்பொருளை முழுமையாக நீரில் அமிழ்த்திய போது விற்றராசின் வாசிப்பு 2 kg ஆகவிருந்தது. அப்பொருளின் கனவளவு யாது? (நீரின் அடர்த்தி 1000 kg m⁻³)",
+        "options": [
+            "1 x 10⁻³ m³",
+            "2 x 10⁻³ m³",
+            "3 x 10⁻³ m³",
+            "4 x 10⁻³ m³",
+            "5 x 10⁻³ m³"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#47",
+        "year": 2020,
+        "questionNum": 47,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "உருவில் காட்டியுள்ளவாறு 1000 kg திணிவுள்ள மகிழூந்து நீரியல் அமுக்கத் தொகுதியொன்றினால் உயர்த்தப்படுகின்றது. முசலம் A இனது குறுக்குவெட்டுப் பரப்பளவு 100 cm² உம் முசலம் B இனது குறுக்குவெட்டுப்பரப்பளவு 3 cm² உம் எனின், மகிழூந்தை உயர்த்தி வைத்திருப்பதற்காக முசலம் B இன் மீது பிரயோகிக்க வேண்டிய இழிவு விசை F எவ்வளவு? (g = 10 N kg⁻¹)",
+        "options": [
+            "3 N",
+            "25 N",
+            "30 N",
+            "100 N",
+            "300 N"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2020#48",
+        "year": 2020,
+        "questionNum": 48,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "சர்வசமனான நான்கு இழை விளக்குகள் உருவில் காட்டியுள்ளவாறாக மின்கலவடுக்கொன்றுடன் தொடுக்கப்பட்டுள்ளன. மின்குமிழ்களின் பிரகாசம் தொடர்பான சரியான கூற்று எது?",
+        "options": [
+            "A, B, D ஆகிய மூன்று மின்குமிழ்களும் சமமான பிரகாசத்துடன் ஒளிரும்.",
+            "மின்குமிழ்கள் ஒளிரும் பிரகாசம் C > A > B > D என இறங்குவரிசையில் அமையும்.",
+            "A, B, C ஆகியன சமமான பிரகாசத்துடன் ஒளிருவதோடு மின்குமிழ் D ஒளிராது.",
+            "மின்குமிழ் A, B ஆகியன சமமான பிரகாசத்துடன் ஒளிருவதோடு, மின்குமிழ் D ஒளிராது.",
+            "மின்குமிழ் C அதிகூடிய பிரகாசத்துடனும் D மிகக்குறைந்த பிரகாசத்துடனும் ஒளிரும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ELECTRICITY_AND_MAGNETISM",
+        "year#questionNum": "2020#49",
+        "year": 2020,
+        "questionNum": 49,
+        "subTopic": "ELECTROMAGNETIC_INDUCTION",
+        "complexity": 3,
+        "questionText": "கடத்திச் சுருளொன்று மையப் பூச்சிய கல்வனோமானியுடன் தொடுக்கப்பட்டுள்ளது. சர்வ சமனான A, B எனும் இரண்டு சட்டக் காந்தங்கள் உருவில் காட்டியுள்ளவாறு சுருளின் இரு பக்கங்களிலும் சமமான தூரத்தில் வைக்கப்பட்டுள்ளன. சீரான வேகத்தில் முறிகோட்டின் வழியே சோடி காந்தங்களை எவ்வாறு அசைக்கும் போது கல்வனோமானியில் இழிவுத் திறம்பல் ஏற்படுத்தப்படும்?",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)",
+            "(5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2020#50",
+        "year": 2020,
+        "questionNum": 50,
+        "subTopic": "HEAT_TRANSFER",
+        "complexity": 2,
+        "questionText": "வெப்பக் குடுவையொன்றில் (Thermo flask) உள்ள வெற்றிடப் பிரதேசம் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக.\nA - கடத்தலினால் நிகழும் வெப்ப இழப்பை இழிவாக்கும்.\nB - உடன்காவுகையினால் நிகழும் வெப்ப இழப்பை இழிவாக்கும்.\nC - கதிர்ப்பினால் நிகழும் வெப்ப இழப்பை இழிவாக்கும்.\nமேலுள்ளனவற்றில் சரியான கூற்று எது?/கூற்றுகள் எவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C"
+        ],
+        "correctOptionIndex": 5
+    }
+]

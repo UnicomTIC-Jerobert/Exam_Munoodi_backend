@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2018#1",
+        "year": 2018,
+        "questionNum": 1,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "Corynobacterium glutamicum பற்றீரியா பயன்படுத்தப்பட்டு உருவாக்கப்படுவது,",
+        "options": [
+            "நுண்ணுயிரெதிரிகள்",
+            "எதனோல்",
+            "அமினோ அமிலங்கள்",
+            "வினாகிரி",
+            "பியர்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#2",
+        "year": 2018,
+        "questionNum": 2,
+        "subTopic": "FOOD_TECHNOLOGY",
+        "complexity": 2,
+        "questionText": "பின்வரும் நுண்ணங்கிகளைக் கருதுக.\n(A) Streptococcus lactis\n(B) Clostridium tetani\n(C) Lactobacillus spp.\nமேலுள்ள நுண்ணங்கிகளில் எது / எவை தயிர் தயாரிப்பில் பயன்படுத்தப்படுகின்றது /பயன்படுத்தப்படுகின்றன?",
+        "options": [
+            "(A) மாத்திரம்",
+            "(B) மாத்திரம்.",
+            "(C) மாத்திரம்.",
+            "(A), (B) ஆகியன மாத்திரம்.",
+            "(A), (C) ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2018#3",
+        "year": 2018,
+        "questionNum": 3,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "பீட்ரூட்டில் அடங்கியுள்ள இரண்டு ஒருசக்கரைட்டுகள்,",
+        "options": [
+            "குளுக்கோசு, சுக்குரோசு",
+            "குளுக்கோசு, கலக்ரோசு",
+            "கலக்ரோசு, பிறற்றோசு",
+            "குளுக்கோசு, பிறற்றோசு",
+            "குளுக்கோசு, இலக்ரோசு."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENVIRONMENTAL_TECHNOLOGY",
+        "year#questionNum": "2018#4",
+        "year": 2018,
+        "questionNum": 4,
+        "subTopic": "WATER_TREATMENT",
+        "complexity": 2,
+        "questionText": "கழிவு நீர் பரிகரிப்பு பொறித்தொகுதியில் (wastewater treatment plant) காற்றின்றிவாழும் நுண்ணங்கித் தொழிற்பாடு பயன்படுத்தப்படும் படிநிலை",
+        "options": [
+            "முதல்நிலை பரிகரிப்பில்",
+            "இரண்டாம்நிலை பரிகரிப்பில்",
+            "படிதற் தாங்கியில் (settling tank)",
+            "மண்டிச் சீரணத்தில் (sludge digestion)",
+            "தொற்றுநீக்கல் மற்றும் விடுவித்தலில்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#5",
+        "year": 2018,
+        "questionNum": 5,
+        "subTopic": "INDUSTRIAL_CHEMISTRY",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக. வினாகிரிக்கும் சோடியம் ஐதரொட்சைட்டு கரைசலுக்கும் இடையிலான தாக்கம், \n(A) அமில காரத் தாக்கமாகும். \n(B) புறவெப்பத் தாக்கமாகும். \n(C) அகவெப்பத் தாக்கமாகும். \nமேலுள்ள கூற்றுகளில் சரியானது/ சரியானவை,",
+        "options": [
+            "(A) மாத்திரம்",
+            "(B) மாத்திரம்.",
+            "(C) மாத்திரம்.",
+            "(A), (B) ஆகியன மாத்திரம்.",
+            "(A), (C) ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#6",
+        "year": 2018,
+        "questionNum": 6,
+        "subTopic": "THERMODYNAMICS",
+        "complexity": 1,
+        "questionText": "வெப்பத்தின் வரைவிலக்கணமாக அமையக்கூடியது, அது",
+        "options": [
+            "ஒரு தொகுதியின் வெப்பநிலை ஆகும்.",
+            "ஒரு தொகுதியினது மொத்த சக்தியின் அளவு ஆகும்.",
+            "இரண்டு தொகுதிகளுக்கிடையில் சக்தியின் பாய்ச்சல் ஆகும்.",
+            "ஒரு தொகுதியின் மீது செய்யப்பட்ட வேலையின் அளவு ஆகும்.",
+            "ஒரு தொகுதியால் செய்யப்பட்ட வேலையின் அளவு ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "PHYSICAL_CHEMISTRY",
+        "year#questionNum": "2018#7",
+        "year": 2018,
+        "questionNum": 7,
+        "subTopic": "CHEMICAL_KINETICS",
+        "complexity": 1,
+        "questionText": "குறித்ததொரு தாக்கத்தின் ஏவற்சக்தியானது",
+        "options": [
+            "தாக்கிகளின் சராசரி சக்தி ஆகும்.",
+            "வெப்பநிலை 25 °C ஆகவும் வளிமண்டல அமுக்கம் 1 ஆகவும் இருக்கையில் தாக்கிகளின் சராசரி சக்தி ஆகும்.",
+            "தாக்கிகளுக்கும் விளைபொருட்களுக்கும் இடையிலான சக்தி வித்தியாசம் ஆகும்.",
+            "தாக்கம் தொடங்குவதற்கு தேவையான இழிவளவான சக்தி ஆகும்.",
+            "தாக்கத்திலிருந்து விடுவிக்கப்படும் சக்தியின் அளவு ஆகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2018#8",
+        "year": 2018,
+        "questionNum": 8,
+        "subTopic": "POLYMERS",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக. வலிவூட்டிய (vulcanized) இறப்பரானது \n(A) இயற்கை இறப்பரைவிட அதிக குறுக்கிணைப்புகளைக் கொண்டிருக்கும். \n(B) சூடாக்கப்படுவதால் இளகச் செய்து புதிய வடிவத்திற்கு மீளமாலிட முடியும். \n(C) இயற்கை இறப்பரைவிட வலிமையானதாக இருக்கும். \nமேலுள்ள கூற்றுகளில் சரியானது / சரியானவை,",
+        "options": [
+            "(A) மாத்திரம்",
+            "(A), (B) ஆகியன மாத்திரம்",
+            "(A), (C) ஆகியன மாத்திரம்",
+            "(B), (C) ஆகியன மாத்திரம்.",
+            "(A), (B), (C) ஆகிய அனைத்தும்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#9",
+        "year": 2018,
+        "questionNum": 9,
+        "subTopic": "INDUSTRIAL_CHEMISTRY",
+        "complexity": 2,
+        "questionText": "இலங்கையில் பிளாஸ்ற்றிக் மீள்சுழற்சிச் செயன்முறையில் 3R எண்ணக்கருவைவிட 4R எண்ணக்கருவின் பயன்பாடு கூடிய பொருத்தமானது. 3R எண்ணக்கருவுடன் புதிதாக இணைக்கப்பட்டுள்ள நாலாவது R எண்ணக்கரு",
+        "options": [
+            "மீள்பாவனை (Reuse)",
+            "மீள் சுழற்சி (Recycle)",
+            "இழிவாக்கல் (Reduce)",
+            "மீள்சிந்தனை (Rethink)",
+            "விலக்கல் (Refuse)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2018#10",
+        "year": 2018,
+        "questionNum": 10,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "சகல இயற்கை உற்பத்திகளும்",
+        "options": [
+            "நீர், காபனீரொட்சைட்டு மற்றும் ஏனைய சேர்வைகளைப் பயன்படுத்தி உற்பத்தி செய்யப்படுகின்றன.",
+            "தாவரங்களால் மட்டும் உற்பத்தி செய்யப்படுகின்றன.",
+            "முதன்மை அனுசேபப் பொருட்கள் மட்டுமே.",
+            "வாழும் அங்கிகளின் வளர்ச்சிக்கு பயனுள்ளவை.",
+            "ஆவிபறப்புள்ள சேதனச் சேர்வைகளாகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#11",
+        "year": 2018,
+        "questionNum": 11,
+        "subTopic": "SEPARATION_TECHNIQUES",
+        "complexity": 2,
+        "questionText": "மென்படை நிறப்பதிவியல் தட்டத்தை தயாரிக்கும்போது அடிக்கோடு வரைவதற்கு பின்வருவனவற்றுள் எதைப் பயன்படுத்தலாம்?",
+        "options": [
+            "பந்து முனை எழுதுகோல் (ball point pen)",
+            "கூரிய பொருள்",
+            "குறியீட்டு எழுதுகோல் (marker pen)",
+            "மழுங்கிய பொருள்",
+            "பென்சில்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#12",
+        "year": 2018,
+        "questionNum": 12,
+        "subTopic": "INDUSTRIAL_CHEMISTRY",
+        "complexity": 2,
+        "questionText": "எரிசோடா தயாரிப்பு ஆலையானது இலங்கையில் வர்த்தக ரீதியில் சாத்தியமற்றது எனக்கூறி ஒரு முதலீட்டாளர் அதைத் தொடங்க மறுக்கிறார். முதலீட்டாளரின் மேற்படி முடிவுக்கு பிரதான காரணம் என்னவாக இருக்கும்?",
+        "options": [
+            "பக்க விளைபொருட்கள் உருவாகுதல்",
+            "மின்சாரத்திற்கான அதிக செலவு",
+            "தூய NaCl இன் அதிக உற்பத்திச் செலவு",
+            "தூய NaCl வர்த்தக ரீதியில் கிடைப்பதில்லை",
+            "இலங்கையில் எரிசோடாவிற்கு சந்தை வாய்ப்பு இல்லை"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2018#13",
+        "year": 2018,
+        "questionNum": 13,
+        "subTopic": "NANOMATERIALS",
+        "complexity": 2,
+        "questionText": "இலங்கைக்கு பொருத்தமானதொரு கைத்தொழில் TiO₂ நனோ துணிக்கைகளின் உற்பத்தி ஆகும். இது",
+        "options": [
+            "புல்மோட்டையில் இல்மனைற்று கிடைப்பதாலாகும்.",
+            "எப்பாவலையில் அப்பரைற்று கிடைப்பதாலாகும்.",
+            "இலங்கையில் TiO₂ நனோ துணிக்கைகளின் உற்பத்தி பிரபல்யமானது என்பதாலாகும்.",
+            "இலங்கையில் TiO₂ நனோ துணிக்கைகளின் அடிப்படையில் கைத்தொழில்கள் இருப்பதால் ஆகும்.",
+            "இலங்கையில் TiO₂ நனோ துணிக்கைப் படிவுகள் கிடைப்பதாலாகும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#14",
+        "year": 2018,
+        "questionNum": 14,
+        "subTopic": "MEASUREMENT_UNITS",
+        "complexity": 1,
+        "questionText": "இலங்கைக் காப்புரிமைகளை வழங்குவதற்கு பொறுப்பான அரச நிறுவனம் பின்வருவனவற்றுள் எது?",
+        "options": [
+            "இலங்கைப் புத்தாக்குனர் ஆணைக்குழு",
+            "விஞ்ஞான, தொழில்நுட்ப மற்றும் ஆராய்ச்சி அமைச்சு",
+            "தேசிய புலமைச் சொத்துக்கள் அலுவலகம்",
+            "தேசிய விஞ்ஞான மன்றம்",
+            "உயர் கல்வி அமைச்சு"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENVIRONMENTAL_TECHNOLOGY",
+        "year#questionNum": "2018#15",
+        "year": 2018,
+        "questionNum": 15,
+        "subTopic": "POLLUTION",
+        "complexity": 2,
+        "questionText": "வளிமண்டல அமில வாயுக்கள் வளிமண்டல நீரில் கரைவதால் அமில மழைகள் உருவாகின்றன. அமில மழைகள் சம்பந்தமான பின்வரும் கூற்றுகளில் மெய்யானது எது?",
+        "options": [
+            "காபனீரொட்சைட்டினால் அமில மழைகளை உருவாக்க முடியும்.",
+            "அமில மழைகளின் அமிலத்தன்மை கரைந்துள்ள அமில வாயுக்களின் அளவில் தங்கியுள்ளது.",
+            "அமில மழைகளின் அமிலத்தன்மை உருவாகும் அமிலத்தின் வலிமையில் தங்கியிருப்பதில்லை.",
+            "அமில மழைகளை வளிமண்டல SO₂ உருவாக்குவதில்லை.",
+            "அமில மழைகளின் pH அளவு 7 இனை விட அதிகமானது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2018#16",
+        "year": 2018,
+        "questionNum": 16,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 2,
+        "questionText": "கூட்டு உரம் சம்பந்தமான பின்வரும் கூற்றுகளைக் கருதுக.\n(A) கூட்டுரத்தில் உள்ள முதன்மை ஊட்டப்பொருட்களின் அளவு இரசாயன உரங்களில் உள்ளதைவிட அதிகமானது.\n(B) கூட்டுரம் மண்ணின் கற்றயன் பரிமாற்ற ஆற்றலை மேம்படுத்தும்.\n(C) கூட்டுரங்கள் தாவரங்களுக்கு நுண்ணூட்டப் பொருட்களை பிரதானமாக வழங்குகின்றன.\nமேலுள்ள கூற்றுகளில் சரியானது / சரியானவை,",
+        "options": [
+            "(A) மாத்திரம்.",
+            "(A), (B) ஆகியன மாத்திரம்.",
+            "(A), (C) ஆகியன மாத்திரம்",
+            "(B), (C) ஆகியன மாத்திரம்.",
+            "(A), (B), (C) ஆகிய அனைத்தும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THE_ORGANISM_AND_ENVIRONMENT",
+        "year#questionNum": "2018#17",
+        "year": 2018,
+        "questionNum": 17,
+        "subTopic": "BIOMOLECULES",
+        "complexity": 1,
+        "questionText": "ஓசோன் வாயுவின் இயற்கைப் பிறப்பாக்கத்திற்கு தேவையான கதிர்களின் வகை,",
+        "options": [
+            "செங்கீழ்க் கதிர்கள்",
+            "X-கதிர்கள்",
+            "கட்புல ஒளி",
+            "கழியூதாக் கதிர்கள்",
+            "காமாக் கதிர்கள்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#18",
+        "year": 2018,
+        "questionNum": 18,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 3,
+        "questionText": "மேற்பரப்பு 1000 cm² க்கு வர்ணம் பூச 1 லீற்றர் பூச்சு தேவையெனின், சாயுயரம் 36 cm உம் அடியாரை 14cm உம் கொண்டதொரு மூடிய செவ்வட்டக் கூம்பின் மேற்பரப்பிற்கு வர்ணம் பூசத் தேவையான பூச்சின் கனவளவு (லீற்றரில்)",
+        "options": [
+            "1.584",
+            "2.200",
+            "616",
+            "1584",
+            "2200"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#19",
+        "year": 2018,
+        "questionNum": 19,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "கிடையாக 25 m தூரம் பயணிக்கையில் நிலைக்குத்தாக 15 m ஏறும் வகையில் ஒரு படிக்கட்டை நிர்மாணிக்க வேண்டியுள்ளது. ஒவ்வொரு படியினது அகலமும் உயரமும் முறையே 25 cm ஆகவும் 15 cm ஆகவும் இருப்பின், இதற்கு எத்தனை படிகள் தேவைப்படும்?",
+        "options": [
+            "10",
+            "20",
+            "40",
+            "100",
+            "200"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#20",
+        "year": 2018,
+        "questionNum": 20,
+        "subTopic": "COORDINATE_GEOMETRY",
+        "complexity": 2,
+        "questionText": "புள்ளிகள் A = (1, 2) மற்றும் B = (5,4) இனை இணைக்கும் கோட்டுத் துண்டம் AB ஐக் கருதவும். ABக்கு செங்குத்தாகவும் AB யின் மத்திய புள்ளியினூடாகவும் செல்லும் கோடானது Y அச்சினை வெட்டும் புள்ளி",
+        "options": [
+            "(9,0)",
+            "(0,9)",
+            "(4.5,0)",
+            "(0,4.5)",
+            "(0,1.5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#21",
+        "year": 2018,
+        "questionNum": 21,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "நீச்சல் தடாகத்தின் வானியல் மற்றும் குறுக்குவெட்டுப் பார்வைகள் கீழே தரப்பட்டுள்ளன. தடாகத்தை நிரப்புவதற்குத் தேவையான நீரின் கனவளவு,",
+        "options": [
+            "15 m³",
+            "35 m³",
+            "250 m³",
+            "350 m³",
+            "550 m³"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#22",
+        "year": 2018,
+        "questionNum": 22,
+        "subTopic": "STATISTICS",
+        "complexity": 2,
+        "questionText": "கூட்டமாக்கிய மீடிறன் பரம்பலின் வகுப்பெல்லை கீழே தரப்பட்டுள்ளது. அதனுடைய இடை 9 எனக் காணப்பட்டது. கூட்டமாக்கிய மீடிறன் பரம்பல் அமைக்கப்பட்டபோது 8 என்னும் தரவுக்குப் பதிலாக 16 எனத் தவறாக பதிவு செய்யப்பட்டிருந்தமை பின்னர் அவதானிக்கப்பட்டது. எனவே அது திருத்தப்பட்டு, அதனது இடை மீண்டும் கணிக்கப்பட்டபோது, அது 7 ஆகக் காணப்பட்டது. கூட்டமாக்கிய மீடிறன் பரம்பலில் எத்தனை தரவுப் புள்ளிகள் உள்ளன?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "8",
+            "கணிப்பதற்கு தகவல் போதாது."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#23",
+        "year": 2018,
+        "questionNum": 23,
+        "subTopic": "STATISTICS",
+        "complexity": 2,
+        "questionText": "பின்வரும் தரவுத்தொடையைக் கருதுக. -1, -2, -2, 0, -5, 5, 3, 5, 6, 121, -4, 125 தரவுத்தொடையின் மையப்போக்கு தொடர்பான மிகப்பொருத்தமான அளவீடு / அளவீடுகள்",
+        "options": [
+            "இடை",
+            "இடையம்",
+            "ஆகாரம்",
+            "இடை மற்றும் இடையம்",
+            "இடையம் மற்றும் ஆகாரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#24",
+        "year": 2018,
+        "questionNum": 24,
+        "subTopic": "STATISTICS",
+        "complexity": 2,
+        "questionText": "குறிப்பிட்ட கனவளவுடைய நீர்த்தாங்கியை வடிவமைக்க ஒரு நிறுவனம் விரும்புகிறது. அதற்காக முன்மொழியப்பட்ட இரண்டு வடிவங்களாவன, 3 அலகுகள் ஆரையுடைய உருளையான தாங்கியும் 3 அலகுகள் ஆரையுடைய கோளமான தாங்கியும் ஆகும். இந்த வடிவங்கள் ஒவ்வொன்றினதும் ஓரலகு மேற்பரப்பிற்கான உற்பத்திச் செலவு ரூபா 10/- ஆகும். π = 3 எனின், உருளை மற்றும் கோள வடிவ தாங்கிகளின் உற்பத்திச் செலவுகள் முறையே ரூபாவில்,",
+        "options": [
+            "1260 மற்றும் 1080",
+            "1080 மற்றும் 1260",
+            "1260 மற்றும் 565",
+            "1080 மற்றும் 565",
+            "1260 மற்றும் 377"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#25",
+        "year": 2018,
+        "questionNum": 25,
+        "subTopic": "GEOMETRY_TRIGONOMETRY",
+        "complexity": 2,
+        "questionText": "உச்சிகள் (2, 2), (10, 8), (10, 17) ஆகவுள்ள முக்கோணியின் சுற்றளவு ஏகபரிமாண அலகுகளில்,",
+        "options": [
+            "36",
+            "√389",
+            "√470",
+            "389",
+            "470"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#26",
+        "year": 2018,
+        "questionNum": 26,
+        "subTopic": "COORDINATE_GEOMETRY",
+        "complexity": 2,
+        "questionText": "2x + 3y + 1 = 0 மற்றும் 4x + 6y + 1 = 0 இனால் தரப்படும் இரண்டு கோடுகளைக் கருதவும். இந்த இரண்டு கோடுகளும்,",
+        "options": [
+            "ஒரே வெட்டுத்துண்டைக் கொண்டுள்ளன.",
+            "செங்குத்தானவை.",
+            "ஒன்றோடொன்று பொருந்துகின்றன.",
+            "உற்பத்தியினூடாக கடக்கின்றன.",
+            "சமாந்தரமானவை."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#27",
+        "year": 2018,
+        "questionNum": 27,
+        "subTopic": "COORDINATE_GEOMETRY",
+        "complexity": 2,
+        "questionText": "x - 2y = 1 மற்றும் 2x - y = 1 ஆகிய இரு கோடுகளில் வதியும் புள்ளி",
+        "options": [
+            "(1, 0)",
+            "(0, 1)",
+            "(1/3, -1/3)",
+            "(-1/3, -2/3)",
+            "(0, 0)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#28",
+        "year": 2018,
+        "questionNum": 28,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "ஒரு கணினியைக் கொள்வனவு செய்யும்போது கருதப்பட வேண்டிய அவசியமற்ற காரணி பின்வருவனவற்றுள் எது?",
+        "options": [
+            "வன்வட்டுக் கொள்ளளவு (Hard disk capacity)",
+            "எழுமாற்றுப் பெறுவழி நினைவகம் (RAM)",
+            "முறைவழியாக்கியின் வகையும் வேகமும் (Processor type and speed)",
+            "அச்சுப்பொறியின் வகை (Printer type)",
+            "USB வளிகளின் எண்ணிக்கை (Number of USB ports)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#29",
+        "year": 2018,
+        "questionNum": 29,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "கணினியின் நினைவகம் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக. \n(A) கணினியின் நினைவகமானது எழுமாற்றுப் பெறுவழி நினைவகம் (RAM), வாசிப்பு மட்டும் நினைவகம் (ROM), பதுக்கு நினைவகம் (Cache memory) ஆகியவற்றைக் கொண்டுள்ளது. \n(B) பதுக்கு நினைவகம், எழுமாற்றுப் பெறுவழி நினைவகம் ஆகியன அழிவுறா நினைவகங்கள் (non-volatile memory devices) ஆகும். \n(C) PROM எனப்படுவது Programmable Read Only Memory (செய்நிரற்படத்தகு வாசிப்பு மட்டும் நினைவகம்) ஆகும். \nமேலுள்ள கூற்றுகளில் சரியானது / சரியானவை,",
+        "options": [
+            "(A) மாத்திரம்",
+            "(B) மாத்திரம்",
+            "(C) மாத்திரம்",
+            "(A), (B) ஆகியன மாத்திரம்",
+            "(A), (C) ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#30",
+        "year": 2018,
+        "questionNum": 30,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "வரையம் பயனர் இடைமுகம் (Graphical User Interface - GUI) வடிவமைத்தலில் WIMP எனும் சுருக்கச் சொல் குறிப்பது",
+        "options": [
+            "Windows, Interactions, Mails, Pointer (சாளரங்கள், ஊடாட்டங்கள், அஞ்சல்கள், காட்டி)",
+            "Windows, Icons, Menu, Pointer (சாளரங்கள், படவுருக்கள், பட்டியல், காட்டி)",
+            "Web, Icons, Mails, Programmes (வலை, படவுருக்கள், அஞ்சல்கள், செய்நிரல்கள்)",
+            "Web, Interactions, Menu, Programmes (வலை, ஊடாட்டங்கள், பட்டியல், செய்நிரல்கள்)",
+            "Web, Icons, Mails, Pointer (வலை, படவுருக்கள், அஞ்சல்கள், காட்டி)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#31",
+        "year": 2018,
+        "questionNum": 31,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "ஒரு சொல் முறைவழியாக்கியில் C₂H₆ + 3O₂ → 2CO₂ + 2H₂O எனும் சமன்பாட்டை எழுதுவதற்கு பின்வருவனவற்றில் எந்தக் கட்டளையைப் (command) பயன்படுத்த வேண்டும்?",
+        "options": [
+            "கீழொட்டு (Subscript)",
+            "சரிவாக்கு (Italics)",
+            "மேலொட்டு (Superscript)",
+            "வெட்டுக்கோடிடு (Strikethrough)",
+            "வாசக விளைவுகள் (Text effects)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#32",
+        "year": 2018,
+        "questionNum": 32,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "வழமையான சொல் முறைவழியாக்கல் மென்பொருளில் F1 சாவி பயன்படுத்தப்படுவது",
+        "options": [
+            "புதிய கோப்பைத் திறப்பதற்கு (to open a new file).",
+            "உதவி பெறுவதற்கு (to get help).",
+            "'கண்டுபிடி மற்றும் மாற்றீடு' சொல்லாடற் பெட்டியைத் திறப்பதற்கு (to open ‘find and replace’ dialog box)",
+            "எழுத்துக் கூட்டலைச் சரிபார்க்க (to check spelling).",
+            "புதிய கோப்பாக சேமிக்க (to save as a new file)."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#33",
+        "year": 2018,
+        "questionNum": 33,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "மாணவர்களின் சராசரிப் புள்ளியைப் பெறுவதற்கு B6 கலத்தில் உள்ளீடு செய்ய வேண்டிய சூத்திரம்",
+        "options": [
+            "= MEAN(B2:B5)",
+            "= AVERAGE(B2:B5)",
+            "=AVERAGE(B2+B3+B4+B5)",
+            "= COUNT(B2+B3+B4+B5)",
+            "=AVG(B2:B5)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#34",
+        "year": 2018,
+        "questionNum": 34,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "நிரல் C யிலுள்ள தரநிலையைப் (grade) பெறுவதற்கு பயன்படுத்த வேண்டிய செயற்பாட்டுக்குறி",
+        "options": [
+            "SUM",
+            "COUNT",
+            "IF",
+            "MAX",
+            "MIN"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#35",
+        "year": 2018,
+        "questionNum": 35,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "பின்வருவனவற்றில் எது பவர்பொயின்ற் (PowerPoint) இல் ஒரு காட்சி (view) அல்ல?",
+        "options": [
+            "முன்வைப்புக் காட்சி (Presentation view)",
+            "படவில்லை வரிசையாக்கிக் காட்சி (Slide sorter view)",
+            "படவில்லை காட்டற் காட்சி (Slide show view)",
+            "வாசிப்புக் காட்சி (Reading view)",
+            "சாதாரண காட்சி (Normal view)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#36",
+        "year": 2018,
+        "questionNum": 36,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 1,
+        "questionText": "இலங்கைக்கு உரியதாயிருக்கும் வலை முகவரி",
+        "options": [
+            "www.gov.cn",
+            "www.ausregistry.com.au",
+            "www.ox.ac.uk",
+            "www.nic.sl",
+            "www.mohe.gov.lk"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "INDUSTRIAL_PROCESSES",
+        "year#questionNum": "2018#37",
+        "year": 2018,
+        "questionNum": 37,
+        "subTopic": "TECHNOLOGY_GENERAL",
+        "complexity": 2,
+        "questionText": "ஒரு மின்னஞ்சல் (email) கணக்கிற்கு மிகவும் பொருத்தமான கடவுச்சொல் (password),",
+        "options": [
+            "Sachiperera",
+            "drged#23@BLo",
+            "Password123",
+            "Birthday0910",
+            "MataraColombo"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#38",
+        "year": 2018,
+        "questionNum": 38,
+        "subTopic": "ROTATIONAL_DYNAMICS",
+        "complexity": 3,
+        "questionText": "ஒரு பொருள் A யானது கோண வேகம் 10 rad s⁻¹ உடன் சுழல்கின்றது. சுழற்சி அச்சினைப் பற்றி அதனது சடத்துவத் திருப்பம் 3 kg m² ஆகும். A யின் இயக்க சக்திக்கு சமமான இயக்க சக்தியுடன் திணிவு 12 kg உடைய இன்னொரு பொருள் B ஏகபரிமாண இயக்கத்தை நிகழ்த்துகிறது. பொருள் B யினது அசையும் கதி",
+        "options": [
+            "1 ms⁻¹",
+            "2 ms⁻¹",
+            "3 ms⁻¹",
+            "4 ms⁻¹",
+            "5 ms⁻¹"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#39",
+        "year": 2018,
+        "questionNum": 39,
+        "subTopic": "THERMODYNAMICS",
+        "complexity": 2,
+        "questionText": "இரண்டு சர்வசமனான கலோரிமானிகளிலுள்ள இரண்டு திரவங்கள் ஒரே வெப்பநிலையில் உள்ளன. இவற்றிற்கு மாறாத வீதத்திலும் ஒரே நேரகாலத்திலும் வெப்பம் வழங்கப்பட்ட போது, இரண்டு திரவங்களினதும் இறுதி வெப்பநிலை சமமாக இருந்தது. பின்வருவனவற்றுள் சரியான கூற்றைத் தெரிவுசெய்க.",
+        "options": [
+            "இரண்டு திரவங்களினதும் அடர்த்திகள் சமனானவை.",
+            "இரண்டு திரவங்களினதும் திணிவுகள் சமனானவை.",
+            "இரண்டு திரவங்களினதும் கனவளவுகள் சமனானவை.",
+            "இரண்டு திரவங்களினதும் வெப்பக் கொள்ளளவுகள் சமனானவை.",
+            "இரண்டு திரவங்களினதும் தன்வெப்பக் கொள்ளளவுகள் சமனானவை."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#40",
+        "year": 2018,
+        "questionNum": 40,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "தரப்பட்ட எந்த நிபந்தனைகளின் கீழ் புறக்கணிக்கத்தக்க அகத்தடையையுடைய கலத்தினையும் தடைக்ம்பியையும் கொண்ட ஒரு சுற்றிலிருந்து கூடிய வெப்பம் விரயமாகும்?",
+        "options": [
+            "கம்பியை கலத்தின் முடிவிடங்களுடன் இணைக்கும்போது",
+            "கம்பியின் அரையளவை கலத்தின் முடிவிடங்களுடன் இணைக்கும்போது",
+            "கம்பியின் மூன்றிலொரு அளவை கலத்தின் முடிவிடங்களுடன் இணைக்கும்போது",
+            "கம்பியை இரண்டு சம துண்டுகளாக வெட்டி அவற்றை சமாந்தரமாக கலத்தின் முடிவிடங்களுடன் இணைக்கும்போது",
+            "கம்பியை மூன்று சம துண்டுகளாக வெட்டி அவற்றை சமாந்தரமாக கலத்தின் முடிவிடங்களுடன் இணைக்கும்போது"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#41",
+        "year": 2018,
+        "questionNum": 41,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "ஒரு நீர்ப்பம்பியானது 30 m ஆழத்திலுள்ள குழாய்க் கிணற்றிலிருந்து நிமிடத்திற்கு 1200 kg திணிவுடைய நீரை இறைக்கிறது. நீர் 3 ms⁻¹ வேகத்தில் வெளியேற்றப்படுமாயின், பம்பின் ஒரு மணிநேர இயக்கத்தின் போது செய்யப்பட்ட வேலையின் அளவு என்ன? ஈர்ப்பினாலான ஆர்முடுகல் = 10 ms⁻² எனக் கொள்க.",
+        "options": [
+            "1.69 J",
+            "6.09 kJ",
+            "3.24 x 10² kJ",
+            "2.16 x 10⁴ kJ",
+            "2.19 x 10⁴ kJ"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#42",
+        "year": 2018,
+        "questionNum": 42,
+        "subTopic": "KINEMATICS_DYNAMICS",
+        "complexity": 2,
+        "questionText": "இறுக்கமாக உள்ள சுரையினை தளர்த்துவதற்கு 20 Nm முறுக்கம் தேவையானது. இதற்கு 20 cm நீளமான முறுக்கி உருவில் காட்டியாறு பயன்படுத்தப்பட்டது. சுரையினை தளர்த்துவதற்கு முறுக்கியின் கைப்பிடியில் பிரயோகிக்கப்பட வேண்டிய இழிவு விசை என்ன?",
+        "options": [
+            "1 N",
+            "5 N",
+            "20 N",
+            "100 N",
+            "200 N"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#43",
+        "year": 2018,
+        "questionNum": 43,
+        "subTopic": "ELECTRICITY",
+        "complexity": 2,
+        "questionText": "நிலைமாற்றி பற்றிய பின்வரும் கூற்றுகளைக் கருதுக. \n(A) ஆடல் வோல்ற்றளவின் பருமனை மாற்றப் பயன்படுத்தப்படும். \n(B) படிகூட்டு நிலைமாற்றிகள் நேரோட்ட வலு வழங்கிகளில் பயன்படுத்தப்படுகின்றன. \n(C) படிகுறை நிலைமாற்றிகளில், முதன்மைச் சுருளிலுள்ள முறுக்கங்களின் எண்ணிக்கையைவிட துணைச் சுருளிலுள்ள முறுக்கங்களின் எண்ணிக்கை அதிகமானது. \nமேலுள்ள கூற்றுகளில் சரியானது / சரியானவை,",
+        "options": [
+            "(A) மாத்திரம்.",
+            "(B) மாத்திரம்.",
+            "(C) மாத்திரம்.",
+            "(A), (B) ஆகியன மாத்திரம்.",
+            "(A), (B), (C) ஆகிய அனைத்தும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#44",
+        "year": 2018,
+        "questionNum": 44,
+        "subTopic": "MEASUREMENT_UNITS",
+        "complexity": 2,
+        "questionText": "நுண்மானித் திருகுக் கணிச்சியின் தீதாள் 50 பிரிவுகளைக் கொண்டுள்ளதுடன் அதன் புரியிடைத் தூரம் 0.5 mm ஆகவுள்ளது. உருவில் காட்டப்பட்டுள்ள அதன் வாசிப்பு,",
+        "options": [
+            "7.01 mm",
+            "7.49 mm",
+            "7.51 mm",
+            "7.99 mm",
+            "8.00 mm"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#45",
+        "year": 2018,
+        "questionNum": 45,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "சிற்றூந்தின் எஞ்சின் இயக்கப்படும் போது அதன் தொடக்கி மோட்டர் 12 V மின்கலவடுக்கிலிருந்து 50 A ஓட்டத்தினை 1.2 s களுக்கு பெறுகிறது. மின்கலவடுக்கின் அகத்தடை புறக்கணிக்கத்தக்கதாயின் அது வழங்கிய மின்சக்தியின் அளவென்ன?",
+        "options": [
+            "5 J",
+            "60 J",
+            "500 J",
+            "600 J",
+            "720 J"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "THERMAL_PHYSICS",
+        "year#questionNum": "2018#46",
+        "year": 2018,
+        "questionNum": 46,
+        "subTopic": "HEAT_TRANSFER",
+        "complexity": 2,
+        "questionText": "வெப்பக் கதிர்ப்பு பற்றிய பின்வரும் கூற்றுகளில் சரியானது யாது?",
+        "options": [
+            "வெப்பக் கதிர்ப்பின் சிறந்த உறிஞ்சியானது ஒரு சிறந்த உமிழ்ப்பானாக இருக்காது.",
+            "வெப்பக்குடுவையின் வெள்ளி முலாமிட்ட கண்ணாடிச் சுவர்கள் கதிர்ப்பிலான இழப்பை இழிவாக்குகின்றன.",
+            "வெப்பக் கதிர்ப்பானது மின்காந்த அலைகளைச் சேர்ந்தவை அல்ல.",
+            "கறுப்பு உடைகள் வெப்பக் கதிர்ப்பை அதிகளவு உறிஞ்சாதவை என்பதால் அவை சூரிய ஒளி மிக்க வெப்பமான இடங்களுக்கு பரிந்துரைக்கப்படுகின்றன.",
+            "வெப்பமானது ஓரிடத்திலிருந்து இன்னொரு இடத்திற்கு கதிர்ப்பினால் மட்டுமே இடமாறுகிறது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#47",
+        "year": 2018,
+        "questionNum": 47,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "வீட்டு மின்சுற்றின் ஒரு பகுதி உருவில் காட்டப்பட்டுள்ளது. அதில் X,Y,Z ஆகியன மூன்று மின்னுபகரணங்கள். ஏதாவதொரு உபகரணத்தில் குறுஞ்சுற்று ஏற்படுகையில் மின்சுற்றினைப் பாதுகாப்பதற்காக சுற்றுடைப்பானை (circuit breaker) பொருத்தச் சிறந்த இடம் யாது?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MATERIALS_SCIENCE",
+        "year#questionNum": "2018#48",
+        "year": 2018,
+        "questionNum": 48,
+        "subTopic": "PROPERTIES",
+        "complexity": 2,
+        "questionText": "ஈர்த்த கம்பி பற்றிய பின்வரும் கூற்றுகளில் சரியானது யாது?",
+        "options": [
+            "இழுவையினதும் நீட்சியினதும் பெருக்கலானது ஈர்த்த கம்பியில் சேமிக்கப்பட்டுள்ள மீளியல் அழுத்த சக்தியைத் தருகிறது.",
+            "கம்பியானது அதனது மீளியல் எல்லைக்கு அப்பால் ஈர்க்கப்படினும், தகைப்பு விலக்கப்படுகையில் அது அதனது ஆரம்ப நீளத்தை அடையும்.",
+            "விகிதசமத்துவ எல்லைக்குள் கம்பியின் இழுவையானது அதனது நீட்சிக்கு விகிதசமமாக இருக்கும்.",
+            "தகைப்பானது, பிரயோகிக்கப்பட்ட விசையினதும் கம்பியின் குறுக்குவெட்டுப் பரப்பளவினதும் பெருக்கலுக்கு சமனானதாகும்.",
+            "கம்பியானது அதனது மீளியல் எல்லைக்கு அப்பால் மட்டுமே ஈர்க்கப்படக் கூடியது."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "MEASUREMENT_AND_DATA",
+        "year#questionNum": "2018#49",
+        "year": 2018,
+        "questionNum": 49,
+        "subTopic": "STOICHIOMETRY",
+        "complexity": 3,
+        "questionText": "ஓய்விலுள்ள ஒரு நபரின் இதயத்திலிருந்து வெளியேறும் குருதியோட்ட வீதம் நிமிடத்துக்கு 6 லீற்றர் ஆகவுள்ளதுடன் இக்கனவளவானது மயிர்த்துளைக் குழாய்களினூடாக சராசரிக் கதி 1 mm s⁻¹ உடன் பயணிக்கிறது. ஒரு மயிர்த்துளைக் குழாயின் மாதிரியுரு கீழே தரப்பட்டுள்ளது. குருதியானது அடர்ப்பாய்ச்சலுடைய ஒரு நெருக்கரும் பாயி எனக்கருதுக. π = 3 எனின், உடலிலுள்ள மயிர்த்துளைக் குழாய்களினது எண்ணிக்கை",
+        "options": [
+            "7.3 x 10⁶",
+            "9.3 x 10⁸",
+            "3.7 x 10⁹",
+            "5.6 x 10¹⁰",
+            "2.2 x 10¹¹"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "SFT",
+        "mainTopic": "ENERGY",
+        "year#questionNum": "2018#50",
+        "year": 2018,
+        "questionNum": 50,
+        "subTopic": "ELECTRICITY",
+        "complexity": 3,
+        "questionText": "உருவில் காட்டியவாறு ஓட்டத் தராசின் ஒரு பகுதியிலுள்ள பிளாத்திச் சட்டத்தின் தானங்கள் A க்கும் B க்கும் இடையில் கடத்தும் கம்பி இணைக்கப்பட்டுள்ளதுடன், தொகுதியானது கிடைத்தளத்தில் சமநிலைப்படுத்தப்பட்டுள்ளது. கம்பியின் நீளம் 10 cm. கம்பிக்கு குறுக்காக 2× 10⁻³ T பாய அடர்த்தியுடைய சீரானதும் கிடையானதுமான காந்தப்புலம் பிரயோகிக்கப்பட்டுள்ளது. A இலிருந்து B க்கு கம்பியூடாக 10 A மின்னோட்டம் பாயுமாயின், அதே கிடைத்தளத்தில் தொகுதியை சமநிலையில் பேணுவதற்குத் தராசுத் தட்டில் வைக்கப்பட வேண்டிய திணிவு என்ன?",
+        "options": [
+            "0.02 g",
+            "0.20 g",
+            "2.00 g",
+            "0.20 kg",
+            "2.00 kg"
+        ],
+        "correctOptionIndex": 2
+    }
+]
