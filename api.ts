@@ -27,6 +27,90 @@ app.use(cors());
 app.use(express.json());
 
 // --- API Endpoints ---
+const subjects = [
+  { id: "PHYSICS", name: "Physics" },
+  { id: "CHEMISTRY", name: "Chemistry" },
+  { id: "SFT", name: "Science for Technology" },
+  { id: "ET", name: "Engineering Technology" }
+];
+
+// === API Endpoint 1: List all subjects ===
+app.get('/subjects', (req, res) => {
+  res.status(200).json(subjects);
+});
+
+// === API Endpoint 2: Get details for a single subject ===
+app.get('/subjects/:subject/details', async (req, res) => {
+  const { subject } = req.params;
+
+  const command = new QueryCommand({
+    TableName: tableName,
+    KeyConditionExpression: '#sub = :subjectVal',
+    ProjectionExpression: '#yr, #mainTopic', // Only fetch the year and mainTopic attributes
+    ExpressionAttributeNames: {
+      '#sub': 'subject',
+      '#yr': 'year',
+      '#mainTopic': 'mainTopic'
+    },
+    ExpressionAttributeValues: {
+      ':subjectVal': subject.toUpperCase()
+    }
+  });
+
+  try {
+    const { Items } = await docClient.send(command);
+    if (!Items || Items.length === 0) {
+      return res.status(404).json({ error: "Subject not found or has no questions." });
+    }
+
+    // Process the results to get unique values
+    const availableYears = [...new Set(Items.map(item => item.year))].sort((a, b) => a - b);
+    const mainTopics = [...new Set(Items.map(item => item.mainTopic))].sort();
+
+    res.status(200).json({
+      subjectName: subject,
+      availableYears,
+      mainTopics
+    });
+  } catch (error) {
+    console.error("Error fetching subject details:", error);
+    res.status(500).json({ error: 'Could not fetch data.' });
+  }
+});
+
+
+// === API Endpoint 3: Get questions for a specific subject AND year (MODIFIED) ===
+app.get('/questions/:subject/year/:year', async (req, res) => {
+  const { subject } = req.params;
+  const year = parseInt(req.params.year, 10);
+
+  if (isNaN(year)) {
+    return res.status(400).json({ error: 'Year must be a valid number.' });
+  }
+
+  // Use a Scan on the YearIndex with a filter
+  const command = new ScanCommand({
+    TableName: tableName,
+    IndexName: 'YearIndex',
+    FilterExpression: '#yr = :yyyy AND #sub = :subjectVal',
+    ExpressionAttributeNames: {
+      '#yr': 'year',
+      '#sub': 'subject'
+    },
+    ExpressionAttributeValues: {
+      ':yyyy': year,
+      ':subjectVal': subject.toUpperCase()
+    },
+  });
+
+  try {
+    const { Items } = await docClient.send(command);
+    res.status(200).json(Items || []);
+  } catch (error) {
+    console.error("Error fetching data:", error);
+    res.status(500).json({ error: 'Could not fetch data.' });
+  }
+});
 
 // Endpoint 1: Get Questions by Year (Already built)
 app.get('/questions/year/:year', async (req, res) => {
@@ -93,17 +177,17 @@ app.get('/questions/topic/:subject/:mainTopic', async (req, res) => {
     // Step 1: Query using the Primary Key (PK).
     // This efficiently gets all items for the given subject.
     KeyConditionExpression: '#sub = :subjectVal',
-    
+
     // Step 2: Filter the results from the query.
     // This part runs *after* the query and removes items that don't match.
     FilterExpression: '#mainTopic = :mainTopicVal',
-    
+
     // Define placeholders for attribute names to avoid reserved keyword issues
     ExpressionAttributeNames: {
       '#sub': 'subject',
       '#mainTopic': 'mainTopic',
     },
-    
+
     // Provide the actual values for the placeholders
     ExpressionAttributeValues: {
       ':subjectVal': subject.toUpperCase(),
