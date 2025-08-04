@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2021#1",
+        "year": 2021,
+        "questionNum": 1,
+        "subTopic": "UTILITY_SOFTWARE",
+        "complexity": 2,
+        "questionText": "உடைமை/உரிமம் தொடர்பாகப் பின்வரும் சோடிகளில் எது வேறுபட்ட மென்பொருள் வகைகளைக் கொண்டுள்ளது?",
+        "options": [
+            "பிரயோக (application) மென்பொருளும் திறந்த மூல (open-source) மென்பொருளும்",
+            "பிரயோக மென்பொருளும் பயன்பாட்டு (utility) மென்பொருளும்",
+            "தனியுரிமை (proprietary) மென்பொருளும் திறந்த மூல மென்பொருளும்",
+            "தனியுரிமை மென்பொருளும் முறைமை (system) மென்பொருளும்",
+            "முறைமை மென்பொருளும் பயன்பாட்டு மென்பொருளும்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2021#2",
+        "year": 2021,
+        "questionNum": 2,
+        "subTopic": "TYPES_OF_OS",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றில் எது தொகுதி முறைவழிப்படுத்தலுக்குச் (batch processing) சிறந்த உதாரணமாகும்?",
+        "options": [
+            "ஆகாய விமானக் கட்டுப்பாட்டு (air traffic control) முறைமை",
+            "சாரதி இல்லாத மோட்டர்க் காரில் (autonomous car) இருக்கும் செலுத்தல் முறைமை",
+            "தீவிர சிகிச்சைப் பிரிவு (ICU) நோயாளி கண்காணிப்பு மற்றும் பராமரிப்பு முறைமை",
+            "சம்பளப் பட்டியல் (payroll) தயாரிக்கும் முறைமை",
+            "அணு ஆலைக் கட்டுப்பாட்டு முறைமை"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2021#3",
+        "year": 2021,
+        "questionNum": 3,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 3,
+        "questionText": "கொள்ளளவுக்கும் அணுகல் கதிக்கும் ஏற்ப வேறுபடும் பல்வேறு தேக்ககக் கூறுகள் உள்ளன. A, B, C, D, E ஆகியன குறித்துப் பின்வருவனவற்றில் எது சரியானது?",
+        "options": [
+            "A - வன்வட்டு, B - பதிவகங்கள், C - L2 பதுக்கு நினைவகம், D - L1 பதுக்கு நினைவகம், E - முதன்மை நினைவகம்",
+            "A - L1 பதுக்கு நினைவகம், B - L2 பதுக்கு நினைவகம், C - பதிவகங்கள், D - வன்வட்டு, E - முதன்மை நினைவகம்",
+            "A - முதன்மை நினைவகம், B - பதிவகங்கள், C - வன்வட்டு, D - L1 பதுக்கு நினைவகம், E - L2 பதுக்கு நினைவகம்",
+            "A - பதிவகங்கள், B - L1 பதுக்கு நினைவகம், C - L2 பதுக்கு நினைவகம், D - முதன்மை நினைவகம், E - வன்வட்டு",
+            "A - பதிவகங்கள், B - முதன்மை நினைவகம், C - L2 பதுக்கு நினைவகம், D - L1 பதுக்கு நினைவகம், E - வன்வட்டு"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2021#4",
+        "year": 2021,
+        "questionNum": 4,
+        "subTopic": "VON_NEUMANN_ARCHITECTURE",
+        "complexity": 3,
+        "questionText": "ஒரு செய்நிரலை இயக்குவதற்கு செய்நிரற் குறிமுறை ...A..... இலிருந்து .... B...... நகல் செய்யப்படுகின்றது. ...C... மூலம் கொணர் - குறிநீக்க - நிறைவேற்று (fetch - decode - execute) வட்டம் செயற்படுத்தப்படுகின்றது. மேற்குறித்த A, B, C ஆகியவற்றுக்குப் பொருத்தமான சேர்மானம் பின்வருவனவற்றில் யாது?",
+        "options": [
+            "A - மைய முறைவழியாக்க அலகில், B - முதன்மை நினைவகத்திற்கு, C - துணைத் தேக்ககத்தின்",
+            "A - மைய முறைவழியாக்க அலகில், B - துணைத் தேக்ககத்திற்கு, C - முதன்மை நினைவகத்தின்",
+            "A - முதன்மை நினைவகத்தில், B - துணைத் தேக்ககத்திற்கு, C - மைய முறைவழியாக்க அலகின்",
+            "A – துணைத் தேக்ககத்தில், B - மைய முறைவழியாக்க அலகிற்கு, C - முதன்மை நினைவகத்தின்",
+            "A - துணைத் தேக்ககத்தில், B - முதன்மை நினைவகத்திற்கு, C – மைய முறைவழியாக்க அலகின்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2021#5",
+        "year": 2021,
+        "questionNum": 5,
+        "subTopic": "BINARY_ARITHMETIC",
+        "complexity": 2,
+        "questionText": "01011100₂, 11111001₂ என்னும் இரு இரும எண்களுக்கிடையே உள்ள பிற்று வாரி XOR செய்பணியின் சரியான பேறு யாது?",
+        "options": [
+            "00000010",
+            "01011000",
+            "01011010",
+            "10100101",
+            "11111101"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2021#6",
+        "year": 2021,
+        "questionNum": 6,
+        "subTopic": "REPRESENTING_INTEGERS",
+        "complexity": 2,
+        "questionText": "8 பிற்றுகளைப் பயன்படுத்திப் பதின்ம -32₁₀ இன் சரியான 2 இன் நிரப்பி இரும வகைகுறிப்பு யாது?",
+        "options": [
+            "00100000",
+            "10100000",
+            "11011111",
+            "11100000",
+            "11100001"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2021#7",
+        "year": 2021,
+        "questionNum": 7,
+        "subTopic": "NUMBER_SYSTEM_CONVERSIONS",
+        "complexity": 3,
+        "questionText": "பதினறும எண் 88.8₁₆ இன் சரியான பதின்மச் சமவலு யாது?",
+        "options": [
+            "88.5₁₀",
+            "88.8₁₀",
+            "129.5₁₀",
+            "136.5₁₀",
+            "136.8₁₀"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2021#8",
+        "year": 2021,
+        "questionNum": 8,
+        "subTopic": "CHARACTER_ENCODING_SCHEMES",
+        "complexity": 3,
+        "questionText": "ஒரு கோப்பில் உள்ள ஒவ்வொரு பைற்றினதும் பெறுமானங்களைப் பதின்ம வடிவத்திற் காட்டுவதற்கு ஒரு குறித்த கட்டளையைப் பயன்படுத்தலாம். ஒரு குறித்த கோப்பு 'Love trees!' பின்வரும் உரையைக் கொண்டுள்ளதெனக் கருதுக. சரியான வெளியீட்டைத் தெரிந்தெடுக்க.",
+        "options": [
+            "76 111 118 101 32 116 114 101 101 115 10",
+            "76 111 118 101 116 114 101 101 115 33 10",
+            "76 111 118 101 32 116 114 101 101 115 33 10",
+            "108 111 118 101 116 114 101 101 115 33 10",
+            "108 111 118 101 32 116 114 101 101 115 33 10"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2021#9",
+        "year": 2021,
+        "questionNum": 9,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 4,
+        "questionText": "தரப்பட்டுள்ள கார்னோ வரைபடத்தையும் அதனை அடிப்படையாகக் கொண்டு உருவாக்கப்பட்டுள்ள தருக்கச் சுற்றையும் கருதுக. e,f,g,h ஆகியவற்றின் பெறுமானங்கள் யாதாக இருத்தல் வேண்டும்?",
+        "options": [
+            "e=0, f=0, g=1, h=1",
+            "e=0, f=1, g=1, h=1",
+            "e=1, f=0, g=1, h=1",
+            "e=1, f=1, g=0, h=0",
+            "e=1, f=1, g=0, h=1"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2021#10",
+        "year": 2021,
+        "questionNum": 10,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 3,
+        "questionText": "அமராவின் முன்வைப்புச் செய்நிரலுக்குரிய செயன்முறைக்கு (process) பின்வரும் செயன்முறை நிலைமாறுகை வரிப்படத்தைக் கருதுக. A தொடக்கம் D வரையுள்ள மாறுகைகளுக்கு பின்வரும் எந்தக் காரணச் சேர்மானம் பொருந்தும்?",
+        "options": [
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-3, C-4, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-1, C-3, D-2"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2021#11",
+        "year": 2021,
+        "questionNum": 11,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 2,
+        "questionText": "பக்க அட்டவணை (page table) என்பது",
+        "options": [
+            "எல்லா நினைவக மேற்கோள்களும் (memory references) செல்லும் கணினி வன்பொருள் அலகாகும்.",
+            "முறைவழியாக்கிப் பதுக்கு நினைவகங்களில் (processor caches) உள்ள பக்கங்கள் பற்றிய தகவலை வைத்துக்கொள்ளும் தரவுக் கட்டமைப்பாகும்.",
+            "பக்க நகர்வுக்கு வழிவகுக்கும் நினைவகத்தில் உள்ள வன்பொருள் கூறாகும்.",
+            "முறைவழிப் பக்கங்களின் மெய்நிகர் முகவரியை பௌதிக முகவரியுடன் படமாக்கல் செய்து (mapping) வைத்துக்கொள்ளும் பணிசெயல் முறைமை தரவு கட்டமைப்பாகும்.",
+            "முறைவழியின் மெய்நிகர் நினைவகத்தில் இருக்கும் பக்கங்களின் எண்ணிக்கையை வைத்துக் கொள்ளும் முறைவழியாக்கியில் உள்ள வன்பொருள் பகுதியாகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2021#12",
+        "year": 2021,
+        "questionNum": 12,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 3,
+        "questionText": "myprog.py கோப்பின் அடைவுத் தகவல்களும் myprog.py கோப்பிற்கு வட்டில் ஒதுக்கப்பட்டுள்ள இடஅளவும் முறையே காட்டுகிறது?",
+        "options": [
+            "100, 12KB",
+            "101, 12KB",
+            "101, 16KB",
+            "103, 12KB",
+            "103, 16KB"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#13",
+        "year": 2021,
+        "questionNum": 13,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 2,
+        "questionText": "ஓர் இலக்க சமிக்ஞை (digital signal) தொடர்பாகப் பின்வருவனவற்றில் எது சரியானது?",
+        "options": [
+            "A - ஒரு சதுர அலையினால் (square wave) குறிக்கப்படுகின்றது.",
+            "B - ஒரு தொடர் (continuous) பெறுமான வீச்சைக் கொண்டுள்ளது.",
+            "C - தகவலை வகைகுறிப்பதற்குப் பின்னகப் (discrete) பெறுமானங்களைப் பயன்படுத்துகின்றது.",
+            "A மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#14",
+        "year": 2021,
+        "questionNum": 14,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 2,
+        "questionText": "தரவு ஊடுகடத்தலுக்குப் பயன்படுத்தப்படும் வழிப்படுத்தப்பட்ட ஊடகங்கள் (guided media) தொடர்பாகப் பின்வருவனவற்றில் எது சரியானது?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#15",
+        "year": 2021,
+        "questionNum": 15,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 1,
+        "questionText": "ஒப்புமை சமிக்ஞைகளை (analog signals) இலக்கமுறையாக (digital) வகைகுறிப்பதற்குப் பின்வருவனவற்றில் எதனைப் பயன்படுத்தலாம்?",
+        "options": [
+            "நொய்தாக்கல் (attenuation)",
+            "குறிமுறையவிழ்த்தல் (decoding)",
+            "திரிபு (distortion)",
+            "துடிப்புக் குறிமுறைக் குறிப்பேற்று (pulse code modulation)",
+            "ஒத்தியக்கம் (synchronization)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#16",
+        "year": 2021,
+        "questionNum": 16,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 1,
+        "questionText": "ஒரு வலையமைப்பினூடாகச் சாதனங்கள் தரவுகளை அனுப்பும்போதும் பெறும்போதும் அனுப்புநரின் இடைமுகத்தை தனியாக இனங்காண்பதற்கும், பெறுநரின் இடைமுகத்திற்குச் சரியாகத் தரவுகளைச் சேர்ப்பிப்பதற்கும் நடப்பொழுங்கு (protocol) பயன்படுத்தப்படுகிறது. மேற்குறித்த வாக்கியத்தின் எழுத்தாளர் கருதும் நடப்பொழுங்கு யாது?",
+        "options": [
+            "FTP",
+            "HTTP",
+            "MAC",
+            "TCP",
+            "UDP"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#17",
+        "year": 2021,
+        "questionNum": 17,
+        "subTopic": "NETWORK_PROTOCOLS",
+        "complexity": 2,
+        "questionText": "பரிமாற்றக் கட்டுப்பாட்டு நடப்பொழுங்கு (TCP), பயனர் தரவளவு நடப்பொழுங்கு (UDP) ஆகியவற்றின் சில இயல்புகள் கீழே தரப்பட்டுள்ளன. மேற்குறித்தவற்றில் UDP இன் இயல்புகள் யாவை?",
+        "options": [
+            "A, B, C ஆகியன மாத்திரம்",
+            "A, C, E ஆகியன மாத்திரம்",
+            "A, D, E ஆகியன மாத்திரம்",
+            "B, C, D ஆகியன மாத்திரம்",
+            "B, D, E ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#18",
+        "year": 2021,
+        "questionNum": 18,
+        "subTopic": "NETWORK_SECURITY",
+        "complexity": 2,
+        "questionText": "சேவைப்-பயனர் (Client-Server) மாதிரியின் பயன்பாட்டிற்குப் பின்வருவனவற்றில் எது / எவை உதாரணம் / உதாரணங்கள் ஆகும்?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#19",
+        "year": 2021,
+        "questionNum": 19,
+        "subTopic": "NETWORK_SECURITY",
+        "complexity": 3,
+        "questionText": "அனுப்புநர் A HELLO என்னும் செய்தியைப் பெறுநர் B இற்கு அனுப்ப வேண்டியுள்ளது. அச்செய்தி அனுப்பப்படுவதற்கு முன்பாக IFMMP என மாற்றப்படுகின்றது. இச்சூழ்நிலைக்காட்சி தொடர்பாகப் பின்வருவனவற்றில் எது சரியானது?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2021#20",
+        "year": 2021,
+        "questionNum": 20,
+        "subTopic": "NETWORK_PROTOCOLS",
+        "complexity": 2,
+        "questionText": "A, B, C என முகப்படையாளமிடப்பட்ட மூன்று வெற்றிடங்கள் உள்ள பின்வரும் பந்தியைக் கருதுக. மேற்குறித்த A, B, C ஆகிய வெற்றிடங்களுக்குப் பின்வருவனவற்றில் எது சரியான சேர்மானமாகும்?",
+        "options": [
+            "A – பிரத்தியேக (private), B - கோப்புச் சேவையகத்தில் (file server), C – HTTP",
+            "A – பிரத்தியேக, B - இணையத்தில், C - DHCP",
+            "A – பிரத்தியேக, B - வழிப்படுத்தியில், C - FTP",
+            "A - பொது (public), B - கோப்புச் சேவையகத்தில், C - FTP",
+            "A – பொது, B - வழிப்படுத்தியில், C – DHCP"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#21",
+        "year": 2021,
+        "questionNum": 21,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 3,
+        "questionText": "பட்டியல் A இல் உள்ள தகவல் முறைமை வகைகளையும் பட்டியல் B இல் உள்ள சில உதாரணங்களையும் கருதுக. பட்டியல் A இற்கும் பட்டியல் B இற்குமிடையே சரியான பொருத்தப்பாடு",
+        "options": [
+            "A1-B1,A2-B2,A3-B3",
+            "A1-B2,A2-B3,A3-B1",
+            "A1-B3,A2-B1,A3-B2",
+            "A1-B2,A2-B1,A3-B3",
+            "A1-B3,A2-B2,A3-B1"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#22",
+        "year": 2021,
+        "questionNum": 22,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 2,
+        "questionText": "சுறுசுறுப்பு முறை (agile method) தொடர்பாகப் பின்வருவனவற்றில் எது பிழையானது?",
+        "options": [
+            "செயற்றிட்டத்திற்கு ஒரு நிலையான தேவைத் தொகுதி இருக்கும்போது இதனைப் பயன்படுத்த முடியாது.",
+            "கொள்பணியை முடிப்பதற்குக் கூட்டங்களாகப் பிரித்த ஒரு நேரசூசியை அது விதந்துரைக்கின்றது.",
+            "இது தயாரிப்பின் படிப்படியான உருவாக்கங்களை மீண்டும் மீண்டும் செய்யும் முறையில் வழங்குகின்றது.",
+            "இது ஒவ்வொரு கட்டத்திலும் அக்கறையுடைய தரப்பினருக்கு (உ-ம்: வாங்குபவர், பயனர்) முன்னேற்றத்தைப் பரிசீலித்துப் பின்னூட்டலை அளிப்பதற்கு வசதி செய்கின்றது.",
+            "ஒவ்வொரு கட்டத்திலும் தயாரிப்பு சுயாதீனமாகச் சோதிக்கப்படுகின்றது (test)."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#23",
+        "year": 2021,
+        "questionNum": 23,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 2,
+        "questionText": "பொருள் நோக்குடைய செய்நிரல் தொடர்பாகப் (Object Oriented Programming) பின்வரும் எக்கூற்று / கூற்றுகள் சரியானது / சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#24",
+        "year": 2021,
+        "questionNum": 24,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 3,
+        "questionText": "கட்டமைப்பு முறைமைப் பகுப்பாய்வு மற்றும் வடிவமைப்பு முறைகளின் (SSADM) செயற்பாடுகளைப் பின்வருவனவற்றில் எது சரியான வரிசையில் பட்டியற்படுத்துகின்றது?",
+        "options": [
+            "சாத்தியப்பாட்டுக் கற்கை, பௌதிக வடிவமைப்பு, தேவைப் பகுப்பாய்வு, தேவை விவரக்கூற்று, முறைமை விருத்தி",
+            "சாத்தியப்பாட்டுக் கற்கை, தேவைப் பகுப்பாய்வு, தேவை விவரக்கூற்று, தருக்க முறைமை விவரக்கூற்று, பௌதிக வடிவமைப்பு",
+            "சாத்தியப்பாட்டுக் கற்கை, தேவை விவரக்கூற்று, தேவைப் பகுப்பாய்வு, தருக்க முறைமை விவரக்கூற்று, பௌதிக வடிவமைப்பு",
+            "தேவைப் பகுப்பாய்வு, தருக்க முறைமை விவரக்கூற்று, சாத்தியப்பாட்டுக் கற்கை, தேவை விவரக்கூற்று, பௌதிக வடிவமைப்பு",
+            "தேவைப் பகுப்பாய்வு, தேவை விவரக்கூற்று, சாத்தியப்பாட்டுக் கற்கை, பௌதிக வடிவமைப்பு, முறைமை விருத்தி"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#25",
+        "year": 2021,
+        "questionNum": 25,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 3,
+        "questionText": "ஒரு பயணிக்கு அண்மையில் உள்ள வாடகைக் கார்ச் சாரதிகள் பற்றிய ஒரு பட்டியலைத் தரும் ஒரு முறைமையை விருத்தி செய்ய வேண்டியுள்ளது. பின்வருவனவற்றில் எது மேற்குறித்த வரிப்படத்தில் P, Q, R, S ஆகியவற்றுக்கு உகந்த மாற்றீடுகளைக் கொண்டுள்ளது?",
+        "options": [
+            "P - இடவமைவு, Q - சாரதிக் குறிமுறை, R - பயணி மற்றும் சாரதி இடவமைவுகளைப் பெறுக, S - பயணி மற்றும் சாரதி இடவமைவுகள்",
+            "P - இடவமைவு, Q - சாரதிக் குறிமுறையும் இடவமைவும், R - பயணி மற்றும் சாரதி விவரங்களைப் பெறுக, S - பயணி மற்றும் சாரதி விவரங்கள்",
+            "P – NIC எண், Q – NIC எண், R – பயணி மற்றும் சாரதி NIC எண்களைப் பெறுக, S - பயணி மற்றும் சாரதி NIC எண்கள்",
+            "P - பயணிக் குறிமுறை, Q - சாரதிக் குறிமுறை, R - பயணி மற்றும் சாரதிக் குறிமுறைகளைப் பெறுக, S - பயணி மற்றும் சாரதிக் குறிமுறைகள்",
+            "P - பயணிக் குறிமுறை, Q – இடவமைவு, R - பயணி மற்றும் சாரதி இடவமைவுகளைப் பெறுக, S - பயணி மற்றும் சாரதி இடவமைவுகள்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#26",
+        "year": 2021,
+        "questionNum": 26,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 2,
+        "questionText": "மேற்குறித்த முதல்நிலை DFD வரிப்படம் பின்னர் மேம்படுத்தப்பட்டதோடு, தரவுத் தேக்ககம் (D1) ஆனது R செயன்முறையுடன் இணைக்கப்பட்டது. இந்த தரவுத் தேக்ககம் யாதாக இருக்கலாம்?",
+        "options": [
+            "NIC தரவுகள்",
+            "பயணி விவரங்கள்",
+            "வாடகைக் கார்ச் சாரதி விவரங்கள்",
+            "பயணச் செலவு விவரங்கள்",
+            "வானிலை அறிக்கைகள்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#27",
+        "year": 2021,
+        "questionNum": 27,
+        "subTopic": "DATABASE_CONCEPTS",
+        "complexity": 2,
+        "questionText": "ஒரு தரவுத்தளத்தை அடிப்படையாகக் கொண்ட ஒரு முறைமையை விருத்தி செய்யும்போது பின்பற்ற வேண்டிய செயற்பாடுகளின் ஒரு தகுந்த வரிசையைப் பின்வருவனவற்றில் எது தருகின்றது?",
+        "options": [
+            "தரவுத்தளத்தை வடிவமைக்க, DFD ஐ வரைக, ER வரிப்படங்களை வரைக, குறிமுறையைச் செய்க, போலிக்குறிமுறையை எழுதுக",
+            "தரவுத்தளத்தை வடிவமைக்க, போலிக் குறிமுறையை எழுதுக, ER வரிப்படங்களை வரைக, DFD ஐ வரைக, குறிமுறையைச் செய்க",
+            "குறிமுறையைச் செய்க, போலிக்குறிமுறையை எழுதுக, தரவுத்தளத்தை வடிவமைக்க, ER வரிப்படங்களை வரைக, DFD ஐ வரைக",
+            "DFD ஐ வரைக, ER வரிப்படங்களை வரைக, தரவுத்தளத்தை வடிவமைக்க, போலிக்குறிமுறையை எழுதுக, குறிமுறையைச் செய்க",
+            "ER வரிப்படங்களை வரைக, குறிமுறையைச் செய்க, போலிக்குறிமுறையை எழுதுக, தரவுத்தளத்தை வடிவமைக்க, DFD ஐ வரைக"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#28",
+        "year": 2021,
+        "questionNum": 28,
+        "subTopic": "SYSTEM_IMPLEMENTATION_AND_EVALUATION",
+        "complexity": 2,
+        "questionText": "ஏற்புச் சோதனை (acceptance testing) பற்றிப் பின்வரும் கூற்றுகளில் எது / எவை சரியானது / சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#29",
+        "year": 2021,
+        "questionNum": 29,
+        "subTopic": "SYSTEM_IMPLEMENTATION_AND_EVALUATION",
+        "complexity": 2,
+        "questionText": "மென்பொருள் பரவலாக்கல் (deployment) பற்றிப் பின்வரும் எக்கூற்று சரியானது?",
+        "options": [
+            "நேரடிப் (direct) பரவலாக்கல் முற்றாகத் தோல்வியுறும் அதியுயர்ந்த இடரைக் கொண்டிருப்பினும் சில சந்தர்ப்பங்களில் அது மாத்திரம் தகுந்த முறையாக இருக்கலாம்.",
+            "நேரடிப் பரவலாக்கல் செலவுமிக்கதாக இருக்கும் அதே வேளை பயனர்களுக்கு மெதுவாக முறைமை பற்றிக் கற்றலுக்கு வழிவகுக்கும்.",
+            "சமாந்தரப் (parallel) பரவலாக்கல் செலவு குறைந்த பரவலாக்கல் தெரிவாகும்.",
+            "கட்டநிலைப் (phased) பரவலாக்கல் முறைமைக்குத் தேவையான சீராக்கல்களைச் செய்வதற்கு உரிய நிறுவகத்திற்குச் சுதந்திரத்தை அளிப்பதில்லை.",
+            "வெள்ளோட்டப் (pilot) பரவலாக்கல் எப்போதும் பயனர்களில் 50% இலும் கூடிய பயனர் கூட்டத்திற்குப் புதிய முறைமையைச் சோதிப்பதற்கு வழிவகுக்கின்றது."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2021#30",
+        "year": 2021,
+        "questionNum": 30,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளில் எது/எவை சரியானது/சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#31",
+        "year": 2021,
+        "questionNum": 31,
+        "subTopic": "DATABASE_CONCEPTS",
+        "complexity": 1,
+        "questionText": "பின்வருவனவற்றில் எது/எவை தரவுத்தள விருத்தியில் பின்பற்றுவதற்கு உகந்த நடைமுறை / நடைமுறைகள் ஆகும்?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#32",
+        "year": 2021,
+        "questionNum": 32,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 2,
+        "questionText": "தரப்பட்டுள்ள விவரங்களுக்கேற்ப, Results அட்டவணையின் முதன்மைச் சாவியாகத் தெரிந்தெடுப்பதற்குப் பின்வருவனவற்றில் எது மிக உகந்தது?",
+        "options": [
+            "NIC",
+            "SubjectID",
+            "StudentNo",
+            "StudentNo மற்றும் NIC",
+            "StudentNo மற்றும் SubjectID"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#33",
+        "year": 2021,
+        "questionNum": 33,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DML",
+        "complexity": 3,
+        "questionText": "StudentNo, SubjectName, Grade என்பவற்றை எல்லா மாணவர்களுக்கும் பெறுவதற்கான பொருத்தமான SQL கூற்று யாது?",
+        "options": [
+            "SQL Query 1",
+            "SQL Query 2",
+            "SQL Query 3",
+            "SQL Query 4",
+            "SQL Query 5"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#34",
+        "year": 2021,
+        "questionNum": 34,
+        "subTopic": "NORMALIZATION",
+        "complexity": 3,
+        "questionText": "Results அட்டவணை தொடர்பாகப் பின்வரும் எக்கூற்று சரியானது?",
+        "options": [
+            "சாவியல்லாப் (non-key) பண்புகள் (attributes) எல்லாம் முதன்மைச் சாவியை முற்றாகச் செயல்ரீதியில் சார்ந்துள்ளன.",
+            "அது ஒரு பிரதிநிதித்துவச் சாவியைக் (candidate key) கொண்டுள்ளது.",
+            "அது முதலாம் இயல்பாக்கல் (1NF) வடிவத்தில் உள்ளது.",
+            "அது இரண்டாம் இயல்பாக்கல் (2NF) வடிவத்தில் உள்ளது.",
+            "அட்டவணையின் முதலிமை (cardinality) 4 ஆகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#35",
+        "year": 2021,
+        "questionNum": 35,
+        "subTopic": "NORMALIZATION",
+        "complexity": 4,
+        "questionText": "Results அட்டவணையை அடுத்த இயல்பாக்கல் வடிவத்திற்கு மாற்றும்போது எந்தச் சார்புநிலை (dependency) அகற்றப்படும்?",
+        "options": [
+            "அந்நியச் சாவிச் (foreign key) சார்புநிலை",
+            "முதன்மைச் சாவியில் (primary key) சாவியல்லாப் (non-key) பண்புகளின் முழுமைச் செயற் (fully functional) சார்புநிலை",
+            "பல்பெறுமானச் (multi valued) சார்புநிலை",
+            "முதன்மைச் சாவியில் சாவியல்லாப் பண்புகளின் பகுதிச் (partial) சார்புநிலைகள்",
+            "சாவியல்லாப் பண்புகளின் இடைநிலைச் (transitive) சார்புநிலை"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#36",
+        "year": 2021,
+        "questionNum": 36,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 3,
+        "questionText": "ஒரு நிலைபொருள் தொடர்புடைமை (ER) வரிப்படத்தை அமைப்பதற்குரிய படிமுறைகள் கீழே தரப்பட்டுள்ளன. A, B, C, D, E ஆகிய வெற்றிடங்களுக்குரிய சரியான தெரிவுகள் பின்வருவனவற்றில் எதில் காட்டப்பட்டுள்ளன?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4",
+            "Option 5"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#37",
+        "year": 2021,
+        "questionNum": 37,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 2,
+        "questionText": "விரிவாக்கிய நிலைபொருள் தொடர்புடைமை (Extended Entity Relationship) வரிப்படத்துடன் பின்வரும் எது மாதிரியாக்கப்படத்தக்கதாகும்?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#38",
+        "year": 2021,
+        "questionNum": 38,
+        "subTopic": "PROGRAMMING_CONSTRUCTS",
+        "complexity": 3,
+        "questionText": "ஒரு செய்நிரலாக்க (programming) வகுப்பின் ஆசிரியர் பின்வரும் வரிப்படத்தை வரைந்து, A, B, C, D, E ஆகியவற்றினால் காட்டப்படும் கூறுகளை இனங்காணுமாறு மாணவர்களிடம் கூறுகின்றார். பின்வருவனவற்றில் எது A, B, C, D, E ஆகியவற்றுக்குச் சரியான தெரிவுகளைத் தருகின்றது?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4",
+            "Option 5"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#39",
+        "year": 2021,
+        "questionNum": 39,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 4,
+        "questionText": "(Q39-40) பாய்ச்சற் கோட்டுப்படத்தினால் காட்டப்படும் நெறிமுறையைக் கருத்திற்கொண்டு... நெறிமுறை எதிர்பார்த்தவாறு சரியாகத் தொழிற்படுவதற்கு வெற்றிடம் P இற் செருகப்பட வேண்டியது யாது?",
+        "options": [
+            "count = count + 1",
+            "count = count + i",
+            "count = count + x",
+            "n = n - 1",
+            "n = n + 1"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#40",
+        "year": 2021,
+        "questionNum": 40,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 4,
+        "questionText": "(Q39-40) பின்வரும் எந்தப் பைதன் செய்நிரல் / செய்நிரல்கள் பாய்ச்சற் கோட்டுப்படத்தில் உள்ள நெறிமுறையைச் செய்முறைப்படுத்துகின்றது / செய்முறைப்படுத்துகின்றன?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "II, III ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#41",
+        "year": 2021,
+        "questionNum": 41,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் குறிமுறையை நிறைவேற்றிய பின்னர் வெளியீடு யாதாக இருக்கும்? n = 117; m = (n & 127) // (2 ** 3); print(m)",
+        "options": [
+            "1",
+            "14",
+            "14.625",
+            "15",
+            "19"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#42",
+        "year": 2021,
+        "questionNum": 42,
+        "subTopic": "PYTHON_FUNCTIONS_AND_MODULES",
+        "complexity": 4,
+        "questionText": "பின்வரும் பைதன் குறிமுறை நிறைவேற்றப்படும்போது பேறு யாதாக இருக்கும்?",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40",
+            "50"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#43",
+        "year": 2021,
+        "questionNum": 43,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் குறிமுறைக் கூறின் வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "0",
+            "5",
+            "12",
+            "13",
+            "32"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2021#44",
+        "year": 2021,
+        "questionNum": 44,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் குறிமுறை நிறைவேற்றப்படும்போது வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "6",
+            "14",
+            "23",
+            "33",
+            "121"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2021#45",
+        "year": 2021,
+        "questionNum": 45,
+        "subTopic": "WEB_HOSTING_AND_DOMAINS",
+        "complexity": 2,
+        "questionText": "வலைத்தள விருத்தி பற்றிய பின்வரும் வாக்கியத்தை வாசிக்க: ... பின்வருவனவற்றில் எது வெற்றிடம் A இற்கான சரியான தெரிவாகும்?",
+        "options": [
+            "செவிப்புலன் (audio)",
+            "விம்பங்கள் (images)",
+            "உரை (text)",
+            "பயனர்கள் (users)",
+            "காணொளி (video)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2021#46",
+        "year": 2021,
+        "questionNum": 46,
+        "subTopic": "STYLING_WITH_CSS",
+        "complexity": 1,
+        "questionText": "பின்வருவனவற்றில் எது CSS கூட்டத் தேரிக்குச் (group selector) சரியான உதாரணமாகும்?",
+        "options": [
+            "h1{text-align:left; color:blue;}",
+            "h1,h2{text-align:left, color: blue;}",
+            "h1.h2{text-align:left; color:blue;}",
+            "h1:h2{text-align:left; color:blue;}",
+            "h1 h2{text-align:left; color:blue;}"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2021#47",
+        "year": 2021,
+        "questionNum": 47,
+        "subTopic": "STYLING_WITH_CSS",
+        "complexity": 3,
+        "questionText": "பின்வரும் HTML குறிமுறையைக் கருதுக: ... குறிமுறை வலை மேலோடியினூடாகப் பார்க்கப்படும்போது அவதானிக்கத்தக்க விடயங்கள் தொடர்பாகப் பின்வரும் எக்கூற்று / கூற்றுகள் சரியானது / சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2021#48",
+        "year": 2021,
+        "questionNum": 48,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 2,
+        "questionText": "பின்வரும் குறிமுறை வரி ஒரு வலை மேலோடியினூடாக வழங்கப்படுதல் (rendering) தொடர்பாக எக்கூற்று சரியானது? <input type=\"radio\" name=\"vaccinate\" value=\"Yes\">",
+        "options": [
+            "இடப் பக்கத்தில் vaccinate என்னும் ஒரு முகப்படையாளம் உள்ள ஒரு வானொலிப் பொத்தானைக் காட்டுகின்றது.",
+            "வலப் பக்கத்தில் vaccinate என்னும் ஒரு முகப்படையாளம் உள்ள ஒரு வானொலிப் பொத்தானைக் காட்டுகின்றது.",
+            "இடப் பக்கத்தில் Yes என்னும் ஒரு முகப்படையாளம் உள்ள ஒரு வானொலிப் பொத்தானைக் காட்டுகின்றது.",
+            "வலப் பக்கத்தில் Yes என்னும் ஒரு முகப்படையாளம் உள்ள ஒரு வானொலிப் பொத்தானைக் காட்டுகின்றது.",
+            "Yes என்னும் ஒரு வார்த்தை பயனரிற்குக் காண்பிக்கப்படவில்லை."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2021#49",
+        "year": 2021,
+        "questionNum": 49,
+        "subTopic": "DATABASE_CONCEPTS",
+        "complexity": 2,
+        "questionText": "ஒரு MySQL தரவுத்தளத் தொடர்புகையை உருவாக்குவதற்குப் பயன்படுத்தப்படும் பின்வரும் PHP குறிமுறையைக் கருதுக: $conn = new mysqli($var1, $var2, $var3, $var4); பின்வருவனவற்றில் எது மேற்குறித்த மாறிகளின் சரியான வகைகுறிப்பாகும்?",
+        "options": [
+            "$var1 = தரவுத்தளம், $var2 = சேவையகப் பெயர், $var3 = பயனர் பெயர், $var4 = கடவுச்சொல்",
+            "$var1 = தரவுத்தளம், $var2 = பயனர் பெயர், $var3 = கடவுச்சொல், $var4 = சேவையகப் பெயர்",
+            "$var1 = சேவையகப் பெயர், $var2 = தரவுத்தளம், $var3 = பயனர் பெயர், $var4 = கடவுச்சொல்",
+            "$var1 = சேவையகப் பெயர், $var2 = பயனர் பெயர், $var3 = கடவுச்சொல், $var4 = தரவுத்தளம்",
+            "$var1 = பயனர் பெயர், $var2 = கடவுச்சொல், $var3 = சேவையகப் பெயர், $var4 = தரவுத்தளம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2021#50",
+        "year": 2021,
+        "questionNum": 50,
+        "subTopic": "SERVER_SIDE_SCRIPTING_PHP",
+        "complexity": 2,
+        "questionText": "பின்வரும் PHP குறிமுறை நிறைவேற்றப்படும்போது வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "IT classes are 12-A and 12-B",
+            "IT classes are \"12-A\" and \"12-B\"",
+            "IT classes are 12-B and 13-A",
+            "IT classes are .12-A. and .12-B",
+            "IT classes are .12-B. and .13-B"
+        ],
+        "correctOptionIndex": 3
+    }
+]

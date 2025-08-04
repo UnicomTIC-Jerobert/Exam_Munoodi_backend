@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#1",
+        "year": 2020,
+        "questionNum": 1,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 2,
+        "questionText": "ஒரு கணினி முறைவழியாக்கிக்குத் (processor) தேவைப்படும் தரவு எதில் இருக்கும்போது அம்முறைவழியாக்கி விரைவாகத் தொழிற்படும்?",
+        "options": [
+            "பதுக்கு நினைவகம்",
+            "வன்வட்டு",
+            "காந்த நாடா",
+            "முதன்மை நினைவகம்",
+            "ஒளியியல் வட்டு"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#2",
+        "year": 2020,
+        "questionNum": 2,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 2,
+        "questionText": "கணினிக்கான மின் வலு நிற்பாட்டப்படும்போது பின்வரும் வன்பொருள் கூறுகளில் எது/எவை தரவுகளை இழக்கும்? A - பதிவகங்கள், B - பதுக்கு நினைவகம், C - முதன்மை நினைவகம்",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2020_new#3",
+        "year": 2020,
+        "questionNum": 3,
+        "subTopic": "HISTORY_AND_EVOLUTION_OF_COMPUTING",
+        "complexity": 1,
+        "questionText": "ஆரம்பகால பெருமுகக் கணினிகளிலிருந்து (main frames) இப்போது பயன்படுத்தப்படும் உயர் கணிப்பு வலுவுள்ள ஒப்பீட்டளவில் சிறிய சூட்டிகைச் (smart) சாதனங்களாக கணினி உருவாக்கியுள்ளது. கணினிகளின் பௌதிக அளவைக் குறைக்கப் பின்வரும் கண்டுபிடிப்புகளில் எது பங்களிப்புச் செய்தது?",
+        "options": [
+            "பாட்டை (bus)",
+            "ஒருங்கிணைந்த சுற்றுகள்",
+            "பதிவகங்கள்",
+            "திண்ம நிலை (solid state) நினைவகம்",
+            "வெற்றிடக் குழாய்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#4",
+        "year": 2020,
+        "questionNum": 4,
+        "subTopic": "VON_NEUMANN_ARCHITECTURE",
+        "complexity": 3,
+        "questionText": "வரிப்படத்தில் மத்திய செயற்பாட்டலகு (CPU) இல் A இனால் காட்டப்படும் வன்பொருள் பகுதியில் தற்போது இயங்கும் முறைவழியின் (running process) நினைவக மொழிபெயர்ப்புப் படங்களைக் (maps) கொண்ட ஒரு பதிவகத் தொகுதி உள்ளது. நடப்பு முறைவழியின் (current process) ஓர் உள்ளீடாக மெய்நிகர் முகவரி (virtual address) வழங்கப்படும்போது உரிய பௌதிக முகவரியை (physical address) வெளியிடுகின்றது (யாதாயினும் இருப்பின்). மேற்குறித்த வரிப்படத்தில் A ஆனது",
+        "options": [
+            "எண்கணிதத் தருக்க அலகு (ALU) ஆகும்.",
+            "கட்டுப்பாட்டு அலகு ஆகும்.",
+            "முதலாவது மட்ட (L1) பதுக்கு நினைவகம் ஆகும்.",
+            "நினைவக முகாமை அலகு ஆகும்.",
+            "பக்க அட்டவணை ஆகும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2020_new#5",
+        "year": 2020,
+        "questionNum": 5,
+        "subTopic": "BINARY_ARITHMETIC",
+        "complexity": 3,
+        "questionText": "P = 10110001, Q = 01001110 ஆகிய இரு எண்களைக் கருதுக. X = P OR Q, Y = P AND Q ஆயின், X மற்றும் Y யின் பெறுமானங்கள் முறையே,",
+        "options": [
+            "01001110, 10110001",
+            "10110001, 00000000",
+            "10110001, 11111111",
+            "11111111, 00000000",
+            "11111111, 10110001"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2020_new#6",
+        "year": 2020,
+        "questionNum": 6,
+        "subTopic": "REPRESENTING_INTEGERS",
+        "complexity": 2,
+        "questionText": "பதின்ம எண் -12 இன் 2 இன் நிரப்பி யாது?",
+        "options": [
+            "00001100",
+            "00110011",
+            "11110011",
+            "11110100",
+            "11111011"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2020_new#7",
+        "year": 2020,
+        "questionNum": 7,
+        "subTopic": "REPRESENTING_INTEGERS",
+        "complexity": 3,
+        "questionText": "2 இன் நிரப்பி பற்றி பின்வருவனவற்றில் எது உண்மையானது?",
+        "options": [
+            "குறியை (sign) வகைகுறிப்பதற்கு ஒரு மேலதிக பிற்று பயன்படுத்தப்படுகின்றது.",
+            "எண்கணிதச் செய்பணிகளை ஆற்றுவதற்குக் குறைந்த செலவு உள்ள, உயர்கதி வன்பொருள் அமைத்தலைச் சாத்தியமாக்குகின்றது.",
+            "கூட்டலும் கழித்தலும் இரு வேறுபட்ட செயற்பாடுகளாகப் பயன்படுத்தப்படுகின்றன.",
+            "பொதுவாக பதினறும எண் முறைமையில் வகைகுறிக்கப்படுகின்றது.",
+            "தருக்கச் செய்பணிகளை ஆற்றுவதற்கு முதலாம் தலைமுறைக் கணினிகளில் பயன்படுத்தப்படுகின்றது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2020_new#8",
+        "year": 2020,
+        "questionNum": 8,
+        "subTopic": "CHARACTER_ENCODING_SCHEMES",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்டுள்ள அட்டவணை 1 மற்றும் அட்டவணை 2 இல் உள்ள எழுத்து பிரதிநிதித்துவத்தைக் கவனிக்க. கீழே தரப்பட்டுள்ள எந்த எழுத்து குறிமுறையாக்கல் அமைப்புக்களில் (character encoding systems), அட்டவணை 1 மற்றும் அட்டவணை 2 இல் மேலே உள்ள எழுத்துக்கள் முறையே குறிப்பிடப்பட்டுள்ளது?",
+        "options": [
+            "இரண்டு அட்டவணைகளும் 1 மற்றும் 2 : ASCII இல்",
+            "இரண்டு அட்டவணைகளும் 1 மற்றும் 2 : UNICODE இல்",
+            "அட்டவணை 1 : ASCII இல், அட்டவணை 2: UNICODE இல்",
+            "அட்டவணை 1 : EBCDIC இல், அட்டவணை 2: ASCII இல்",
+            "அட்டவணை 1 : UNICODE இல், அட்டவணை 2: ASCII இல்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#9",
+        "year": 2020,
+        "questionNum": 9,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 5,
+        "questionText": "பின்வருவனவற்றில் எது A'BC + B'C' + ABC + BC' இற்குச் சமவலுவுள்ள மிகவும் சுருக்கிய கோவையாகும்?",
+        "options": [
+            "A'BC + ABC + B",
+            "B(AC + A'C) + B",
+            "C(A'B + B) + C'(AB + B)",
+            "AC + A'C + B",
+            "AC + B"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#10",
+        "year": 2020,
+        "questionNum": 10,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 3,
+        "questionText": "ஒரு வரிசைமுறைத் தருக்கச் சுற்றின் ஒரு கட்ட வரிப்படம் (Block diagram) கீழே காட்டப்பட்டுள்ளது. மேற்குறித்த கட்ட வரிப்படத்தைப் பற்றிப் பின்வரும் கூற்றுகளில் எது/எவை சரியானது/சரியானவை?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "I, III ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2020_new#11",
+        "year": 2020,
+        "questionNum": 11,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 5,
+        "questionText": "NAND வாயில்களைக் கொண்ட பின்வரும் தருக்கச் சுற்றைக் கருதுக. மேற்குறித்த சுற்றின் தேவைப்படும் வெளியீடு AB'+ A'B + C' எனின் X, Y ஆகிய உள்ளீடுகள் யாதாக இருக்கும்?",
+        "options": [
+            "X = B மற்றும் Y = C'",
+            "X = B மற்றும் Y = C",
+            "X = B' மற்றும் Y = C",
+            "X = B' மற்றும் Y = C'",
+            "X = C' மற்றும் Y = B"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2020_new#12",
+        "year": 2020,
+        "questionNum": 12,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 1,
+        "questionText": "பணிசெயல் முறைமை (operating system) என்பது கணினியில் ஓடும், ஆனால் சில விசேட பொறுப்புகளைக் கொண்ட வேறொரு செய்நிரலாகும். நினைவு முகாமைத்துவம், கோப்பு முகாமைத்துவம் மற்றும் உள்ளீட்டு/வெளியீட்டு முகாமைத்துவம் ஆகியன இப்பொறுப்புகளில் சிலவாகும். பணிசெயல் முறையின் மற்றுமொரு முக்கியமான பொறுப்பு யாது?",
+        "options": [
+            "காப்பு (backup) முகாமைத்துவம்",
+            "பதுக்கு நினைவக (cache memory) முகாமைத்துவம்",
+            "தொகுப்பி (compiler) முகாமைத்துவம்",
+            "முறைவழி (process) முகாமைத்துவம்",
+            "முறைமைக் கடிகார (system clock) முகாமைத்துவம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2020_new#13",
+        "year": 2020,
+        "questionNum": 13,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 2,
+        "questionText": "ஒற்றை முறைவழியாக்கிக் கணினியில் ஒரு பயனரால் தொடக்கப்பட்ட செயன்முறைகளின் எண்ணிக்கை அதிகரிக்கும்போது பயனரால் உணரப்படும் ஒவ்வொரு முறைவழிக்குமான (process) துலங்கல் நேரத்திற்கும் (response time) மற்றும் நினைவக முகாமைத்துவம் தொடர்பான பணிக்கும் முறையே என்ன நடைபெறும்?",
+        "options": [
+            "துலங்கல் நேரம், நினைவக முகாமைத்துவத்துடன் தொடர்பான பணி ஆகிய இரண்டும் அதிகரிக்கும்.",
+            "துலங்கல் நேரம் குறைவடையும்போது நினைவக முகாமைத்துவத்துடன் தொடர்பான பணி அதிகரிக்கும்.",
+            "துலங்கல் நேரம் அதிகரிக்கும்போது நினைவக முகாமைத்துவத்துடன் தொடர்புடைய பணி குறைவடையும்.",
+            "நினைவக முகாமைத்துவத்துடன் தொடர்பான பணியும் துலங்கல் நேரமும் குறைவடையும்.",
+            "அவை இரண்டிலும் எந்த மாற்றமும் இல்லை."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2020_new#14",
+        "year": 2020,
+        "questionNum": 14,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 3,
+        "questionText": "பின்வருவனவற்றில் எது பணிசெயல் முறைமையின் ஒரு பொறுப்பன்று?",
+        "options": [
+            "முறைவழிகளுக்குப் பௌதிக நினைவகத்தை ஒதுக்கல்",
+            "எம்முறைவழியை ஓடவிடவேண்டுமெனத் தீர்மானித்தல்",
+            "ஒரு வன்வட்டில் தொகுத்த செய்நிரற் கோப்புகளின் பயன்பாடு பற்றிய குறிப்பை வைத்திருத்தல்",
+            "பௌதிக நினைவகத்தின் எப்பகுதிகள் பயன்படுகின்றன, எப்பகுதிகள் சுயாதீனமாக இருக்கின்றன என்பது பற்றிய குறிப்பை வைத்திருத்தல்",
+            "பௌதிக நினைவகத்திற்கும் வன்வட்டிற்குமிடையே இடைமாற்றும் முறைவழிகள்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2020_new#15",
+        "year": 2020,
+        "questionNum": 15,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 2,
+        "questionText": "ஒரு கணினியில் பயனர் செய்நிரலின் பருமன் பௌதிக நினைவகத்தின் பருமனை விஞ்சலாம். அத்துடன் செய்நிரல்களின் தேவைப்படும் பகுதிகள் மாத்திரம் பௌதிக நினைவகத்தில் பேணப்படுகின்றன. மேற்குறித்தவற்றுக்குப் பின்வரும் எது காரணமாக இருக்கலாம்?",
+        "options": [
+            "பதுக்கு நினைவகத்தைப் பயன்படுத்தல்",
+            "கோப்பின் தொடர் ஒதுக்கீட்டைப் (contiguous file allocation) பயன்படுத்தல்",
+            "கோப்பு ஒதுக்கீட்டு அட்டவணையை (FAT) பயன்படுத்தல்",
+            "நினைவக முகாமை அலகுகளைப் (MMU) பயன்படுத்தல்",
+            "பக்கங்கள் (pages), சட்டங்கள் (frames), பக்க அட்டவணைகள் (page tables) ஆகியவற்றைப் பயன்படுத்தல்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#16",
+        "year": 2020,
+        "questionNum": 16,
+        "subTopic": "PROGRAMMING_CONSTRUCTS",
+        "complexity": 2,
+        "questionText": "தொகுப்பிகள் (compilers) மற்றும் வரிமொழிமாற்றிகள் (interpreters) என்பன பற்றிய பின்வரும் கூற்றுக்களில் எது சரியானது?",
+        "options": [
+            "A - ஒரு தொகுப்பி முழு உயர்நிலை மொழி செயல்நிரலையும் அதன் பொறிக் குறிமுறையாக மாற்றுகின்றது.",
+            "B - ஒரு வரிமொழிமாற்றி ஒவ்வோர் உயர்நிலை மொழி செயல்நிரற் கூற்றையும் செயல்நிரல் இயக்கத்தின் போது தொடர்புடைய பொறிக் குறிமுறையாக மாற்றுகின்றது.",
+            "C - பொதுவாக தொகுப்பி குறிமுறைகள் வரிமொழிமாற்றி குறிமுறைகளை விட வேகமாக இயங்கும்.",
+            "A, C மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#17",
+        "year": 2020,
+        "questionNum": 17,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 2,
+        "questionText": "வழிப்படுத்தப்பட்ட (guided) ஊடகங்களையும் வழிப்படுத்தப்படாத (unguided) ஊடகங்களையும் பற்றிய பின்வரும் கூற்றுகளில் எவை சரியானவை?",
+        "options": [
+            "A, B, C ஆகியன மாத்திரம்",
+            "A, B, D ஆகியன மாத்திரம்",
+            "A, C, D ஆகியன மாத்திரம்",
+            "B, C, D ஆகியன மாத்திரம்",
+            "A, B, C, D ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#18",
+        "year": 2020,
+        "questionNum": 18,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 1,
+        "questionText": "பண்பேற்றத் (modulation) தொழினுட்பத்தில் நிறைவேற்றப்படும் முறைவழி (process) யாது?",
+        "options": [
+            "ஊடுகடத்தும் சைகையில் தகவலைக் குறிமுறைப்படுத்தல்",
+            "ஊடுகடத்தும் தகவலில் சைகையைக் குறிமுறைப்படுத்தல்",
+            "ஊடுகடத்தும் சைகையிலிருந்து தகவலைப் பிரித்தெடுத்தல்",
+            "ஊடுகடத்தும் தகவலிலிருந்து சைகையைப் பிரித்தெடுத்தல்",
+            "குறைந்தபட்சத் திரிவுடன் தகவலை இடம்மாற்றல்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#19",
+        "year": 2020,
+        "questionNum": 19,
+        "subTopic": "NETWORK_TYPES_AND_TOPOLOGIES",
+        "complexity": 2,
+        "questionText": "பாட்டை இடத்தியல் (bus topology) பற்றிய பின்வரும் கூற்றுகளில் எவை பிழையானவை?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, D ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "B, D ஆகியன மாத்திரம்",
+            "C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#20",
+        "year": 2020,
+        "questionNum": 20,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 1,
+        "questionText": "ஓர் ஊடக அணுகற் கட்டுப்பாட்டு (Media Access Control-MAC) முகவரி வழக்கமாக ______ எண்களில் வகைகுறிக்கப்படும்.",
+        "options": [
+            "இரும",
+            "பதின்ம",
+            "பதினறும",
+            "இயற்கை",
+            "எண்ம"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#21",
+        "year": 2020,
+        "questionNum": 21,
+        "subTopic": "IP_ADDRESSING_AND_SUBNETTING",
+        "complexity": 3,
+        "questionText": "ஒரு வகுப்பு C இணைய உடன்படுநெறிமுறை (IP) யினை உபயோகித்து 16 உபவலைகளை உருவாக்குமாறு உம்மிடம் வேண்டுகோள் விடுக்கப்பட்டுள்ளது. உபவலையை உருவாக்குவதற்கு எந்த உபவலை மறைமுகம் (subnet mask) உகந்தது?",
+        "options": [
+            "255.255.255.240",
+            "255.255.255.248",
+            "255.255.255.250",
+            "255.255.255.252",
+            "255.255.255.224"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2020_new#22",
+        "year": 2020,
+        "questionNum": 22,
+        "subTopic": "SYSTEM_IMPLEMENTATION_AND_EVALUATION",
+        "complexity": 2,
+        "questionText": "முறைமையினைப் சரிபார்ப்பதற்குரிய (testing) பற்றிய பின்வரும் கூற்றுகளில் எது/எவை சரியானது/சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2020_new#23",
+        "year": 2020,
+        "questionNum": 23,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றில் எது செயல்சார் தேவைகளைக் குறிக்கின்றது (functional requirements)?",
+        "options": [
+            "A - பயனர்கள் தமது தொடர்பு கொள்ளும் முகவரிகளையும் தொலைபேசி எண்களையும் இற்றைப்படுத்துவதற்கு அனுமதிக்கப்பட வேண்டும்.",
+            "B - எந்தவொரு பயனரின் கோரிக்கையும் 2 ms நேரத்தினுள் பதிலளிக்கப்பட வேண்டும்.",
+            "C - முறைமை எளிதாக மாற்றப்படத்தக்கதாக இருக்க வேண்டும்.",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2020_new#24",
+        "year": 2020,
+        "questionNum": 24,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 3,
+        "questionText": "ஒரு மென்பொருள் செயற்றிட்டம் பற்றிய பின்வரும் விவரங்கள் தரப்பட்டுள்ளன. இச்செயற்றிட்டத்திற்கு மிகவும் உகந்த மென்பொருள் முறைவழி மாதிரி (software process model) யாது?",
+        "options": [
+            "சுறுசுறுப்பு (agile)",
+            "முன்மாதிரியம் (prototype)",
+            "விரைவு பிரயோக அபிவிருத்தி (Rapid Application Development)",
+            "சுருளி (spiral)",
+            "நீர்வீழ்ச்சி (waterfall)"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2020_new#25",
+        "year": 2020,
+        "questionNum": 25,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 2,
+        "questionText": "தரவுப் பாய்ச்சல் வரிப்படங்கள் (Data Flow Diagram-DFD) பற்றிய பின்வரும் கூற்றுகளில் பிழையானது யாது?",
+        "options": [
+            "சந்தர்ப்ப (context) வரிப்படமானது அதியுயர் மட்ட கருத்துப்பொருள் (abstraction) உள்ள DFD ஆகும்.",
+            "முறைமையில் உள்ள எல்லா தரவு தேக்கல்களும் (data stores) சந்தர்ப்ப வரிப்படத்தில் குறிப்பிடப்பட வேண்டும்.",
+            "DFD களில் உள்ள ஏனைய கூறுகளை இணைப்பதற்கு தரவுப் பாய்ச்சல்கள் பயன்படுத்தப்படுகின்றன.",
+            "அடிப்படைச் செயன்முறைகள் (elementary processes) மேலும் பிரிகையடையச் (decompose) செய்யப்படுவதில்லை.",
+            "DFD களில் உள்ள வெளி நிலைபொருள்கள் (external entities) மூலங்களாக அல்லது தரவு பெறுநர்களாகச் செயற்படுகின்றன."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#26",
+        "year": 2020,
+        "questionNum": 26,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DDL",
+        "complexity": 2,
+        "questionText": "‘ALdb’ எனப்படும் ஒரு தரவுத்தளத்தை நீக்குவதற்குரிய (delete) சரியான SQL கூற்று யாது?",
+        "options": [
+            "delete ALdb;",
+            "delete database ALdb;",
+            "drop ALdb;",
+            "drop database ALdb;",
+            "remove database ALdb;"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#27",
+        "year": 2020,
+        "questionNum": 27,
+        "subTopic": "NORMALIZATION",
+        "complexity": 3,
+        "questionText": "இரண்டாம் சாதாரண வடிவத்தில் (2NF) உள்ள ஒரு தொடர்பு பற்றிய பின்வரும் கூற்றுகளில் எது / எவை உண்மையானது / உண்மையானவை?",
+        "options": [
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#28",
+        "year": 2020,
+        "questionNum": 28,
+        "subTopic": "DATABASE_CONCEPTS",
+        "complexity": 2,
+        "questionText": "தருக்கத் தரவுத்தளத் திட்டம் (logical database schema) பற்றிய பின்வரும் கூற்றுகளில் எது உண்மையானது?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#29",
+        "year": 2020,
+        "questionNum": 29,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DDL",
+        "complexity": 2,
+        "questionText": "பின்வரும் SQL கூற்றைக் கருதுக: Alter table subject add primary key (Subject_Id); இவ் SQL கூற்றினைப் பற்றிப் பின்வருவனவற்றில் எது பிழையானது?",
+        "options": [
+            "அது subject எனப்படும் அட்டவணைக்கு ஒரு முதன்மைச் சாவிக் கட்டுப்பாட்டைச் சேர்க்கின்றது.",
+            "subject எனப்படும் அட்டவணை ஏற்கெனவே இருத்தல் வேண்டும்.",
+            "புலம் Subject_Id ஆனது வெற்றாக (null) இருத்தலாகாது.",
+            "Subject_Id எனப்படும் ஒரு முதன்மைச் சாவியுடன் subject எனப்படும் ஓர் அட்டவணை உருவாக்கப்படுகின்றது.",
+            "Subject_Id புலத்தின் பெறுமதிகள் subject அட்டவணையில் மீண்டும் இடம்பெறலாகாது."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#30",
+        "year": 2020,
+        "questionNum": 30,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 4,
+        "questionText": "நூலாசிரியர்கள் மற்றும் நூல்கள் என்பன பற்றிய பின்வரும் சூழ்நிலைக்காட்சிக்கு மிகவும் உகந்த நிலைபொருள் தொடர்புடைமை (ER) வகைகுறிப்பு யாது?",
+        "options": [
+            "ERD 1",
+            "ERD 2",
+            "ERD 3",
+            "ERD 4",
+            "ERD 5"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2020_new#31",
+        "year": 2020,
+        "questionNum": 31,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 3,
+        "questionText": "மேற்குறித்த சூழ்நிலைக்காட்சியில் உள்ள நிலைபொருள் தொடர்புடைமைகளை ஒரு தொடர்புத் திட்டத்துடன் (relational schema) படமாக்கும்போது (mapping) தொடக்கத்தில் (initial) எத்தனை அட்டவணைகள் பெறப்படலாம்?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#32",
+        "year": 2020,
+        "questionNum": 32,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 3,
+        "questionText": "(Q32-34) நெறிமுறை சரியாகத் தொழிற்படுவதற்கு வெற்றிடம் P இல் செருகப்பட வேண்டியது யாது?",
+        "options": [
+            "n = n-1",
+            "n = n+1",
+            "count = count + 1",
+            "count = count + i",
+            "count = count + n"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#33",
+        "year": 2020,
+        "questionNum": 33,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 3,
+        "questionText": "(Q32-34) நெறிமுறை சரியாகத் தொழிற்படுவதற்கு வெற்றிடம் Q இல் செருகப்பட வேண்டியது யாது?",
+        "options": [
+            "Is i<n?",
+            "Is i=n?",
+            "Is count<n?",
+            "Is count<K?",
+            "Is n>0?"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#34",
+        "year": 2020,
+        "questionNum": 34,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 4,
+        "questionText": "(Q32-34) பின்வரும் I, II, III இல் காட்டப்படும் பைதன் செய்நிரல்களைக் கருதுக. மேற்குறித்த எப் பைதன் செய்நிரல் தரப்பட்ட நெறிமுறையை செயற்படுத்தும்?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "I, III ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#35",
+        "year": 2020,
+        "questionNum": 35,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் குறிமுறையின் உள்ளீடு 17 எனின், வெளியீடு யாது? n = float(input()); m = (n // (n % 5)) ** 3; print(m)",
+        "options": [
+            "24.0",
+            "25.5",
+            "512.0",
+            "614.125",
+            "வழுத் தகவல்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#36",
+        "year": 2020,
+        "questionNum": 36,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 2,
+        "questionText": "ஒரு பைதன் செய்நிரலில் S ஒரு சரம் (string) எனவும் L ஒரு பட்டியல் (list) எனவும் T ஒரு பதிவு (tuple) எனவும் கொள்க. ஒவ்வொன்றினதும் நீளம் (length) 10 ஆகும். பின்வரும் பைதன் கூற்றுகளைக் கருதுக: I - S[2] = '2', II - L[2] = '2', III - T[2] = '2'. எது/எவை ஒரு வழுவைப் பிறப்பிக்கும்?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "I, III ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#37",
+        "year": 2020,
+        "questionNum": 37,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 2,
+        "questionText": "பின்வரும் பைதன் குறிமுறைக் கூறின் வெளியீடு யாதாக இருக்கும்? S = \"corona virus pandemic\"; V = \"aeiou\"; ... print(count)",
+        "options": [
+            "0",
+            "5",
+            "8",
+            "19",
+            "21"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#38",
+        "year": 2020,
+        "questionNum": 38,
+        "subTopic": "PYTHON_FUNCTIONS_AND_MODULES",
+        "complexity": 4,
+        "questionText": "பின்வரும் பைதன் குறிமுறை நிறைவேற்றப்படும்போது வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "வழுத் தகவல்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#39",
+        "year": 2020,
+        "questionNum": 39,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 2,
+        "questionText": "பின்வரும் பைதன் குறிமுறையின் உள்ளீடு 100 ஆக இருப்பின், வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "Z"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#40",
+        "year": 2020,
+        "questionNum": 40,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 4,
+        "questionText": "பின்வரும் பைதன் குறிமுறையின் வெளியீடு யாதாக இருக்கும்?",
+        "options": [
+            "100",
+            "85",
+            "79",
+            "72",
+            "7"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2020_new#41",
+        "year": 2020,
+        "questionNum": 41,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் செய்நிரலைக் கருதுக: ... மேற்குறித்த செய்நிரல் பற்றிப் பின்வரும் கூற்றுகளில் எது/எவை சரியானது/சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2020_new#42",
+        "year": 2020,
+        "questionNum": 42,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 1,
+        "questionText": "ஒரு வரைவிலக்கணப் பட்டியலை (definition list) வரையறுப்பதற்குப் பின்வரும் HTML ஒட்டுகளில் (tags) எவை பயன்படுத்தப்படும்?",
+        "options": [
+            "<dl>, <dd>, <li>",
+            "<dl>, <dt>, <dd>",
+            "<dl>, <td>, <dd>",
+            "<dl>, <th>, <dd>",
+            "<dl>, <th>, <td>"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2020_new#43",
+        "year": 2020,
+        "questionNum": 43,
+        "subTopic": "SERVER_SIDE_SCRIPTING_PHP",
+        "complexity": 1,
+        "questionText": "பின்வரும் PHP குறிமுறைத் தொகுதியின் எதிர்பார்க்கும் வெளியீடு யாது? <?php $one = \"Welcome\"; $two = \"2020\"; echo $one.$two ; ?>",
+        "options": [
+            "Welcome.2020",
+            "Welcome2020",
+            "Welcome 2020",
+            "Welcome;2020;",
+            "Welcome.2020;"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2020_new#44",
+        "year": 2020,
+        "questionNum": 44,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 2,
+        "questionText": "HTML இல் உள்ள வானொலிப் பொத்தான்கள் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக.",
+        "options": [
+            "A மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2020_new#45",
+        "year": 2020,
+        "questionNum": 45,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 3,
+        "questionText": "பின்வருவனவற்றில் எது ஒரு வலைப்பக்கத்தின் தரவிறக்கக் கதியைக் (downloading speed) குறைந்தளவில் பாதிக்கின்றது?",
+        "options": [
+            "வலை மேலோடியின் (browser) ஆற்றல் (capability)",
+            "வலைப் பக்கத்தில் உள்ள மீயிணைப்புகளின் (hyperlinks) எண்ணிக்கை",
+            "வலைப் பக்கத்தில் உள்ள விம்பங்களின் (image) எண்ணிக்கையும் அவற்றின் அளவும்",
+            "வலைப் பக்கத்தைத் தேக்கி வைக்கும் சேவையகக் கணினியின் முறைவழியாக்கல் வலு",
+            "வலைப் பக்கத்தை அணுகுவதற்குப் பயன்படுத்தப்படும் இணையத் தொடுப்பின் பட்டையகலம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2020_new#46",
+        "year": 2020,
+        "questionNum": 46,
+        "subTopic": "STYLING_WITH_CSS",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்டுள்ள குறிமுறை பற்றிய பின்வரும் கூற்றுகளில் எது உண்மையானது? <style> .title { ... } </style>",
+        "options": [
+            "இது அகநிலைப் பாணிகளை (internal style) வரையறுத்து CSS ‘வகுப்பு' (class) எண்ணக்கருவைப் பயன்படுத்துகின்றது.",
+            "இது அகநிலைப் பாணிகளை வரையறுத்து CSS ‘கூட்ட’(group) எண்ணக்கருவைப் பயன்படுத்துகின்றது.",
+            "இது உள்கோட்டுப் பாணிகளை (inline style) வரையறுத்து CSS ‘கூட்ட' (group) எண்ணக்கருவைப் பயன்படுத்துகின்றது.",
+            "குறிமுறையினுள்ளே வரையறுக்கப்படும் பாணிகளை ஒரு வகை மூலகத்திற்கு (element) மாத்திரம் பயன்படுத்தலாம்.",
+            "இது CSS ‘Id’ எண்ணக்கருவிற்கு ஓர் உதாரணமாக இருக்கும் அதே வேளை Id இன் பெயர் ‘title’ஆகும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2020_new#47",
+        "year": 2020,
+        "questionNum": 47,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 2,
+        "questionText": "பின்வரும் HTML குறியீட்டு வரியைக் கருதுக. <a href=\"#PartA\"> Go to Part A </a>. எது மேற்குறித்த குறிமுறை வரியின் விளைவை விவரிக்கின்றது?",
+        "options": [
+            "நிரல் 1",
+            "நிரல் 2",
+            "நிரல் 3",
+            "நிரல் 4",
+            "நிரல் 5"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2020_new#48",
+        "year": 2020,
+        "questionNum": 48,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 2,
+        "questionText": "இலத்திரனியல் வர்த்தகம் (e-commerce) தொடர்பான பின்வரும் கூற்றுகளில் எது/எவை உண்மையானது/உண்மையானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2020_new#49",
+        "year": 2020,
+        "questionNum": 49,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றைக் கருதுக: A-வானில் முகில் உண்டாதல், B-உயிர்வாழ் இனங்களின் பரிணாமம், C-மனித மூளையில் நரம்புக்கலங்கள் தொழிற்படும் விதம். மேற்குறித்தவற்றில் எது/எவை உயிரியல் உள்ளீர்ப்புக் கணிப்பில் (bio-inspired computing) பயன்படுத்தப்படலாம்?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2020_new#50",
+        "year": 2020,
+        "questionNum": 50,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 2,
+        "questionText": "சொட்டுக் கணிப்புப் (quantum computing) பற்றிய பின்வரும் கூற்றுகளில் எது/எவை சரியானது/சரியானவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2018#1",
+        "year": 2018,
+        "questionNum": 1,
+        "subTopic": "NUMBER_SYSTEM_CONVERSIONS",
+        "complexity": 3,
+        "questionText": "முறையே பதின்ம, எண்ம, பதினறுமக் குறிப்பீடுகளில் உள்ள பின்வரும் மூன்று எண்களையும் கருதுக. A - 231₁₀, B - 347₈, C - E7₁₆. மேற்குறித்தவற்றில் எது/எவை இரும 11100111₂ இற்குச் சமவலுவுள்ளது/சமவலுவுள்ளன ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2018#2",
+        "year": 2018,
+        "questionNum": 2,
+        "subTopic": "REPRESENTING_REAL_NUMBERS",
+        "complexity": 2,
+        "questionText": "இரும 110101.11₂ இற்குச் சமவலுவுள்ள பதின்ம எண் யாது ?",
+        "options": [
+            "53.00₁₀",
+            "53.50₁₀",
+            "53.75₁₀",
+            "54.25₁₀",
+            "54.75₁₀"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#3",
+        "year": 2018,
+        "questionNum": 3,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 1,
+        "questionText": "பின்வருவனவற்றில் எது ‘தொலைப்பயணித்தல்' (telecommuting) என்னும் பதத்தை விளக்குகின்றது ?",
+        "options": [
+            "ஓர் ஊழியர் ஒன்றிலிருந்தொன்று வேறுபட்ட புவியியல் இடங்களிலிருந்து நவீன தொழினுட்பவியலைப் பயன்படுத்திக் கடமைகளை வசதியாகச் செய்வதற்கான ஆற்றல்",
+            "பல்வேறு புவியியல் இடங்களிலிருந்து வெவ்வேறு நபர்களுடன் நிகழ்நிலைக் (online) கூட்டங்களை நடத்தல்",
+            "சமுதாயச் சேவைகளுக்காக ICT ஐப் பயன்படுத்தல்",
+            "தகவலை மீட்பதற்கு (retrieve) வலையை அடிப்படையாகக் கொண்ட பிரயோகங்களைப் பயன்படுத்தல்",
+            "நிதிக் கொடுக்கல் வாங்கல்களை நிகழ்நிலையாகச் செய்தல்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2018#4",
+        "year": 2018,
+        "questionNum": 4,
+        "subTopic": "FUNDAMENTALS_OF_A_COMPUTER_SYSTEM",
+        "complexity": 3,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக: A - ஒரு கணினியின் சொற் பருமன் (word size) என்பது மைய முறைவழி அலகின் (CPU) மூலம் ஒரு (தனிச்) செயலில் முறைவழியாக்கப்படும் பிற்றுகளின் எண்ணிக்கையாகும். B - தரவுப் பாட்டையின் அளவு (data bus width), பதிவகத்தின் அளவு (register width) ஆகியன கணினியின் சொற் பருமனுடன் நேரடியாகத் தொடர்புபட்டுள்ளன. C - பொது நோக்கத்திற்கான நவீன கணினிகளின் சொற் பருமன் 32 அல்லது 64 பிற்றுகளாகும்.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#5",
+        "year": 2018,
+        "questionNum": 5,
+        "subTopic": "NETWORK_SECURITY",
+        "complexity": 3,
+        "questionText": "பின்வரும் கூற்றுகளில் சரியானவை யாவை ? A-Public key cryptography. B-Phishing. C-Port scanning. D-Digital signature.",
+        "options": [
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகியன மாத்திரம்",
+            "A, C, D ஆகியன மாத்திரம்",
+            "B, C, D ஆகியன மாத்திரம்",
+            "A, B, C, D ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#6",
+        "year": 2018,
+        "questionNum": 6,
+        "subTopic": "NETWORK_PROTOCOLS",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக: A - DHCP. B - DNS. C - FTP. மேற்குறித்த கூற்றுகளில் சரியானது/சரியானவை யாது/யாவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#7",
+        "year": 2018,
+        "questionNum": 7,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக: A - TCP is connection oriented. B - UDP is connectionless. C - TCP, UDP are transport layer protocols.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#8",
+        "year": 2018,
+        "questionNum": 8,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 2,
+        "questionText": "OSI மேற்கோள் மாதிரியத்தில் பணிப்பின்னல் அடுக்கு (network layer) ______ தொடர்பாடலுக்குப் பங்களிப்புச் செய்கின்றது.",
+        "options": [
+            "கணுவிலிருந்து கணுவிற்கு (node to node)",
+            "ஆதாரமூலத்திலிருந்து சேரிடத்திற்கு (source to destination)",
+            "தாவலிலிருந்து தாவலிற்கு (hop to hop)",
+            "ஆளியிலிருந்து வழிப்படுத்திக்கு (switch to router)",
+            "முறைவழியிலிருந்து முறைவழிக்கு (process to process)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#9",
+        "year": 2018,
+        "questionNum": 9,
+        "subTopic": "IP_ADDRESSING_AND_SUBNETTING",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றில் எது ஒரு வகுப்பு C வலையமைப்பில் உள்ள விருந்தோம்பிப் (host) பிற்று எண்ணிக்கையையும் IP முகவரி எண்ணிக்கையையும் முறையே காட்டுகின்றது ?",
+        "options": [
+            "8, 256",
+            "8, 65536",
+            "16, 256",
+            "16, 65536",
+            "24, 256"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#10",
+        "year": 2018,
+        "questionNum": 10,
+        "subTopic": "IP_ADDRESSING_AND_SUBNETTING",
+        "complexity": 2,
+        "questionText": "பின்வரும் எவ்வலையமைப்பு வகுப்புக்கு 192.248.254.1 எனும் IP முகவரி உரியது ?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2018#11",
+        "year": 2018,
+        "questionNum": 11,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 1,
+        "questionText": "OSI மேற்கோள் மாதிரியத்தில் பணிப்பின்னல் அடுக்கில் (network layer) உடன்படு நெறிமுறைத் தரவு அலகு (protocol data unit) ______ எனப்படும்.",
+        "options": [
+            "சட்டகம் (frame)",
+            "துண்டு (segment)",
+            "சாளரம் (window)",
+            "செய்தி (message)",
+            "பொட்டலம் (packet)"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2018#12",
+        "year": 2018,
+        "questionNum": 12,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 2,
+        "questionText": "தரப்பட்டுள்ள கணினித் தேக்ககக் கூறுகளின் அடைவுக் கதி (access speed) இறங்கு வரிசையில் சரியாகப் பட்டியற்படுத்தப்பட்டுள்ள விடை யாது ?",
+        "options": [
+            "cache memory > main memory > magnetic disk > register",
+            "magnetic disk > main memory > cache memory > register",
+            "main memory > magnetic disk > register > cache memory",
+            "register > cache memory > main memory > magnetic disk",
+            "register > main memory > magnetic disk > cache memory"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2018#13",
+        "year": 2018,
+        "questionNum": 13,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 3,
+        "questionText": "பின்வரும் கணினித் தேக்ககச் சாதனங்களைக் கருதுக: A-CMOS, B-Cache, C-Flash, D-Hard disk, E-RAM, F-Registers. மேற்குறித்தவற்றில் அழிதகு (volatile) நினைவக வகைகளாவன",
+        "options": [
+            "A, C, D ஆகியன மாத்திரம்",
+            "A, D, E ஆகியன மாத்திரம்",
+            "A, E, F ஆகியன மாத்திரம்",
+            "B, E, F ஆகியன மாத்திரம்",
+            "C, E, F ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2018#14",
+        "year": 2018,
+        "questionNum": 14,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 3,
+        "questionText": "HTML தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக: A-Frames are used to divide a browser window. B-The rows attribute in <frameset> defines the number of vertical frames. C-<frameset cols=...> creates three vertical frames.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2018#15",
+        "year": 2018,
+        "questionNum": 15,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்ட HTML குறிமுறையையும் எதிர்பார்க்கப்படும் வெளியீட்டையும் கருதுக. முகப்படையாளங்களுக்கு இடவேண்டிய ஒட்டுகளின் (tags) சரியான வரிசை யாது ?",
+        "options": [
+            "dt, dl, dd",
+            "dl, dt, dd",
+            "dd, dt, dl",
+            "dt, dd, dl",
+            "dl, dd, dt"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2018#16",
+        "year": 2018,
+        "questionNum": 16,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 3,
+        "questionText": "ஓர் அட்டவணையை உருவாக்குவதற்குரிய பின்வரும் HTML குறிமுறையைக் கருதுக. மேற்குறித்த குறிமுறையினால் பிறப்பிக்கப்படும் வெளியீடு (வருவிளைவு) பின்வருவனவற்றில் எது ?",
+        "options": [
+            "Output 1",
+            "Output 2",
+            "Output 3",
+            "Output 4",
+            "Output 5"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2018#17",
+        "year": 2018,
+        "questionNum": 17,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 1,
+        "questionText": "ஒரு விம்பத்தைச் செருகுவதற்குரிய சரியான HTML கூற்று பின்வருவனவற்றில் யாது ?",
+        "options": [
+            "<img href=\"image.gif\" alt=\"MyImage\">",
+            "<img alt=\"MyImage\">image.gif</img>",
+            "<img src=\"image.gif\" alt=\"MyImage\">",
+            "<image src=\"image.gif\" href=\"MyImage\">",
+            "<img href=\"image.gif\" src=\"MyImage\">"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#18",
+        "year": 2018,
+        "questionNum": 18,
+        "subTopic": "DATA_AND_INFORMATION",
+        "complexity": 3,
+        "questionText": "1969 இல் முதன்முறையாக ஒரு மனிதனைச் சந்திரனின் மேற்பரப்பில் இறக்குவதற்கான விண்வெளிப் பயணத்தைக் கருதுக. பின்வரும் நிகழ்வுகளில் எது அதியுயர் தகவற் பெறுமானத்தைக் காட்டுகின்றது ?",
+        "options": [
+            "விண்வெளி ஓடத்தைக் கொண்டு சென்ற ரொக்கெற்றைச் செலுத்துவதற்கான கீழ்க் கணிப்பு (counting down)",
+            "புவியின் ஈர்ப்புப் புலத்திலிருந்து விண்வெளி ஓடம் தப்பிய கணம்",
+            "சந்திரனின் ஈர்ப்புப் புலத்தினுள்ளே விண்வெளி ஓடம் புகுந்த கணம்",
+            "சந்திரனின் மேற்பரப்பு மீது விண்வெளிப் பயணி நீல் ஆம்ஸ்ரோங் முதன்முதலாக அடியெடுத்து வைத்த கணம்",
+            "விண்வெளிப் பயணிகள் புவிக்குத் திரும்பி வரும் தமது பயணத்தின்போது கடலில் இறங்கிய கணம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#19",
+        "year": 2018,
+        "questionNum": 19,
+        "subTopic": "HISTORY_AND_EVOLUTION_OF_COMPUTING",
+        "complexity": 2,
+        "questionText": "காலத்துடன் கணினிகளின் அபிவிருத்தி பற்றிய பின்வரும் கூற்றுகளைக் கருதுக: A - கணினிகளின் முறைவழிப்படுத்தும் கதியும் மின்வலு நுகர்ச்சியும் அதிகரித்துள்ளன. B - கணினியின் முறைவழிப்படுத்தும் கதி அதிகரித்துள்ள அதேவேளை கணினியின் பௌதிகப் பருமன் குறைந்துள்ளது. C - கணினியின் மின்வலு நுகர்ச்சியும் பௌதிகப் பருமனும் குறைந்துள்ளன.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#20",
+        "year": 2018,
+        "questionNum": 20,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 3,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக: A-Privacy issue. B-Piracy issue. C-Hacking. மேற்குறித்த கூற்றுகளில் செல்லுபடியானது/செல்லுபடியானவை யாது/யாவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2018#21",
+        "year": 2018,
+        "questionNum": 21,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 2,
+        "questionText": "பின்வரும் பூலக் கோவையைக் கருதுக: A + B.C. பின்வருவனவற்றில் எது/எவை மேற்குறித்த கோவைக்குச் சமவலுவுள்ளது/சமவலுவுள்ளன ? I. (A+B).C, II. A.(B+C), III. (A+B).(A+C)",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "III மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "II, III ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2018#22",
+        "year": 2018,
+        "questionNum": 22,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 4,
+        "questionText": "பின்வரும் தருக்கச் சுற்றைக் கருதுக. (Shows a circuit). பின்வரும் சுற்றுகளில் எது/எவை மேற்குறித்த சுற்றுக்குச் சமவலுவுள்ளது/சமவலுவுள்ளன ?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "III மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#23",
+        "year": 2018,
+        "questionNum": 23,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 3,
+        "questionText": "(Q23-25) பாய்ச்சற் கோட்டுப்படத்தின் மூலம் எடுத்துரைக்கப்படும் நெறிமுறை தொடர்பாகப் பின்வருவனவற்றில் எது/எவை சரியானது/சரியானவை ? A-It takes 10 inputs. B-It calculates sum of even numbers. C-To get 100 inputs, changing i<=10 is enough.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#24",
+        "year": 2018,
+        "questionNum": 24,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 4,
+        "questionText": "(Q23-25) பின்வரும் எண்களை உள்ளீடுகளாக மேற்குறித்த நெறிமுறைக்கு வழங்கினால், வெளியீடு (வருவிளைவு) யாது ? 2, 8, 9, 3, 4, 10, 6, 5, 13, 19, 12, 7",
+        "options": [
+            "10",
+            "30",
+            "42",
+            "49",
+            "56"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#25",
+        "year": 2018,
+        "questionNum": 25,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 4,
+        "questionText": "(Q23-25) ஒரு தரப்பட்ட உள்ளீட்டுக்குப் பின்வரும் எந்தப் பைதன் செய்நிரல்/செய்நிரல்களின் வெளியீடுகள் மேற்குறித்த பாய்ச்சற் கோட்டுப்படத்தின் மூலம் காட்டப்படும் நெறிமுறையின் வெளியீட்டை ஒத்தது ?",
+        "options": [
+            "I மாத்திரம்",
+            "II மாத்திரம்",
+            "III மாத்திரம்",
+            "I, II ஆகியன மாத்திரம்",
+            "I, II, III ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#26",
+        "year": 2018,
+        "questionNum": 26,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 3,
+        "questionText": "தரவுத் தளங்கள் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக: A-Candidate key. B-Alternate key. C-Primary key null value. எது/எவை சரியானது/சரியானவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#27",
+        "year": 2018,
+        "questionNum": 27,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 3,
+        "questionText": "தரவுப் பாய்ச்சல் வரிப்படங்களின் வெளி உள்பொருள்களுக்குரிய (external entities) பின்வரும் கூற்றுகளைக் கருதுக. எது/எவை சரியானது/சரியானவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#28",
+        "year": 2018,
+        "questionNum": 28,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 2,
+        "questionText": "ஒரு தரவுத்தளத்தில் உள்ள பின்வரும் தொடர்பு நிலைத் திட்டங்களைக் (relational schema) கருதுக: Subject(SubjectID, TermID, SubjectDescription). SubjectID, TermID, SubjectDescription ஆகியன ______ ஆக இருக்கும் அதேவேளை Subject ஆனது ______ ஆகும்.",
+        "options": [
+            "பண்புகள் (attributes), ஒரு தொடர்பு (relation)",
+            "தொடர்புகள், ஒரு பண்பு",
+            "பதிவுகள் (tuples), ஒரு தொடர்பு",
+            "பதிவுகள், ஒரு பண்பு",
+            "தொடர்புகள், ஒரு பதிவு"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#29",
+        "year": 2018,
+        "questionNum": 29,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 2,
+        "questionText": "பின்வரும் கொள்பணிகளைக் கருதுக: A - இப்போது உள்ள முறைமையின் பிரச்சினைகளை இனங்காணல், B - மாற்றுத் தீர்வுகளைத் தெரிவித்தல், C - தகவல் முறைமையின் தேவைகளை முன்னுரிமைப்படுத்தல். எது/எவை முறைமை அபிவிருத்தி ஆயுள் வட்டத்தின் தொடக்கநிலை நுண்ணாய்வில் (preliminary investigations) நிறைவேற்றப்படுகின்றது/நிறைவேற்றப்படுகின்றன ?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#30",
+        "year": 2018,
+        "questionNum": 30,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 2,
+        "questionText": "ஒரு நிறுவகத்தில் மாத்திரம் (in-house) பயன்படுத்துவதற்குக் குறித்த ஒரு தகவல் முறைமையின் அபிவிருத்தியில் பின்வரும் எந்த இயலுமை வகை பொதுவாக நிறைவேற்றப்படுவதில்லை ?",
+        "options": [
+            "பொருளாதார இயலுமை (economic feasibility)",
+            "சந்தை இயலுமை (market feasibility)",
+            "செய்பணி இயலுமை (operational feasibility)",
+            "நிறுவன இயலுமை (organizational feasibility)",
+            "தொழினுட்ப இயலுமை (technical feasibility)"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#31",
+        "year": 2018,
+        "questionNum": 31,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 2,
+        "questionText": "e-வியாபாரம் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக: A-brick-and-click, B-pure-brick, C-pure-click. e-வியாபார மாதிரியங்கள் தொடர்பாக மேற்குறித்த எக்கூற்று/கூற்றுகள் சரியானது/சரியானவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#32",
+        "year": 2018,
+        "questionNum": 32,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 1,
+        "questionText": "ஒளியூட்டல், வெப்பநிலை, பொழுதுபோக்கு முறைமைகள், சாதனங்கள் ஆகியவற்றைத் தன்னியக்க முறையில் கட்டுப்படுத்தும் சூட்டிகை இல்லப் பிரயோகம் (smart home application) ஆனது பின்வரும் எதற்கு உதாரணமாகும் ?",
+        "options": [
+            "கூர்ப்பியந்த கணிப்பு (evolutionary computing)",
+            "பல் முகவர் முறைமைகள் (multi-agent systems)",
+            "இயற்கையினால் ஊக்கமளிக்கப்பட்ட கணிப்பு (nature inspired computing)",
+            "மென்பொருள் முகவர்கள் (software agents)",
+            "சர்வவியாபகக் கணிப்பு (ubiquitous computing)"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#33",
+        "year": 2018,
+        "questionNum": 33,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 3,
+        "questionText": "செயற்கை நுண்மதி (artificial intelligence) தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக; A-Spam filtering. B-Analyzing uncertain information. C-A system for capturing, storing, processing and displaying geographical data.",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#34",
+        "year": 2018,
+        "questionNum": 34,
+        "subTopic": "PROGRAMMING_CONSTRUCTS",
+        "complexity": 2,
+        "questionText": "செய்நிரலாக்க மொழிகளையும் செய்நிரல் மொழிபெயர்ப்பையும் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக. எது/எவை சரியானது/சரியானவை ? A-Compiler translates one statement at a time. B-Assembler converts assembly to machine code. C-Interpreter scans the whole program and translates it.",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#35",
+        "year": 2018,
+        "questionNum": 35,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "பின்வரும் பைதன் கோவையின் பெறுமானம் யாது ? (5**2) // 3 * 4",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "12",
+            "32"
+        ],
+        "correctOptionIndex": -1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2018#36",
+        "year": 2018,
+        "questionNum": 36,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 3,
+        "questionText": "பின்வரும் கூற்றுகளைக் கருதுக: A - disk defragmentation. B - swapping. C - FAT. சரியானது/சரியானவை யாது/யாவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2018#37",
+        "year": 2018,
+        "questionNum": 37,
+        "subTopic": "ROLE_OF_THE_OS",
+        "complexity": 2,
+        "questionText": "ஒரு சாதனத்தைக் கட்டுப்படுத்தும் கட்டுப்படுத்தி (device controller) பணிசெயல் முறைமையுடன் எதனூடாகச் சம்பந்தப்படும் ?",
+        "options": [
+            "பிரயோக மென்பொருள்",
+            "ஒருங்குசேர்ப்பி",
+            "தொகுப்பி (compiler)",
+            "சாதன இயக்கி (device driver)",
+            "பயன்பாட்டு மென்பொருள்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2018#38",
+        "year": 2018,
+        "questionNum": 38,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 3,
+        "questionText": "நவீன தகவல் தொழினுட்பவியலில் உள்ள போக்குகள் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக: A-Traditional vs Quantum computing. B-Wearable devices for tracking. C-GIS.",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#39",
+        "year": 2018,
+        "questionNum": 39,
+        "subTopic": "DATABASE_CONCEPTS",
+        "complexity": 3,
+        "questionText": "தரவுத் தளங்கள் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக: A-Domain of an attribute. B-Tuples are always ordered. C-Database schema is a blueprint.",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#40",
+        "year": 2018,
+        "questionNum": 40,
+        "subTopic": "NORMALIZATION",
+        "complexity": 4,
+        "questionText": "Students(admission_number, ..., postal_code). பின்வரும் கூற்றுகளைக் கருதுக: A-Not normalized. B-In 1NF only. C-In 2NF and hence in 1NF. சரியானது/சரியானவை யாது/யாவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#41",
+        "year": 2018,
+        "questionNum": 41,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DML",
+        "complexity": 3,
+        "questionText": "Select * from Students where postal_code='10120' and house_number ='30A'; வினவலை நிறைவேற்றும்போது அதன் வெளியீடாகப் பின்வரும் எப்புலம் காட்சிப்படுத்தப்படுகின்றது ?",
+        "options": [
+            "எல்லாப் பதிவுகளினதும் (records) postal_code",
+            "postal_code '10120'ஐயும் house_number '30A' ஐயும் உள்ள பதிவுகளில் postal_code உம் house_number உம்",
+            "எல்லாப் பதிவுகளிலும் postal_code உம் house_number உம்",
+            "postal_code '10120'ஐயும் house_number '30A' ஐயும் உள்ள பதிவுகளின் எல்லாப் புலங்களும் (fields)",
+            "எல்லாப் பதிவுகளினதும் எல்லாப் புலங்களும்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#42",
+        "year": 2018,
+        "questionNum": 42,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 2,
+        "questionText": "உள்பொருள் தொடர்புடைமை (ER) மாதிரியமாக்கல் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக: A-Cardinality. B-Entity. C-Cardinality indicates primary key attributes.",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#43",
+        "year": 2018,
+        "questionNum": 43,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 3,
+        "questionText": "ஒரு விற்பனை முறைமையின் (sales system) செயல்சார் (functional), செயல்சாராத் (non-functional) தேவைகள் பற்றிய பின்வரும் கூற்றுகளைக் கருதுக: I-Generate invoice by reading barcode. II-Respond within 1 second. III-Process 1000 transactions per second.",
+        "options": [
+            "I, II, III ஆகியன எல்லாம் செயல்சார்ந்தன",
+            "I - செயல்சார்ந்தது, II உம் III உம் செயல்சாராதன",
+            "II - செயல்சார்ந்தது, I உம் III உம் செயல்சாராதன",
+            "I உம் III உம் செயல்சார்ந்தன, II - செயல்சாராதது",
+            "I, II, III ஆகிய எல்லாம் செயல்சாராதன"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#44",
+        "year": 2018,
+        "questionNum": 44,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 2,
+        "questionText": "பின்வரும் மென்பொருள் அபிவிருத்தி ஆயுள் வட்ட மாதிரியங்களைக் கருதுக: A-spiral, B-waterfall, C-RAD. எதில்/எவற்றில் ஆயுள் வட்டத்தின் ஆரம்பக் கட்டநிலைகளின் தேவைகள் வரையறுத்து இறுதியாக்கப்பட வேண்டும் ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2018#45",
+        "year": 2018,
+        "questionNum": 45,
+        "subTopic": "SYSTEMS_DEVELOPMENT_LIFE_CYCLE_SDLC",
+        "complexity": 3,
+        "questionText": "அமைவுறு (structured) பொருள் நோக்கு (object oriented) மென்பொருள் அபிவிருத்தி முறையியல்கள் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக. எது/எவை சரியானது/சரியானவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#46",
+        "year": 2018,
+        "questionNum": 46,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "உள்ளீடு 30 ஆகப் பின்வரும் பைதன் குறிமுறைக் கூறு நிறைவேற்றப்படுமெனின், வெளியீடு (வருவிளைவு) யாது ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#47",
+        "year": 2018,
+        "questionNum": 47,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 2,
+        "questionText": "பின்வரும் பைதன் குறிமுறைக் கூறின் வெளியீடு (வருவிளைவு) யாது ? s = 0; for i in range(10): s = s + i; print(s)",
+        "options": [
+            "0",
+            "10",
+            "45",
+            "55",
+            "100"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#48",
+        "year": 2018,
+        "questionNum": 48,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 4,
+        "questionText": "பின்வரும் பைதன் குறிமுறைக் கூறின் வெளியீடு (வருவிளைவு) யாது ? aList = [2,3,11,13,5,7]; s=0; for i in range(len(aList)): if (aList[i] > 10): continue; s=s+aList[i]; print(s)",
+        "options": [
+            "0",
+            "5",
+            "17",
+            "28",
+            "41"
+        ],
+        "correctOptionIndex": -1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2018#49",
+        "year": 2018,
+        "questionNum": 49,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 3,
+        "questionText": "ஒரு முறைமைக்குரிய இடைமுகம் தொடர்பாக பின்வரும் கூற்றுகளில் சரியானது/சரியானவை யாது/யாவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2018#50",
+        "year": 2018,
+        "questionNum": 50,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 3,
+        "questionText": "தொடர்புநிலைத் தரவுத் தளம் ஒன்றுடன் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக. எது/எவை சரியானது/சரியானவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 4
+    }
+]

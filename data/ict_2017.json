@@ -1,0 +1,902 @@
+[
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2017#1",
+        "year": 2017,
+        "questionNum": 1,
+        "subTopic": "HISTORY_AND_EVOLUTION_OF_COMPUTING",
+        "complexity": 1,
+        "questionText": "தேக்கிவைத்த செய்நிரல் (stored program) எண்ணக்கருவை முதன்முதலில் முன்வைத்தவர் யார் ?",
+        "options": [
+            "Lady Ada Augusta",
+            "Charles Babbage",
+            "Howard Aiken",
+            "Blaise Pascal",
+            "Von Neumann"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#2",
+        "year": 2017,
+        "questionNum": 2,
+        "subTopic": "VON_NEUMANN_ARCHITECTURE",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட கூறுகளுள், கணினியின் மைய முறைவழி அலகிற்கு (CPU) வெளியே பொதுவாகக் காணப்படக்கூடியது எது ?",
+        "options": [
+            "RAM",
+            "கட்டுப்பாட்டு அலகு (Control Unit)",
+            "ALU",
+            "பொது நோக்கப் பதியிகள் (Registers)",
+            "L1 பதுக்கு நினைவகம் (Cache memory)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2017#3",
+        "year": 2017,
+        "questionNum": 3,
+        "subTopic": "REPRESENTING_INTEGERS",
+        "complexity": 2,
+        "questionText": "முழு எண் ஒன்று, 8 பிட்களில் வகைகுறிக்கப்படின் 45 ஐ வகைகுறிக்கும் இரண்டின் நிரப்பு வடிவம் யாது ?",
+        "options": [
+            "11010011",
+            "10110011",
+            "11001101",
+            "00101111",
+            "00101101"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2017#4",
+        "year": 2017,
+        "questionNum": 4,
+        "subTopic": "WEB_HOSTING_AND_DOMAINS",
+        "complexity": 1,
+        "questionText": "வலை வெளியீட்டுக்குரிய (Web publishing) இன்னொரு பெயர் பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "தொடர்பிலா வெளியீடு (Offline publishing)",
+            "மேசைமேல் வெளியீடு",
+            "ஊடக வெளியீடு",
+            "தொடரறா வெளியீடு (Online publishing)",
+            "சுய வெளியீடு (Self publishing)"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#5",
+        "year": 2017,
+        "questionNum": 5,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 2,
+        "questionText": "பின்வரும் துணைத் தேக்ககச் சாதனங்களுள், விரைவான தரவு அணுகுகையைத் தரும் சாதனமாகப் பொதுவாகக் கருதப்படுவது எது ?",
+        "options": [
+            "செறிவட்டு (Compact Disc)",
+            "இலக்கமுறை பல்திறன் வட்டு (Digital Versatile Disc)",
+            "உள்ளக வன்வட்டு (Internal hard disk)",
+            "காந்த நாடா (Magnetic tape)",
+            "நெகிழ் வட்டு (Floppy disk)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2017#6",
+        "year": 2017,
+        "questionNum": 6,
+        "subTopic": "ROLE_OF_THE_OS",
+        "complexity": 2,
+        "questionText": "தனிநபர் கணினிகளைத் தொடக்குவதற்கு (boot-up) வழக்கமாகப் பயன்படுத்தப்படுவது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "நிலைப்பொருள் (Firmware)",
+            "பிறழ்பொருள் (Malware)",
+            "விளம்பரப்பொருள் (Adware)",
+            "கப்பப்பொருள் (Ransomware)",
+            "உயிர்ப்பொருள் (Liveware)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#7",
+        "year": 2017,
+        "questionNum": 7,
+        "subTopic": "MEMORY_HIERARCHY",
+        "complexity": 3,
+        "questionText": "தனிநபர் கணினியிலுள்ள நிரப்பு உலோக ஒக்சைட்டு குறைகடத்தி (CMOS) நினைவகத்தின் பிரதான பயன்பாடு பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "முறைவழியாக்கத்திற்குரிய உள்ளீடுகளை வைத்திருத்தல்",
+            "செய்பணிகளுக்கான அறிவுறுத்தல்களைக் கொண்டிருத்தல்",
+            "பணிசெயல் முறைமையை ஏற்றுவதற்கு (load) வெளியை வழங்குதல்",
+            "வருவிளைவுக்கான தகவல்களைத் தக்கவைத்திருத்தல்",
+            "தொடக்குதல் செய்முறைகளுக்கான அடிப்படை உள்ளீட்டு வருவிளைவு முறைமை (BIOS) அமைப்புகளை (settings) வைத்திருத்தல்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2017#8",
+        "year": 2017,
+        "questionNum": 8,
+        "subTopic": "MAIN_FUNCTIONS_OF_OS",
+        "complexity": 1,
+        "questionText": "ஒரு தனிநபர் கணினியில் இடைத்தாக்கம் புரியாத ஒரு தொடர் தொழில்களைப் (non-interactive jobs) பயனர் தொடர்பாக நிறைவேற்றுகை செய்தல்,",
+        "options": [
+            "பல் செய்பணி (multi tasking) எனப்படும்.",
+            "பல்பயனர் முறைவழியாக்கம் (multiuser processing) எனப்படும்.",
+            "பல்முறைவழியாக்கம் (multi processing) எனப்படும்.",
+            "தொகுதி முறைவழியாக்கம் (batch processing) எனப்படும்.",
+            "தொடரறா முறைவழியாக்கம் (online processing) எனப்படும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2017#9",
+        "year": 2017,
+        "questionNum": 9,
+        "subTopic": "NUMBER_SYSTEM_CONVERSIONS",
+        "complexity": 3,
+        "questionText": "101111₂ துவித எண்ணிற்கு சமவலுவான எண் பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "57₈",
+            "57₁₆",
+            "57₁₀",
+            "59₁₆",
+            "5F₁₆"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2017#10",
+        "year": 2017,
+        "questionNum": 10,
+        "subTopic": "BINARY_ARITHMETIC",
+        "complexity": 3,
+        "questionText": "5D₁₆ + 10111₂ =",
+        "options": [
+            "73₈",
+            "75₁₆",
+            "116₈",
+            "163₈",
+            "164₈"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2017#11",
+        "year": 2017,
+        "questionNum": 11,
+        "subTopic": "REPRESENTING_REAL_NUMBERS",
+        "complexity": 2,
+        "questionText": "9.25₁₀ இன் துவித வகைகுறிப்பு யாது ?",
+        "options": [
+            "1110011101.01",
+            "00001001.01",
+            "0000100101",
+            "1000100101",
+            "1001.01"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#12",
+        "year": 2017,
+        "questionNum": 12,
+        "subTopic": "COMPUTER_PERIPHERALS_AND_PORTS",
+        "complexity": 2,
+        "questionText": "தாய்ப்பலகையின் மேலுள்ள ______ கணினியின் தொழிற்பாட்டை விரிவாக்கப் (expand) பயன்படுத்தப்படும். மேற்குறித்த கூற்றின் வெற்றிடத்தை நிரப்புவதற்கு மிகவும் பொருத்தமானது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "பாட்டை (Bus)",
+            "கடிகாரம் (Clock)",
+            "RAM",
+            "பொருத்துமிடம் (Slot)",
+            "ROM"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2017#13",
+        "year": 2017,
+        "questionNum": 13,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட HTML குறிமுறையைக் கருதுக: <html>...<body><p><!-- <h1> Sri Lanka </h1> --></p></body></html>. மேற்குறித்த குறிமுறை காண்பிக்கப்பட்டபோது (rendered) பெறப்படும் காட்சியைச் சரியாக விவரிப்பது எது ?",
+        "options": [
+            "\"Country” எனும் சொல் தலைப்புப் பட்டையிலும் “Sri Lanka” எனும் சொல் தலைப்பாகவும் தோன்றும்.",
+            "\"Sri Lanka\" எனும் சொல் தலைப்புப் பட்டையிலும் \"Country” எனும் சொல் தலைப்பாகவும் தோன்றும்.",
+            "\"Country\" எனும் சொல் தலைப்புப் பட்டையில் தோன்றும்.",
+            "\"<!--<h1> Sri Lanka </h1>-->\" எனும் சொல் இணையப்பக்கத்தின் பட்டையில் தோன்றும்.",
+            "\"<!--<h1> Sri Lanka </h1>-- எனும் சொல் இணையப்பக்கத்தின் உடலில் (body) தோன்றும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2017#14",
+        "year": 2017,
+        "questionNum": 14,
+        "subTopic": "STATIC_WEB_PAGES_HTML",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்டுள்ள HTML படிவத்தில் உள்ள \"Submit\" பொத்தானைக் கருதுக. பின்வருவனவற்றுள் எவ் ஒட்டுகள்/மூலகங்கள் மேற்குறித்த \"Submit\" பொத்தானின் உத்தேசித்த தொழிலைச் சரியாக அமுல்படுத்தும் ?",
+        "options": [
+            "<input type = \"submit\" value = \"Submit\">",
+            "<input type = \"button\" value = \"Submit\">",
+            "<button type = \"button\" >Submit</button>",
+            "<button type = \"submit\"></button>",
+            "<button type = \"submit\" value = \"Submit\"></button>"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2017#15",
+        "year": 2017,
+        "questionNum": 15,
+        "subTopic": "STYLING_WITH_CSS",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட CSS விதிகளில் எது \"school.png\" எனும் கோப்பிலுள்ள விம்பத்தை இணையப்பக்கத்தின் பின்னணியாகக் காண்பிக்கும் ?",
+        "options": [
+            "body { background = \"school.png\"; }",
+            "body { background: url (\"school.png\"); }",
+            "body { background-image = \"school.png\"; }",
+            "body { background-image: \"school.png\"; }",
+            "body { background-image: url (\"school.png\"); }"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#16",
+        "year": 2017,
+        "questionNum": 16,
+        "subTopic": "NETWORK_PROTOCOLS",
+        "complexity": 1,
+        "questionText": "மின்னஞ்சல் முறைமைகளில் அஞ்சல் சேவையகத்திலிருந்து செய்திகளை மீட்டெடுப்பதற்காக அஞ்சல் சேவைப் பயனர்கள் பயன்படுத்தும் உடன்படுநெறிமுறை எது ?",
+        "options": [
+            "Simple Mail Transfer Protocol (SMTP)",
+            "File Transfer Protocol (FTP)",
+            "Internet Control Message Protocol (ICMP)",
+            "Internet Message Access Protocol (IMAP)",
+            "Telnet"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#17",
+        "year": 2017,
+        "questionNum": 17,
+        "subTopic": "NETWORK_PROTOCOLS",
+        "complexity": 2,
+        "questionText": "User Datagram Protocol (UDP) எதற்குப் பயன்படுத்தப்படுகிறது?",
+        "options": [
+            "நம்பகமான தொடர்பாடலுக்காக (reliable communication)",
+            "உத்தரவாதமுள்ள விநியோகத்திற்காக",
+            "இணைப்பு சார்ந்த தொடர்பாடலுக்காக (connection oriented communication)",
+            "கட்டளையிட்ட விநியோகத்திற்காக (ordered delivery)",
+            "வழிச்செயலிகளிடையே நிலைமைத் தகவல்களைப் பரிமாற்றஞ் செய்வதற்காக"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#18",
+        "year": 2017,
+        "questionNum": 18,
+        "subTopic": "DATA_COMMUNICATION_CONCEPTS",
+        "complexity": 2,
+        "questionText": "MAC முகவரிகள் தொடர்பாகப் பின்வரும் கூற்றுகளுள் சரியானது எது ?",
+        "options": [
+            "ஒவ்வொரு வலையமைப்புச் சாதனத்துக்கும் தனிப்பட்ட MAC முகவரி உண்டு.",
+            "ஒவ்வொரு வலையமைப்பு விருந்தோம்புநருக்கும் (host) தனிப்பட்ட MAC முகவரி உண்டு.",
+            "ஒவ்வொரு வலையமைப்பு இடைமுகத்திற்கும் (interface) தனிப்பட்ட MAC முகவரி உண்டு.",
+            "இது சாதனமொன்றை நிறுவும் நேரத்தில் அதற்கென ஒதுக்கப்படும்.",
+            "இது வழிப்படுத்தலுக்குப் (routing) பயன்படுத்தப்படும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#19",
+        "year": 2017,
+        "questionNum": 19,
+        "subTopic": "IP_ADDRESSING_AND_SUBNETTING",
+        "complexity": 4,
+        "questionText": "உப வலையமைப்பொன்றின் முதலாவது, இறுதி IP முகவரிகள் முறையே 192.192.48.0, 192.192.63.255 ஆகும். இவ்வுப வலையமைப்பின் துணைவலை மறைமுகம் பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "255.255.255.0",
+            "255.255.192.0",
+            "255.255.255.192",
+            "255.255.240.0",
+            "255.240.0.0"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#20",
+        "year": 2017,
+        "questionNum": 20,
+        "subTopic": "IP_ADDRESSING_AND_SUBNETTING",
+        "complexity": 3,
+        "questionText": "172.16.48.200/24 என்பது",
+        "options": [
+            "வகுப்பு B வலையமைப்பின் விருந்தோம்புநர் முகவரியாகும்.",
+            "வகுப்பு C வலையமைப்பின் வலையமைப்பு முகவரியாகும்.",
+            "172.16.48.0/24 உப வலையமைப்பிலுள்ள விருந்தோம்புநர் முகவரியாகும்.",
+            "255 விருந்தோம்புநர்களைக் கொண்ட உப வலையமைப்பின் வலையமைப்பு முகவரியாகும்.",
+            "8 வலையமைப்பு பிட்களையுடைய விருந்தோம்புநர் முகவரியாகும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2017#21",
+        "year": 2017,
+        "questionNum": 21,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 1,
+        "questionText": "TCP/IP கணினி வலையமைப்புகளினுள் Transport Protocol Data Unit (TPDU) எனக் குறிப்பிடப்படுவது",
+        "options": [
+            "பொதி (packet)",
+            "சட்டகம் (Frame)",
+            "துண்டு (Segment)",
+            "சாளரம் (Window)",
+            "செய்தி (Message)"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#22",
+        "year": 2017,
+        "questionNum": 22,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "தன்னியக்க காசளிப்பு இயந்திரத்தில் (ATM) இருத்தல் நன்றாக இருக்கும் (nice to have) தொழில்சாராத் தேவையை மிகச் சிறப்பாக விவரிக்கும் கூற்று பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "பயனர்கள் பணத்தைத் திரும்பப் பெறுவதற்கு முறைமை வசதி செய்யும்.",
+            "முறைமை பயனர்கள் பணத்தை வைப்பிலிட இடமளிக்க வேண்டும்.",
+            "எல்லாத் தொடர்பாடல்களுக்கும் முறைமை 256 பிட் குறிமுறையாக்கத்தைப் பயன்படுத்தும்.",
+            "முறைமை பயனர்களுக்கு தொடுதிரை (touch screen) இடைமுகத்தை வழங்க வேண்டும்.",
+            "முறைமை 5 செக்கன்களில் பணத்தை விடுவிக்கும்."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#23",
+        "year": 2017,
+        "questionNum": 23,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 2,
+        "questionText": "ஒரு விற்பனைத் தகவல் முறைமையின் தரவுப் பாய்ச்சல் வரிப்படத்தில் (DFD) தோன்றிய பின்வரும் குறியீடு --- T1(M) Payment --- அடங்கிய கொடுப்பனவு விபரங்களை வகைகுறிக்கிறது. மேற்குறித்த கூற்றில் உள்ள வெற்றிடத்தை நிரப்புவதற்கு மிகவும் பொருத்தமானது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "கோப்புத் தட்டு (file tray)",
+            "அட்டைத்தாள் கோப்பு (cardboard file)",
+            "கோப்பு கபினட் (file cabinet)",
+            "வன்வட்டிலுள்ள தரவுக் கோப்பு",
+            "வன்வட்டிலுள்ள தற்காலிகத் தரவுக் கோப்பு"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#24",
+        "year": 2017,
+        "questionNum": 24,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்ட தரவுப் பாய்ச்சல் வரிப்படங்களில் தரவுப் பாய்ச்சல் மாதிரியின் விதிமுறைக்கு ஏற்ப சரியானது எது ?",
+        "options": [
+            "DFD 1",
+            "DFD 2",
+            "DFD 3",
+            "DFD 4",
+            "DFD 5"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#25",
+        "year": 2017,
+        "questionNum": 25,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்ட பாய்ச்சற் கோட்டுப் படத்தைக் கருதுக: (flowchart shown). மேற்குறித்த பாய்ச்சற் கோட்டுப் படத்திலுள்ள வழு யாது ?",
+        "options": [
+            "அதில் இரண்டு 'end' குறியீடுகள் இருத்தல்",
+            "'Print' என்பது செல்லுபடியாகும் திறவுச்சொல் (keyword) அன்று",
+            "அங்கு 'process' எனும் பெட்டி இல்லாதிருத்தல்",
+            "'Print' குறியீடுகள் இரண்டு இருத்தல்",
+            "பாய்ச்சல் திசை சரியாக இராமை"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2017#26",
+        "year": 2017,
+        "questionNum": 26,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 2,
+        "questionText": "இலத்திரனியல் வியாபாரம் (e-business) தொடர்பாகப் பின்வரும் கூற்றுகளில் உண்மையானது எது ?",
+        "options": [
+            "அது பகுதியாக தொடரறா முறையில் நடைபெறும் வியாபாரச் செயன்முறையாகும்.",
+            "அது முன்-முடிவு (front-end) மற்றும் பின்-முடிவு (back-end) ஆகிய தொடரறா செயன்முறைகளைக் கொண்டிருக்கும்.",
+            "எல்லா ‘brick’ விற்பனையாளர்களும் தங்களது வியாபாரத்தை தொடரறா முறையில் நடத்துவார்கள்.",
+            "ஏதாவது இலத்திரனியல் வர்த்தகப் பிரயோகம் ஒரு இலத்திரனியல் வியாபாரப் பிரயோகமாகும்.",
+            "ஏதாவது இலத்திரனியல் வியாபாரப் பிரயோகம் ஒரு இலத்திரனியல் வர்த்தகப் பிரயோகமாகும்."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2017#27",
+        "year": 2017,
+        "questionNum": 27,
+        "subTopic": "ICT_IN_SOCIETY",
+        "complexity": 1,
+        "questionText": "பாடசாலை ஒன்றில் மாணவர்களின் கல்வி நடவடிக்கைகளை மேம்படுத்துவதற்காக அவர்களுக்கு வரைபட்டிகை (tablet) கணினிகள் வழங்கப்பட்டுள்ளன. இந்நோக்கத்தை அடைய மிகப் பொருத்தமான செயற்பாடு பின்வருவனற்றுள் எது ?",
+        "options": [
+            "கணினி மயப்படுத்தப்பட்ட கல்விப் பொருள்களை பதிவிறக்கம் செய்தல்",
+            "பொழுதுபோக்கான காணொளிகளைப் பார்த்தல்",
+            "நண்பர்களுக்கிடையில் உடனடிச் செய்திகள் அனுப்புதல்",
+            "வலைப்பதிவுகளை (blogs) எழுதுதல்",
+            "கணினி விளையாட்டுகளை விளையாடுதல்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2017#28",
+        "year": 2017,
+        "questionNum": 28,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 2,
+        "questionText": "செயற்கை நுண்மதி தொடர்பாகப் பின்வரும் கூற்றுகளுள் உண்மையானது எது ?",
+        "options": [
+            "வல்லுநர் முறைமையின் அனுமான இயந்திரம் (Inference Engine) என்பது மனித தீர்மானங்களை எடுக்கும் செயன்முறையைப் போன்று முழுமையாகத் தோற்றமளிக்கும்.",
+            "வல்லுநர் முறைமையில் அறிவு அடிப்படை (Knowledge Base), வல்லுநர்களின் முதன்மை அறிவினை மாத்திரம் கொண்டிருக்கும்.",
+            "வல்லுநர் முறைமைகள் எப்போதும் மரபணு நெறிமுறையைப் (Genetic Algorithms) பயன்படுத்தி நடைமுறைப்படுத்தப்படும்.",
+            "மரபணு நெறிமுறைகள் தரப்பட்ட பிரச்சினைக்கு ஒரே ஒரு தீர்வினை மாத்திரம் வழங்கும்.",
+            "மரபணு நெறிமுறை தரப்பட்ட பிரச்சினைக்கு தீர்வினைக் கண்டுபிடிக்க ஒன்றுக்கு மேற்பட்ட மீளவருதல்களை (iterations) நிறைவேற்றுகை செய்யும்."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#29",
+        "year": 2017,
+        "questionNum": 29,
+        "subTopic": "ALGORITHMS_AND_FLOWCHARTS",
+        "complexity": 1,
+        "questionText": "நெறிமுறைகள் (algorithms) தொடர்பாகப் பின்வரும் கூற்றுகளுள் உண்மையானது எது ?",
+        "options": [
+            "பிரச்சினை தீர்த்தலுக்குப் பயன்படுத்தப்படும் படிமுறைகளின் தொகுதி நெறிமுறை எனப்படும்.",
+            "பிரச்சினை தீர்த்தலுக்குப் பயன்படுத்தப்படும் செயற்பாடுகளின் தொடர் வரிசை நெறிமுறை எனப்படும்.",
+            "ஏதாவது ஒரு பிரச்சினையைத் தீர்ப்பதற்கு ஆகக்கூடியது ஒரேயொரு நெறிமுறையே காணப்படலாம்.",
+            "நெறிமுறை ஒன்று முடிவில்லா எண்ணிக்கையிலான படிமுறைகளைக் கொண்டிருக்கும்.",
+            "நெறிமுறையானது வரையறுக்கப்பட்ட நேரத்துக்குள் முடிவடைய வேண்டிய தேவையில்லை."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#30",
+        "year": 2017,
+        "questionNum": 30,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 3,
+        "questionText": "\"வங்கியின் ATM இயந்திரமொன்று ஒரு பயனர் தவறாக இரகசிய இலக்கத்தை நுழைக்க எத்தனிப்பதற்கு மூன்று முறைக்கு மேல் இடமளிக்கக் கூடாது.\" மேற்குறித்த தேவைகளில் சரியாக வகைகுறிப்பது பின்வருவனற்றுள் எது ?",
+        "options": [
+            "அத்தியாவசியம், தொழில்சார்ந்த",
+            "அத்தியாவசியம், தொழில்சாராத",
+            "விரும்பத்தக்க, தொழில்சார்ந்த",
+            "விரும்பத்தக்க, தொழில்சாராத",
+            "அத்தியாவசிய அல்லது விரும்பத்தக்க, தொழில்சார்ந்த"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#31",
+        "year": 2017,
+        "questionNum": 31,
+        "subTopic": "NORMALIZATION",
+        "complexity": 3,
+        "questionText": "Student(index_no, national_id_no, name, date_of_birth, gender, blood_group). இங்கு index_no தனித்துவப் பண்பாவதோடு name பண்பு index_no இன் மீது முழுமையாக சார்ந்துள்ளது (depend). மேற்குறித்த தொடர்பின் செவ்வன் படிவத்திற்கு சரியான கூற்று எது ?",
+        "options": [
+            "இது பூச்சிய செவ்வன் படிவத்தில் (zero normal form) உள்ளது.",
+            "இது முதலாவது செவ்வன் படிவத்தில் (first normal form) உள்ளது.",
+            "இது இரண்டாவது செவ்வன் படிவத்தில் (second normal form) உள்ளது.",
+            "இது மூன்றாவது செவ்வன் படிவத்தில் (third normal form) உள்ளது.",
+            "அதன் செவ்வன் படிவம் தீர்மானிக்க முடியாதது."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#32",
+        "year": 2017,
+        "questionNum": 32,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 2,
+        "questionText": "Student(...) தொடர்பின் வேட்பாளர் சாவியாகக் (candidate key) கொள்ளத்தக்கது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "national_id_no",
+            "name",
+            "date_of_birth",
+            "gender",
+            "blood_group"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#33",
+        "year": 2017,
+        "questionNum": 33,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 2,
+        "questionText": "bookAuthor தொடர்பு சம்பந்தமான சரியான கூற்று எது?",
+        "options": [
+            "book_no முதன்மைச் சாவியாகும்.",
+            "author_id முதன்மைச் சாவியாகும்.",
+            "ஏதாவதொரு பண்பு வேட்பாளர் சாவியாகும்.",
+            "author_id வேட்பாளர் சாவியாகும்.",
+            "book_no, author_id ஒரு கூட்டு முதன்மைச் சாவியாகும்."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#34",
+        "year": 2017,
+        "questionNum": 34,
+        "subTopic": "ENTITY_RELATIONSHIP_ER_MODELING",
+        "complexity": 3,
+        "questionText": "தொடர்புகளின் மூலம் வகைகுறிக்கப்படும் உள்பொருள்களுக்கிடையிலான தொடர்புடைமையைச் சரியாக வகைகுறிக்கும் உள்பொருள் தொடர்புடைமை (ER) வரிப்படம் எது ?",
+        "options": [
+            "ERD 1 (1 to M)",
+            "ERD 2 (1 to 1)",
+            "ERD 3 (M to 1)",
+            "ERD 4 (M to N)",
+            "ERD 5 (M to M)"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#35",
+        "year": 2017,
+        "questionNum": 35,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DML",
+        "complexity": 2,
+        "questionText": "SELECT * FROM bookAuthor வினவலின் வருவிளைவு தொடர்பாக சரியான கூற்று எது ?",
+        "options": [
+            "அது வெற்று அட்டவணையாக (empty table) இராது.",
+            "அதில் title நிரல் (column) இருக்கும்.",
+            "அதில் name நிரல் இருக்கும்.",
+            "வருவிளைவை வழங்குவதற்காக book, author, bookAuthor ஆகிய அனைத்து அட்டவணைகளும் பயன்படுத்தப்படும்.",
+            "bookAuthor அட்டவணையிலுள்ள பதியிகள் (records) அனைத்தும் வருவிளைவில் இருக்கும்."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2017#36",
+        "year": 2017,
+        "questionNum": 36,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DDL",
+        "complexity": 3,
+        "questionText": "தரவு ஒருங்கமைப்பைப் பேணிக்கொண்டு bookAuthor அட்டவணையைத் தயாரிப்பதற்குப் பயன்படுத்திய DDL தொடர்பான கூற்றுகளைக் கருதுக: A-அது முதன்மைச் சாவிக் கட்டுப்படுத்தியைக் கொண்டிருக்கும். B-அது அந்நியச் சாவிக் கட்டுப்படுத்தியைக் கொண்டிருக்கும். C-அது ஆள்களக் கட்டுப்படுத்தியைக் கொண்டிருக்கும்.",
+        "options": [
+            "A மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#37",
+        "year": 2017,
+        "questionNum": 37,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட மனித உடலிலுள்ள அங்கங்களில் மூடிய தொகுதியின் பகுதியாக அமைவது எது ?",
+        "options": [
+            "கண்",
+            "காது",
+            "இதயம்",
+            "சிறுநீரகம்",
+            "நுரையீரல்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "OPERATING_SYSTEMS",
+        "year#questionNum": "2017#38",
+        "year": 2017,
+        "questionNum": 38,
+        "subTopic": "ROLE_OF_THE_OS",
+        "complexity": 2,
+        "questionText": "பின்வரும் கூற்றுகளுள் சரியானது எது ?",
+        "options": [
+            "பிரயோக மென்பொருள் பிரதான நினைவகத்திற்கு அதன் பிரயோகங்களை சுமத்தும் (load).",
+            "ROM இல் சேமிக்கப்பட்டுள்ள செய்நிரல்கள், முறைமை மென்பொருள் எனப்படும்.",
+            "புறச்சாதனங்களுக்கிடையிலான தரவுத் தொடர்பாடலுக்கு முறைமை மென்பொருள் உதவியாக இருக்கும்.",
+            "பயன்பாட்டு மென்பொருள் பொதுவாக ROM இல் தேக்கிவைக்கப்படும்.",
+            "சலவை இயந்திரங்களில் பயன்பாட்டு மென்பொருள் இணைக்கப்பட்டுள்ளது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#39",
+        "year": 2017,
+        "questionNum": 39,
+        "subTopic": "INPUT_OUTPUT_DEVICES",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்டுள்ள தரவு உள்ளீட்டுச் சாதனங்களைக் கருதுக: A - திரையில் தோன்றும் சாவிப்பலகை (virtual keyboard) B - வரியுரு வாசிப்பான் (Bar code reader) C - காந்த அட்டை வாசிப்பான் (Magnetic card reader). வினைத்திறன் மிக்கதாக தரவு உள்ளிடலை மேற்கொள்ளப் பயன்படுத்தக்கூடிய சாதனம் எது?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "WEB_DEVELOPMENT",
+        "year#questionNum": "2017#40",
+        "year": 2017,
+        "questionNum": 40,
+        "subTopic": "STYLING_WITH_CSS",
+        "complexity": 3,
+        "questionText": "HTML இல் பயன்படுத்தப்படும் CSS தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக. வெளியக கோலத்தாள்களைப் பயன்படுத்துவது தொடர்பாக சரியானவை எவை ?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, D ஆகியன மாத்திரம்",
+            "A, C, D ஆகியன மாத்திரம்",
+            "B, C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#41",
+        "year": 2017,
+        "questionNum": 41,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 3,
+        "questionText": "பின்வருவனவற்றுள் பைதன் தரவு வகைகள்/கோவைகள் தொடர்பாக சரியான கூற்று எது ?",
+        "options": [
+            "'String' ஒரு mutable தரவு வகையாகும்.",
+            "'List' ஒரு immutable தரவு வகையாகும்.",
+            "[1,2,3] என்பது tuple ஆகும்.",
+            "[1,2,3][1] எனும் கோவையை நிறைவேற்றுகை செய்யும்போது [2] ஐத் தரும்.",
+            "{'a':1, 1:(1,2)} என்பதன் வகை dictionary ஆகும்."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#42",
+        "year": 2017,
+        "questionNum": 42,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட பெறுமானங்களைக் கருதுக: A-2.3e2, B-TRUE, C-\"This isn't a string\", D-\" \". மேற்குறித்த பெறுமானங்களுள் Python இல் செல்லுபடியாவன எவை ?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "A, B, C ஆகியன மாத்திரம்",
+            "A, C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#43",
+        "year": 2017,
+        "questionNum": 43,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 3,
+        "questionText": "பின்வரும் Python கூற்றினைக் கருதுக: temp = [1, 2, 3, 4, 5, 6][2::2]. கூற்றினை நிறைவேற்றிய பின் மாறி temp இற்குரிய பெறுமானம் யாது ?",
+        "options": [
+            "2, 4, 6",
+            "3, 5",
+            "[2, 3]",
+            "[3, 5]",
+            "[2, 4, 6]"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#44",
+        "year": 2017,
+        "questionNum": 44,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட கூற்றுகளைக் கருதுக. இவற்றுள் Python இல் செல்லுபடியாகும் ஒப்படைக் கூற்றுகள் எவை?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "C, D ஆகியன மாத்திரம்",
+            "A, B, C ஆகியன மாத்திரம்",
+            "A, B, C, D ஆகிய எல்லாம்"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#45",
+        "year": 2017,
+        "questionNum": 45,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்ட Python கோவைகளைக் கருதுக. இக்கோவைகளில் எது பூலியன் பெறுமானம் True வைப் பெறுபேறாகத் தரும் ?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "B, D ஆகியன மாத்திரம்",
+            "C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#46",
+        "year": 2017,
+        "questionNum": 46,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 5,
+        "questionText": "\"in.csv\", \"out.csv\" கோப்புகளின் உள்ளடக்கங்கள் Fig.1, Fig.2 இல் உள்ளன. பின்வரும் எப்பைதன் (Python) செய்நிரல் \"in.csv\" இலுள்ள தரவுகளை \"out.csv\" இலுள்ள உள்ளடக்கமாக மாற்றுவதற்குப் பயன்படுத்தப்படும்?",
+        "options": [
+            "Python Code Snippet 1",
+            "Python Code Snippet 2",
+            "Python Code Snippet 3",
+            "Python Code Snippet 4",
+            "Python Code Snippet 5"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "COMPUTER_SYSTEM_ARCHITECTURE",
+        "year#questionNum": "2017#47",
+        "year": 2017,
+        "questionNum": 47,
+        "subTopic": "LOGIC_GATES_AND_BOOLEAN_ALGEBRA",
+        "complexity": 3,
+        "questionText": "தர்க்கச் சுற்றுகளை அமைக்கும்போது NOT, AND, OR க்குப் பதிலாக NAND, NOR ஐப் பயன்படுத்துவது தொடர்பான கூற்றுகளில் சரியானது எது/எவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2017#48",
+        "year": 2017,
+        "questionNum": 48,
+        "subTopic": "PYTHON_FUNCTIONS_AND_MODULES",
+        "complexity": 3,
+        "questionText": "பின்வரும் எச்சார்பு, ஏதாவது முழுவெண்களின் பட்டியலில் (list) உள்ள அனைத்து மூலகங்களினதும் கூட்டுத்தொகையைத் தரும் ?",
+        "options": [
+            "Function 1",
+            "Function 2",
+            "Function 3",
+            "Function 4",
+            "Function 5"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2017#49",
+        "year": 2017,
+        "questionNum": 49,
+        "subTopic": "SYSTEM_IMPLEMENTATION_AND_EVALUATION",
+        "complexity": 2,
+        "questionText": "கீழே தரப்பட்ட முறைமை அமுலாக்கல் முறைகளைக் கருதுக: A-நேரடி, B-முன்னோடி, C-சமாந்தரம். வீட்டுப் பாதுகாப்பு முறைமையை அமுல்படுத்தப் பயன்படுத்தப்படுவது எது/எவை?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2017#50",
+        "year": 2017,
+        "questionNum": 50,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 3,
+        "questionText": "கீழே தரப்பட்டுள்ள கூற்றுகளுள் மென்பொருள் முகவர் முறைமையின் இயல்புகளாகக் கருதப்படக்கூடிய கூற்றுகள் எவை ?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "A, D ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    }
+]

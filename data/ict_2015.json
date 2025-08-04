@@ -1,0 +1,362 @@
+[
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#31",
+        "year": 2015,
+        "questionNum": 31,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 4,
+        "questionText": "பின்வருவனவற்றுள் பாய்ச்சல் கோட்டுப் படத்தின் நடத்தையை அமுலாக்கும் பைதன் செய்நிரல் எது ?",
+        "options": [
+            "x = int(input(\"Enter a value: \"))\nn = 1\nt = 0\nwhile n <= x:\n  y = int(input(\"Enter the next value: \"))\n  t = t + y\n  n = n + 1\nprint(t)",
+            "x = int(input(\"Enter a value: \"))\nn = 1\nt = 0\nwhile n <= x:\n  y = int(input(\"Enter the next value: \"))\n  t = t + y\nn = n + 1\nprint(t)",
+            "x = int(input(\"Enter a value: \"))\nn = 1\nt = 0\niterate = True\nwhile n != x:\n  y = int(input(\"Enter the next value: \"))\n  t = t + y\n  n = n + 1\nprint(t)",
+            "x = int(input(\"Enter a value: \"))\nn = 1\nt = 0\nwhile n != x:\n  y = int(input(\"Enter the next value: \"))\n  t = t + y\n  n = n + 1\nprint(t)",
+            "x = int(input(\"Enter a value: \"))\nn = 1\nt = 0\niterate = True\nwhile iterate:\n  y = int(input(\"Enter the next value: \"))\n  t = t + y\n  if n == x:\n    iterate = False\n  else:\n    n = n + 1\nprint(t)"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2015#32",
+        "year": 2015,
+        "questionNum": 32,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "வங்கியொன்றின் தன்னியக்கக் காசளிப்பு இயந்திரம் (ATM) குறித்த பின்வரும் கூற்றினைக் கருதுக: \"முறைமை மூலம் பணத்தை வழங்குவதற்கு 10 செக்கன்களுக்கு குறைவாகவே எடுக்க வேண்டும்.\" மேற்குறித்த கூற்று தொடர்பாக சரியானது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "இது அத்தியாவசியமான தொழில்சாரா தேவையாகும்.",
+            "இது விரும்பத்தக்க தொழில்சாரா தேவையாகும்.",
+            "இது அத்தியாவசியமான தொழில்சார்ந்த தேவையாகும்.",
+            "இது விரும்பத்தக்க தொழில்சார்ந்த தேவையாகும்.",
+            "இது முறைமைக்கான தேவையன்று."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2015#33",
+        "year": 2015,
+        "questionNum": 33,
+        "subTopic": "SYSTEM_ANALYSIS_AND_DESIGN_TOOLS",
+        "complexity": 2,
+        "questionText": "கீழே காட்டப்பட்ட தரவுப் பாய்ச்சல் வரைபடத்தைக் கருதுக. கட்டமைப்பு முறைமைப் பகுப்பாய்வும் வடிவமைப்பு முறையியலும் (SSADM) என்பதற்கமைய மேற்குறித்த வரைபடத்தில் A, B, C எனும் கூறுகள் முறையே வகைகுறிப்பன",
+        "options": [
+            "வெளியக உள்பொருள், செயன்முறை மற்றும் தரவு பாய்ச்சல்",
+            "செயன்முறை, உள்பொருள் மற்றும் தரவு சேகரிப்பு",
+            "பயனர், செயன்முறை மற்றும் இலத்திரனியல் தரவுத்தளத்தில் ஓர் அட்டவணை",
+            "பயனர், சார்பு மற்றும் இலத்திரனியல் தரவுத்தளத்தில் ஓர் அட்டவணை",
+            "வெளியக உள்பொருள், செயன்முறை மற்றும் தரவு சேகரிப்பு"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "SYSTEM_DEVELOPMENT",
+        "year#questionNum": "2015#34",
+        "year": 2015,
+        "questionNum": 34,
+        "subTopic": "SYSTEMS_CONCEPTS",
+        "complexity": 2,
+        "questionText": "முறைமையொன்றின் மூடியது, திறந்தது தொடர்பான பின்வரும் கூற்றுகளுள் சரியானது எது ?",
+        "options": [
+            "வங்கியொன்றின் தன்னியக்கக் காசளிப்பு இயந்திரம் ஒரு மூடிய தொகுதியாக வேண்டும்.",
+            "பொதுத் தேவைக் கணினி (General Purpose Computer) ஒரு திறந்த தொகுதியாகக் கருதப்படும்.",
+            "மனித குருதிச் சுற்றோட்டத்தொகுதி ஒரு திறந்த தொகுதியாகும்.",
+            "செல்லிடத் தொலைபேசி ஒரு மூடிய தொகுதியாகும்.",
+            "சூரியச் சக்தி உற்பத்தி முறைமை (Solar power generation system) ஒரு மூடிய தொகுதியாகும்."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2015#35",
+        "year": 2015,
+        "questionNum": 35,
+        "subTopic": "DATA_AND_INFORMATION",
+        "complexity": 3,
+        "questionText": "தகவலின் பொன் விதியை (Golden rule) விளக்கும் வரைபடம் பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "Graph 1",
+            "Graph 2",
+            "Graph 3",
+            "Graph 4",
+            "Graph 5"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#36",
+        "year": 2015,
+        "questionNum": 36,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 3,
+        "questionText": "(Q36-38) பின்வரும் கூற்றுகளைக் கருதுக:\nA - தரப்பட்ட ஒரு நேரத்தில் செய்நிரலாளர் (Programmer) ஒருவர் ஆகக்கூடியது ஒரு செயற்றிட்டத்தில் (Project) வேலை செய்யலாம்.\nB - செய்நிரலாளர் ஒருவர் தரப்பட்ட ஒரு நேரத்தில் ஒரு தனிச் சேவைப் பயனருக்கு (client) மட்டும் நியமிக்கப்பட்டிருப்பார்.\nC - ஒரு சேவைப் பயனர் ஒன்றுக்கு மேற்பட்ட செயற்றிட்டத்தைக் கொண்டிருக்கலாம்.\nமேற்குறித்த கூற்றுகளுள் எப்போதும் சரியானது/சரியானவை எது/எவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#37",
+        "year": 2015,
+        "questionNum": 37,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 3,
+        "questionText": "(Q36-38) தொடர்புகளின் பண்புகள் (attributes) தொடர்பாக பின்வருவனவற்றுள் சரியானது எது ?",
+        "options": [
+            "gender, NIC மற்றும் mobilePhoneNumber எனும் பண்புகள் programmer தொடர்பின் தேர்வுச் சாவிகளாகும் (candidate key).",
+            "startDate எனும் பண்பு, வருவித்த (derived) பண்பாகும்.",
+            "NIC எனும் பண்பு programmer தொடர்பின் மாற்றீட்டுச் சாவியாகக் (alternate key) கருதப்படும்.",
+            "startDate எனும் பண்பு workFor தொடர்பின் அந்நியச் சாவியாகும் (foreign key).",
+            "workFor தொடர்பின் ஒவ்வொரு பதிவுகளும் (record) projectId ஐப் பயன்படுத்தி தனித்துவமாக அடையாளங் காணப்படும்."
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#38",
+        "year": 2015,
+        "questionNum": 38,
+        "subTopic": "NORMALIZATION",
+        "complexity": 4,
+        "questionText": "(Q36-38) பின்வருவனவற்றுள் சரியானது எது ?",
+        "options": [
+            "எல்லாத் தொடர்புகளும் 3ஆம் செவ்வன் வடிவமாகும் (3rd Normal Form).",
+            "programmer தொடர்பைத் தவிர்ந்த ஏனையவை எல்லாம் 3ஆம் செவ்வன் வடிவமாகும்.",
+            "client தொடர்பைத் தவிர்ந்த ஏனையவை எல்லாம் 3ஆம் செவ்வன் வடிவமாகும்.",
+            "project தொடர்பைத் தவிர்ந்த ஏனையவை எல்லாம் 3ஆம் செவ்வன் வடிவமாகும்.",
+            "workFor தொடர்பைத் தவிர்ந்த ஏனையவை எல்லாம் 3ஆம் செவ்வன் வடிவமாகும்."
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#39",
+        "year": 2015,
+        "questionNum": 39,
+        "subTopic": "RELATIONAL_DATABASE_MODEL",
+        "complexity": 2,
+        "questionText": "பின்வரும் தரவுத் தளக் கட்டுப்படுத்திகளைக் (constraints) கருதுக: A - முதன்மைச் சாவி B - தரவு வகை C - அந்நியச் சாவி. தரவுத்தள அட்டவணையில் தரவை நகல் (duplicate) செய்வதற்குப் பயனருக்கு இடமளிக்காதது மேற்குறித்த கட்டுப்படுத்திகளுள் எது/எவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#40",
+        "year": 2015,
+        "questionNum": 40,
+        "subTopic": "STRUCTURED_QUERY_LANGUAGE_SQL_DML",
+        "complexity": 2,
+        "questionText": "(Q40-41) அட்டவணைகளைக் கருதுக. \"delete from item\" எனும் SQL கூற்று நிறைவேற்றுகையின்போது தரவுத்தள முகாமைத்துவ முறைமையில் பின்வரும் எச்செயல் நடைபெறும் ?",
+        "options": [
+            "அழிக்க (delete) வேண்டிய பதிவுகளைத் (records) தெரிவுசெய்யுமாறு பயனரைக் கேட்கும்.",
+            "'item' அட்டவணையிலுள்ள எல்லாப் பதிவுகளையும் அழிக்கும்.",
+            "'item' அட்டவணையை நீக்கும் (drop).",
+            "'item' அட்டவணையிலுள்ள எந்தவொரு பதிவையும் அழிக்காது.",
+            "சில வழுக்கள் இருப்பதால் SQL கூற்று நிறைவேற்றுகை அடையாது."
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATABASE_MANAGEMENT_SYSTEMS",
+        "year#questionNum": "2015#41",
+        "year": 2015,
+        "questionNum": 41,
+        "subTopic": "NORMALIZATION",
+        "complexity": 5,
+        "questionText": "(Q40-41) அட்டவணைகளைக் கருதுக. மேற்குறித்த அட்டவணைகள் தொடர்பாக சரியானது பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "எல்லா அட்டவணைகளும் 3 ஆம் செவ்வன் வடிவத்திலுள்ளன.",
+            "இவ்வட்டவணைகளுக்கு செம்மையாக்கல் பிரயோகிக்கப்பட்டுள்ளது.",
+            "இவ்வட்டவணைகளுக்கு ஒருங்கமைப்பு கட்டுப்படுத்திகள் (integrity constraints) சரியாகப் பிரயோகிக்கப்பட்டுள்ளன.",
+            "ஒருங்கமைப்பு கட்டுப்படுத்திகள் சரியாகப் பிரயோகிக்கப்பட்டுள்ளமைக்குச் சரியான சான்று இல்லை.",
+            "செம்மையாக்கலும் ஒருங்கமைப்புக் கட்டுப்படுத்திகளும் சரியான முறையில் பிரயோகிக்கப்பட்டுள்ளன."
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "DATA_REPRESENTATION",
+        "year#questionNum": "2015#42",
+        "year": 2015,
+        "questionNum": 42,
+        "subTopic": "REPRESENTING_INTEGERS",
+        "complexity": 2,
+        "questionText": "-6₁₀ இன் இரண்டின் நிரப்பு (two's complement) வடிவத்தை வகைகுறிப்பது எது ?",
+        "options": [
+            "11111010",
+            "00000110",
+            "11111001",
+            "01011111",
+            "00000101"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "NETWORKING_AND_COMMUNICATIONS",
+        "year#questionNum": "2015#43",
+        "year": 2015,
+        "questionNum": 43,
+        "subTopic": "NETWORKING_MODELS_OSI_TCP_IP",
+        "complexity": 3,
+        "questionText": "வலையமைப்பொன்றிலுள்ள இயந்திரம் X இலிருந்து இயந்திரம் Y இற்கு 1MB அளவுடைய கோவையொன்றை TCP தொடுப்பினூடாக வெற்றிகரமாக அனுப்பியது. இக்கோவையின் 10 ஆவது பைட் R எனும் வழிச்செயலியினூடாக (router) அனுப்பப்பட்டதை அவதானிக்கப்பட்டது. இத்தொடர்பாடல் தொடர்பான பின்வரும் கூற்றுகளைக் கருதுக:\nA - 10ஆவது பைட்டின் பின்னால் 10,000 ஆவது பைட் R எனும் வழிச்செயலியினூடாக சென்றிருக்க வேண்டும்.\nB - 10,000 ஆவது பைட் X இலிருந்து Y இற்கு 10 ஆவது பைட் சென்ற அதே பாதையிலேயே பயணித்திருக்க வேண்டும்.\nC - 10,000ஆவது பைட் வழிச்செயலி R இனூடாக சென்றிருக்கலாம் அல்லது செல்லாது விட்டிருக்கலாம்.\nமேற்குறித்த கூற்றுகளுள் சரியானது/சரியானவை எது/எவை ?",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "C மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#44",
+        "year": 2015,
+        "questionNum": 44,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 1,
+        "questionText": "(Q44-47) பைதன் குறிமுறை தொடர்பான கூற்றுகளைக் கருதுக:\nA - இது குறிப்புரையைக் (comment) கொண்டுள்ளது.\nB - இது சார்பின் வரைவிலக்கணத்தைக் கொண்டுள்ளது.\nC - இது எவ்வித தெரிவுகளையும் (selections) கொண்டிருக்கவில்லை.\nD - இது எவ்வித மீள்வருதல்களையும் (iterations) கொண்டிருக்கவில்லை.\nமேற்குறித்த கூற்றுகளுள் சரியானவை எவை ?",
+        "options": [
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்",
+            "B, D ஆகியன மாத்திரம்",
+            "C, D ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#45",
+        "year": 2015,
+        "questionNum": 45,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 1,
+        "questionText": "(Q44-47) இப்பைதன் குறிமுறையில் மாறி temp இன் தரவு வகை யாது ?",
+        "options": [
+            "Integer",
+            "Float",
+            "Boolean",
+            "Tuple",
+            "List"
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#46",
+        "year": 2015,
+        "questionNum": 46,
+        "subTopic": "PYTHON_FUNCTIONS_AND_MODULES",
+        "complexity": 2,
+        "questionText": "(Q44-47) \"f\" எனும் சார்பின் திரும்பற் (return) தரவு வகை யாது ?",
+        "options": [
+            "Integer",
+            "Float",
+            "Boolean",
+            "Tuple",
+            "List"
+        ],
+        "correctOptionIndex": 4
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#47",
+        "year": 2015,
+        "questionNum": 47,
+        "subTopic": "PYTHON_BASICS",
+        "complexity": 3,
+        "questionText": "(Q44-47) மேற்குறித்த பைதன் செய்நிரலின் வருவிளைவாக இருக்கக்கூடிய பெறுமானம்/பெறுமானங்கள் யாது/யாவை ?",
+        "options": [
+            "23 மற்றும் 45",
+            "45 மற்றும் -2",
+            "-2 மற்றும் 0",
+            "0",
+            "23"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "PROGRAMMING",
+        "year#questionNum": "2015#48",
+        "year": 2015,
+        "questionNum": 48,
+        "subTopic": "PYTHON_DATA_STRUCTURES",
+        "complexity": 2,
+        "questionText": "பின்வரும் பைதன் செய்நிரலைக் கருதுக:\ntemp = [23,45,2,-2,0]\nprint(temp[::2])\nமேற்குறித்த செய்நிரலின் வருவிளைவு யாது ?",
+        "options": [
+            "[23,45]",
+            "[-2,0]",
+            "[23,2,0]",
+            "[2,-2,0]",
+            "[23,45,2,-2,0]"
+        ],
+        "correctOptionIndex": 3
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2015#49",
+        "year": 2015,
+        "questionNum": 49,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 3,
+        "questionText": "மென்பொருள் முகவர்கள் (Software agents) தொடர்பாக பிழையான கூற்று பின்வருவனவற்றுள் எது ?",
+        "options": [
+            "அவர்கள் சில அளவு சுய அதிகாரத்தைக் (autonomy) காட்சிப்படுத்துவர்.",
+            "அவை எதிர்செயல் சார்ந்த முறைமைகளின் (reactive systems) உப தொடையாகும்.",
+            "இலக்குச் சார்ந்த (goal-directed) நடத்தைகளைக் காட்சிப்படுத்தும் திறனில் அவர்கள் செய்திறனுடையவர்கள் (proactive).",
+            "இலத்திரனியல் வர்த்தகம் (electronic commerce) அவர்களின் பிரதான பிரத்தியேக பிரயோகமாகும்.",
+            "பல்முகவர் (multi-agent) சூழலில் அவர்கள் எப்போதும் இணக்கமானவர்கள் (cooperative)."
+        ],
+        "correctOptionIndex": 5
+    },
+    {
+        "subject": "ICT",
+        "mainTopic": "FUNDAMENTALS_OF_ICT",
+        "year#questionNum": "2015#50",
+        "year": 2015,
+        "questionNum": 50,
+        "subTopic": "EMERGING_TECHNOLOGIES",
+        "complexity": 2,
+        "questionText": "பின்வருவனவற்றுள் எது/எவை செயற்கை நுண்மதித் தொழினுட்பத்திற்கு உதாரணமாகும் ?\nA - நரம்புப் பின்னல் (Neural Network)\nB - மரபணு வழிமுறை (Genetic Algorithms)\nC - எங்கும் நிறைந்த கணிணி (Ubiquitous Computing)",
+        "options": [
+            "A மாத்திரம்",
+            "B மாத்திரம்",
+            "A, B ஆகியன மாத்திரம்",
+            "A, C ஆகியன மாத்திரம்",
+            "B, C ஆகியன மாத்திரம்"
+        ],
+        "correctOptionIndex": 3
+    }
+]
